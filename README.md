@@ -8,7 +8,7 @@ Mientras escribo la electricidad que alimenta mi ordenador Frankenstein,
 mil veces operado y revivido, se va cortando y el pequeño SAI lanza
 pitidos. Todo ello contribuye con mi sensación de vivir en una nave
 espacial y me recuerda cuan precarias pueden resultar nuestras
-infraestructuras. Tal y como apuntaba Eleanor Saitta [1], lo más
+infraestructuras. Tal y como apuntaba Eleanor Saitta [^1], lo más
 probable es que sean estas las que nos estén fallando, o nos acaben por
 matar en primer lugar.
 
@@ -55,10 +55,8 @@ nuestra historia y memorias colectivas, re-situándonos para poder soñar
 y desear juntas la construcción aquí y ahora de nuestras
 infraestructuras propias de información, comunicación y expresión.
 
-[1]: Conference en el 27c3 **“Your infrastructure will kill you”,**
-https://www.youtube.com/watch?v=G-qU6\_Q\_GCc y entrevista Lelacoders
-
-(disponible en inglés: https://vimeo.com/66504687
+[^1]: Conference en el 27c3 **“Your infrastructure will kill you”,**
+https://www.youtube.com/watch?v=G-qU6\_Q\_GCc y entrevista Lelacoders (disponible en inglés: https://vimeo.com/66504687
 
 [2] https://es.wikipedia.org/wiki/Stuxnet
 
