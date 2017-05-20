@@ -1,6 +1,6 @@
 # Soberanía Tecnológica, vol. 1.
 
- * [Introducción](content/introducción.md)
+ * [Introducción](README.md)
  * [Prefacio](content/prefacio.md)
  * [La Soberanía Tecnológica](content/la-soberanía-tecnológica.md)
 
