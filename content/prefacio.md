@@ -159,19 +159,15 @@ Hell'.
 
 . . . . .
 
-[^1]: Como lo escribía recientemente el ensayista alemán Sascha Lobo «
-Sólo hay dos tipos de personas en Alemania: los que vieron que su vida
-cambió con Internet, y los que no se dieron cuenta de que su vida cambió
-con Internet. » http://bit.ly/1h1bDy1
+[^1] Como lo escribía recientemente el ensayista alemán Sascha Lobo “Sólo hay dos tipos de personas en Alemania: los que vieron que su vida cambió con Internet, y los que no se dieron cuenta de que su vida cambió con Internet.” http://bit.ly/1h1bDy1
 
-[^2]: Lo que el filósofo francés Paul Virilio llama “el accidente
-integral”.
+[^2] Lo que el filósofo francés Paul Virilio llama “el accidente integral”.
 
-[^3]: https://tinyurl.com/n8fcsbb
+[^3] https://tinyurl.com/n8fcsbb
 
-[^4]: http://es.wikipedia.org/wiki/Nerd
+[^4] http://es.wikipedia.org/wiki/Nerd
 
-[^5]:En los Estados Unidos, este concepto del 'right to be left alone',
+[^5] En los Estados Unidos, este concepto del 'right to be left alone',
 es concebido como el fundamento del derecho a la privacidad individual
 ('privacy') ver Warren & Brandeis, 1890.
 

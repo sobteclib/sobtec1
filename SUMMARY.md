@@ -1,4 +1,4 @@
-# Soberanía Tecnológica, vol. 1.
+# soberanía tecnológica, vol. 1.
 
  * [Introducción](README.md)
  * [Prefacio](content/prefacio.md)
