@@ -7,9 +7,9 @@
 ## Los pre-requisitos
 
  * [Sistemas operativos libres](content/sistemas-operativos-libres.md)
- * [Internet libre 43](content/internet-libre.md)
- * [Hardware libre 57](content/hardware-libre.md)
- * [Servidores autónomos 73](content/servidores-autónomos.md)
+ * [Internet libre](content/internet-libre.md)
+ * [Hardware libre](content/hardware-libre.md)
+ * [Servidores autónomos](content/servidores-autónomos.md)
 
 ## Campos de experimentación
 
@@ -28,6 +28,6 @@
 
 ## Agradecimientos + Contribuciones
 
- * [Contribuciones 200](content/contribuciones.md)
- * [Agradecimientos 200](content/agradecimientos.md)
+ * [Contribuciones](content/contribuciones.md)
+ * [Agradecimientos](content/agradecimientos.md)
 
