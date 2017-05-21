@@ -1,7 +1,7 @@
 # Descentralización y redes sociales 
 ## Hellekin 
 
-![](media/image7.png)
+![](media/descentralised-soc-net.png)
 
 Aún prácticamente desconocido por el público hace dos décadas, el término «red social» aparece hoy como una innovación de la **Web 2.0** [^1]. No obstante, se trata de un concepto muy anterior al fenómeno de concentración mercantil de los instrumentos que se dedican a las redes sociales. En 1933, el sociólogo Jacob Levy Moreno [^2] introdujo el sociograma, una representación gráfica de las relaciones interpersonales en las que cada nudo es un individuo y cada lazo una relación social.
 
