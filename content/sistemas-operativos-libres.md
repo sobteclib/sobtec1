@@ -283,7 +283,7 @@ el movimiento del software libre, como una alternativa al desarrollo y
 distribución del software no libre o privativo. Es también inventor del
 concepto de copyleft (aunque no del término), un método para licenciar
 software de tal forma que su uso y modificación permanezcan siempre
-libres y queden en la comunidad de usuarios y desarrolladores. *
+libres y queden en la comunidad de usuarios y desarrolladores.
 
 * * * 
 
