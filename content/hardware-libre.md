@@ -235,7 +235,7 @@ Estas tecnologías son las que mejor se adecuan a situaciones medioambientales, 
 
 [^55] http://cooperativa.cat/
 
-[^56] "In the Next Industrial Revolution, Atoms Are the New Bits",
+[^56] "In the Next Industrial Revolution, Atoms Are the New Bits."
 
 [^57] http://www.openhardware.net/
 
