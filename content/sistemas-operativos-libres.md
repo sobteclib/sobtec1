@@ -273,7 +273,7 @@ ordenadores sean libres.
 
 * * * 
 
-***Richard Matthew Stallman,** Programador estadounidense y fundador del
+**Richard Matthew Stallman,** Programador estadounidense y fundador del
 movimiento por el software libre en el mundo. Entre sus logros
 destacados como programador se incluye la realización del editor de
 texto GNU Emacs, el compilador GCC, y el depurador GDB, bajo la rúbrica
