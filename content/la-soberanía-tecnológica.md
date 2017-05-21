@@ -98,9 +98,9 @@ Todas debemos contribuir a defender un Internet libre. Un esfuerzo colectivo mej
 
 [^2]: http://viacampesina.org/en
 
-[^3]: https://es.wikipedia.org/wiki/Soberan%C3%ADa\_alimentaria
+[^3]: https://es.wikipedia.org/wiki/Soberan%C3%ADa_alimentaria
 
-[^4]: “En economía, negociación colectiva, psicología y ciencias políticas, se llama **polizones** a aquellos individuos o entes que consumen más que una parte equitativa de un recurso, o no afrontan una parte justa del costo de su producción. El **problema del polizón** (del inglés **free rider problem**) se ocupa de cómo hacer para evitar que alguien pueda ser un polizón, o por lo menos limitar sus efectos negativos” Fuente: https://es.wikipedia.org/wiki/Problema\_del\_polizo
+[^4]: “En economía, negociación colectiva, psicología y ciencias políticas, se llama **polizones** a aquellos individuos o entes que consumen más que una parte equitativa de un recurso, o no afrontan una parte justa del costo de su producción. El **problema del polizón** (del inglés **free rider problem**) se ocupa de cómo hacer para evitar que alguien pueda ser un polizón, o por lo menos limitar sus efectos negativos” Fuente: https://es.wikipedia.org/wiki/Problema_del_polizo
 
 [^5]: “Freedom and rights? You have to sweat blood for them! On the internet, too.” Fuente: http://www.infoaut.org/index.php/english/item/8937-freedom-and-rights?-you-have-to-sweat-blood-for-them-on-the-internet-too-infoaut-interviews-autistici/inventati
 
@@ -114,10 +114,9 @@ Todas debemos contribuir a defender un Internet libre. Un esfuerzo colectivo mej
 
 [^10]: http://bureaudetudes.org
 
-[^11]:
-http://tiqqunim.blogspot.com.es/2013/01/la-hipotesis-cibernetica.html y https://n-1.cc/blog/view/69974/reclaim-the-networks-soberana-tecnolgica-para-redes-sociales
+[^11]: http://tiqqunim.blogspot.com.es/2013/01/la-hipotesis-cibernetica.html y https://n-1.cc/blog/view/69974/reclaim-the-networks-soberana-tecnolgica-para-redes-sociales
 
-[^12]: «*Soy parte de una microempresa, cooperativa de trabajo asociado, dedicada a producir la web y con software libre. Soy un nodo que comunica muchas redes, sin que pueda considerar ninguna de ellas como un espacio totalmente propio: mujer no feminista, cooperativista no convencida, empresaria sin capital, trabajadora de baja productividad, programadora que no elogia su lenguaje...*» http://www.espaienblanc.net/IMG/pdf/Que\_piensa\_el\_mercado-2.pdf
+[^12]: «*Soy parte de una microempresa, cooperativa de trabajo asociado, dedicada a producir la web y con software libre. Soy un nodo que comunica muchas redes, sin que pueda considerar ninguna de ellas como un espacio totalmente propio: mujer no feminista, cooperativista no convencida, empresaria sin capital, trabajadora de baja productividad, programadora que no elogia su lenguaje...*» http://www.espaienblanc.net/IMG/pdf/Que_piensa_el_mercado-2.pdf
 
 [^13]: El mundo de lo libre y de lo abierto se ha complicado mucho. Vemos ahora amplios sectores de la industria, las finanzas, y los gobiernos entrando en el área de desarrollo de tecnologías y plataformas abiertas (open innovation, open knowledge, open educational ressources, open todo).
 
@@ -125,16 +124,14 @@ http://tiqqunim.blogspot.com.es/2013/01/la-hipotesis-cibernetica.html y https://
 
 [^15]: Errores informáticos o comportamientos no deseados/esperados de una aplicación
 
-[^16]: http://www.nodo50.org/mujeresred/feminismos-jo\_freeman.html
+[^16]: http://www.nodo50.org/mujeresred/feminismos-jo_freeman.html
 
 [^17]: Como explican las compañeras de la red social N-1: «N-1 es una noción utilizada por Deleuze y Guattari en el [libro Mil Mesetas](http://www.con-versiones.com/nota0475.htm) en Introducción al Rizoma: o la multiplicidad no reducible al Uno. Es “la resta que permite multiplicar”. Es el espacio de menos, que no suma dimensiones a un conjunto, sino que permite, a través del desarrollo de una interfaz-herramienta compartida, componer y recombinar en un común abierto. En términos mas simples, se trata de la idea de que ya no necesitamos unas estructuras verticales y jerárquicas que conlleven la constitución y adopción por todxs de una ideología a sentido único. Podemos sumar todas las partes, cada una de las subjetividades actuantes y deseantes, y aun así obtener un conjunto que es mas que cada una de sus partes por separado. Dentro de N-1 aprendemos a sumar la variedad y la heterogeneidad de cada unx sin obligarlx a doblegarse ante ninguna verdad única o inequívoca. Además el uso de la red, de la distribución y de la colaboración permite reducir el trabajo total, ya que cuando unx hace una cosa y la comparte con otrxs, esas otrxs pueden hacer otras cosas partiendo de lo que se compartió antes. Así cada vez cuesta menos trabajo hacer y compartir cosas interesantes. Se crea un meme y se crea algo de valor de uso de forma cada vez más sencilla, se estimula que cada una acceda y encuentre los recursos que necesita para llevar a cabo sus acciones de transformación social y/o política. Cada vez que alguien hace algo, con un esfuerzo N, la próxima persona que hace algo tiene que hacer N-1 en esfuerzo para hacer lo mismo.»
 
-[^18]:
-http://www.viruseditorial.net/pdf/anarquismo\_social\_o\_anarquismo\_personal.pdf
+[^18]: http://www.viruseditorial.net/pdf/anarquismo_social_o_anarquismo_personal.pdf
 
-[^19]: https://es.wikipedia.org/wiki/La\_catedral\_y\_el\_bazar
+[^19]: https://es.wikipedia.org/wiki/La_catedral_y_el_bazar
 
 [^20]: Por ejemplo Guifi.net empezó impulsado por un grupo de personas que no conseguían acceder a un Internet de buena calidad por su ubicación geográfica considerada como “remota” por las ISP comerciales, o la gente de la Tele de *Okupem les ones* quienes querían contar con un canal de televisión no comercial y que reflejara la actualidad de los movimientos sociales .
 
-[^21]:
-http://www.ain23.com/topy.net/kiaosfera/contracultura/aaa/aaa_intro.htm
+[^21]: http://www.ain23.com/topy.net/kiaosfera/contracultura/aaa/aaa_intro.htm
