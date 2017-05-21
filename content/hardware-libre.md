@@ -13,7 +13,7 @@ En el 2002, el ***“Challenge to Silicon Valley”*** [^4] lanzando por Kofi An
 
 No obstante, hoy en día el panorama de la producción de hardware sigue mayormente marcado por las limitaciones impuestas por las patentes industriales y la propiedad industrial [^5] . Estas son el conjunto de derechos que posee una persona física o jurídica sobre una invención. Otorgan dos tipos de derechos: el derecho a utilizar la invención, diseño o signo distintivo, y el derecho a prohibir que un tercero lo haga. El derecho de prohibir **(***Ius prohibendi***)** permite al titular del derecho solicitar el pago de una licencia, llamada regalía o *royalty*, que posee límites temporales y territoriales.
 
-#### Hardware Libre: ¿Hasta donde y de que manera? 
+### Hardware Libre: ¿Hasta donde y de que manera? 
 
 Crear en hardware libre requiere casi todos los procesos: un diseño, un proceso de manufactura, unas materias primas, una distribución, un modelo de negocio, un mantenimiento, una implementación, una replicabilidad, una fuerza de trabajo, un acceso a la documentación y a la técnica de fabricación. Partiendo de este contexto, si intentamos definir lo que es hardware libre tenemos que ver como las etapas de producción sumadas a los tipos de resultados tangibles posibles, pueden ser interpretados por licencias libres.
 
@@ -41,7 +41,7 @@ Las licencias específicas para hardware libre todavía se encuentran en desarro
 
 Existen grupos que desarrollan nuevas licencias como la Simputer GPL [^21], Freedom CPU [^22], OpenIPCores [^23], la OHGPL [^24], The Open NDA [^25], la OpenPPC [^26] (basada en la Apple Public Source License) y la Hardware Design Public License [^27] del grupo Open Collector [^28]. Destacamos entre ellas la Licencia Hardware del Cern OHL [^29], escrita originalmente para diseños del CERN (Acelerador de Partículas) alojados en el Repositorio Open Hardware.
 
-#### Modelos de negocio y sostenibilidad derivadas del hardware libre 
+### Modelos de negocio y sostenibilidad derivadas del hardware libre 
 
 Según Wired, la biblia del tecnopositivismo, el Open Hardware se está convirtiendo en una *commodity*, o sea una mercancía. Aunque no exista aún un modelo claro de negocio, se sobreentiende que puede atender nichos de mercado que hasta ahora no han sido cubiertos, aplicando la lógica de la *long tail* o larga cola de distribución de bienes y servicios (al estilo Amazon) a la dimensión casi infinita del hardware. Respecto a la comercialización, el diseño de hardware libre puede ser implementado por una empresa para posteriormente comercializar con él, la única premisa es mantener el diseño libre, pero no las otras partes, fabricación, materias primas, manufactura.
 
@@ -57,7 +57,7 @@ Veamos ahora qué problemáticas se dan en relación a la sostenibilidad del har
 
 Existe además una dependencia tecnológica por los componentes importados que se puede traducir por: ¿Están disponibles los chips?. Se da por lo tanto modelos de exclusión, ya que no cualquiera puede realizar hardware, debido a las implicaciones que con lleva crear toda la infraestructura necesaria. La persona que quiera usar el hardware que otra haya diseñado, lo tiene que fabricar, comprando los componentes necesarios y reconstruyendo el diseño. Todo esto tiene un coste. Como resultado lógico el conocimiento lo poseen pocas empresas, y estas lo retienen celosamente para que las personas sigan siendo simples consumidoras del producto.
 
-#### Modelos de producción diferenciados 
+### Modelos de producción diferenciados 
 
 Observamos dos modelos convencionales de producción/ distribución. Por una parte, el modelo basado en la manufactura centralizada, con un mismo producto disponible en muchos lugares, permitiendo aumentar el precio al consumidor. Por otra parte, un sistema de manufactura distribuido basado en un número de grupos pequeños independientes que producen el mismo diseño para distribuirlo localmente. Para volverse sostenible en ambos modelos, las iniciativas de hardware libre necesitan plataformas que aglutinen y faciliten el contacto entre los medios de producción y las personas que quieran crear.
 
@@ -73,7 +73,7 @@ El movimiento Shanzai representaba en 2009 el 20% de los teléfonos móviles ven
 
 Sin embargo las condiciones de trabajo sobretodo en la creación de componentes eléctricos son deplorables y suponen un riesgo físico a la salud [^58], así como no pueden ser tildadas de buscar la justicia social para sus plantillas de trabajadoras. La Open Source Hardware Work Licence (todavía por escribir) debe integrar como requisito unas condiciones de trabajo respetuosas con las personas, sus libertades y su entorno.
 
-#### Conclusiones 
+### Conclusiones 
 
 Usar y crear hardware libre protege y defiende la soberanía tecnológica porque permite independencia tecnológica para las personas evitando que ninguna dependa de otra como proveedora de recursos necesarios para su desarrollo. La reutilización y adaptación de diseños permite innovar y mejorar, ahorrar costes y tiempos de diseños, facilitar la transferencia del conocimiento y evitar que se acentúe el analfabetismo digital por motivos económicos.
 
@@ -97,9 +97,9 @@ Estas tecnologías son las que mejor se adecuan a situaciones medioambientales, 
 
 -   **[Mi conocimiento es plástico](https://cooperativa.ecoxarxes.cat/file/view/247274/esbozo-articulos-plastico-impresoras3d)** por Elle Flâne
 
--   [Opinión de Richard Stallman sobre el hardware libre] http://features.linuxtoday.com/news_story.php3?ltsn=1999-06-22-005-05-NW-LF
+-   [Opinión de Richard Stallman sobre el hardware libre]http://features.linuxtoday.com/news_story.php3?ltsn=1999-06-22-005-05-NW-LF
 
--   [Free Hardware Design - Past, Present, Future] http://www.opencollector.org/Whyfree/freedesign.html) por Graham Seaman
+-   [Free Hardware Design - Past, Present, Future](http://www.opencollector.org/Whyfree/freedesign.html) por Graham Seaman
 
 -   [The economics of Free Core development](http://www.free-ip.com/Economics.htm) por David Kessner
 
@@ -121,7 +121,7 @@ Estas tecnologías son las que mejor se adecuan a situaciones medioambientales, 
 
 -   [Wikipedias versus blogs: La creación colectiva y el acceso universal al conocimiento](http://www.bubok.com/libros/172033/Wikipedias-versus-blogs) por Xavier Casas Canals
 
--   [Cultura libre] http://meta.wikimedia.org/wiki/w:es:Cultura_libre_(libro) por Lawrence Lessig
+-   [Cultura libre](http://meta.wikimedia.org/wiki/w:es:Cultura_libre_(libro)) por Lawrence Lessig
 
 -   “La industria de la música en la era digital: Participación de los consumidores en la creación de valor.” por D. Chaney
 
