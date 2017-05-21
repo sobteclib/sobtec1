@@ -1,4 +1,4 @@
-# Exploración espacial Una odisea autogestionada 
+# Exploración espacial: Una odisea autogestionada
 ## Marta G. Franco & Spideralex 
 
 ![](media/satellites.png)
@@ -29,7 +29,7 @@ Así mismo, mientras la comunidad hacker se prepara puede que te interese descub
 
 **Marta G. Franco,** periodista y activista. Trabaja y milita en el periódico Diagonal. Participa en iniciativas hacktivistas, digitales o analógicas, relacionadas con comunicación, feminismos, cultura libre y autonomía.
 
-**Spideralex,** hacktivista, cyberfeminista y extraña avatar. Vive en el internet e intenta siempre que puede dar soporte a las iniciativas de soberanía tecnológica desarrollando investigación activista útil. **spideralex[at]riseup[dot]org**
+**Spideralex,** hacktivista, cyberfeminista y extraña avatar. Vive en el internet e intenta siempre que puede dar soporte a las iniciativas de soberanía tecnológica desarrollando investigación activista útil. *spideralex[at]riseup[dot]org*
 
 * * * 
 
