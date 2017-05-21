@@ -81,7 +81,7 @@ El tipo de materiales que se escanearán y documentarán primero así como las m
 
 * * * 
 
-**Nenad Romić (aka Marcell Mars),** defensor del software libre, explorador cultural e instigador social. Marcell es uno de los fundadores del Instituto Multimedia-mi2 y net.cultura mama club en Zagreb. Inició la editorial GNU GPL y el label EGOBOO.bits etiquetas así como el proyecto Biblioteca Pública Memory of the world. También contribuyó a una serie de reuniones informales periódicas para que los entusiastas de mama pudieran intercambiar conocimientos, así como los encuentros acerca de satélites g33koskop, así como los encuentros "Nothing Will Happen" y "The Fair of Mean Equipment". *http://ki.ber.kom.uni.st ki.ber [at] kom [dot] uni [dot] st*
+**Nenad Romić (aka Marcell Mars),** defensor del software libre, explorador cultural e instigador social. Marcell es uno de los fundadores del Instituto Multimedia-mi2 y net.cultura mama club en Zagreb. Inició la editorial GNU GPL y el label EGOBOO.bits etiquetas así como el proyecto Biblioteca Pública Memory of the world. También contribuyó a una serie de reuniones informales periódicas para que los entusiastas de mama pudieran intercambiar conocimientos, así como los encuentros acerca de satélites g33koskop, así como los encuentros "Nothing Will Happen" y "The Fair of Mean Equipment". *http://ki.ber.kom.uni.st ki.ber[at]kom[dot]uni[dot]st*
 
 * * * 
 

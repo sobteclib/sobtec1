@@ -1,8 +1,8 @@
 # Prefacio: La Soberanía Tecnológica, una necesidad, un desafío
 
-##  Patrice Riemens 
+## Patrice Riemens 
 
-Quién aún no ha entendido, después de Snowden y sus revelaciones, que nuestro querido ciberespacio ya no está en manos de sus usuarias, y esto desafortunadamente desde hace mucho tiempo, sino que constituye una zona muy vigilada y de mucho riesgo. La usuaria, aparentemente libre en sus movimientos y dotada de incontables facilidades -a menudo provistas «gratuitamente»- se ha convertido de hecho en un sujeto cautivo que es, al mismo tiempo, rehén, conejillo de indias y sospechoso.
+Quién aún no ha entendido, después de Snowden y sus revelaciones, que nuestro querido ciberespacio ya no está en manos de sus usuarias, y esto desafortunadamente desde hace mucho tiempo, sino que constituye una zona muy vigilada y de mucho riesgo. La usuaria, aparentemente libre en sus movimientos y dotada de incontables facilidades - a menudo provistas «gratuitamente» - se ha convertido de hecho en un sujeto cautivo que es, al mismo tiempo, rehén, conejillo de indias y sospechoso.
 
 El dominio de Internet por los poderes estatales o comerciales, o, muy a menudo, una asociación de los dos, parece total, y lo es efectivamente donde los vectores y las plataformas son 'propietarios', es decir cuando están en posesión de actores particulares quienes pondrán por delante sus intereses propios, con frecuencia a costa de los intereses de sus usuarias. Mientras que el impacto que tiene Internet en nuestras vidas se hace cada vez más fuerte [^1], una toma de conciencia acerca de cómo, y sobre todo para quién, funciona Internet, se vuelve cada vez más urgente.
 

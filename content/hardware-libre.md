@@ -87,7 +87,7 @@ Estas tecnologías son las que mejor se adecuan a situaciones medioambientales, 
 
 * * * 
 
-**Elle Flâne,** Inventora, poeta, roadmanager, fantasiadora, hiper-agitadora, comisaria arte, ingeniera de Materiales, ingeniera Industrial, ingeniera Técnica en Diseño Industrial. Estuvo cursando talleres en la ESA European Space Agency. **elle_flane[at]riseup[dot]net**
+**Elle Flâne,** Inventora, poeta, roadmanager, fantasiadora, hiper-agitadora, comisaria arte, ingeniera de Materiales, ingeniera Industrial, ingeniera Técnica en Diseño Industrial. Estuvo cursando talleres en la ESA European Space Agency. *elle_flane [at] riseup [dot] net*
 
 * * * 
 

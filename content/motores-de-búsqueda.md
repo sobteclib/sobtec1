@@ -81,7 +81,7 @@ Hay muchos experimentos autogestionados ya funcionando, basta con abrir bien los
 
 * * * 
 
-**Ippolita,** grupo de investigación interdisciplinar que investiga las “tecnologías de dominación” y sus efectos sociales practicando la escritura convivencia. Entre sus ensayos copyleft se encuentra “Abierto no es libre” (2005), “El lado oscuro de google” (2007), “El el acuario de Facebook. El irresistible ascenso del anarco capitalismo” (2012), “La red es libre y democrática. FALSO!” (en curso de publicación). Ippolita también propone formaciones de auto-defensa digital y de validación de las fuentes. *info [at] ippolita [dot] net http://ippolita.net*
+**Ippolita,** grupo de investigación interdisciplinar que investiga las “tecnologías de dominación” y sus efectos sociales practicando la escritura convivencia. Entre sus ensayos copyleft se encuentra “Abierto no es libre” (2005), “El lado oscuro de google” (2007), “El el acuario de Facebook. El irresistible ascenso del anarco capitalismo” (2012), “La red es libre y democrática. FALSO!” (en curso de publicación). Ippolita también propone formaciones de auto-defensa digital y de validación de las fuentes. *http://ippolita.net info[at]ippolita[dot]net*
 
 * * * 
 
