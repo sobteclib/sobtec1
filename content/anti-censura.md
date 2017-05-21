@@ -93,7 +93,7 @@ Proteger su vida privada, la de sus contactos, la de sus amigos, no se improvisa
 
 * * * 
 
-***Julie Gommes,** “analista en cyberseguridad” y periodista que codea y habla con su ordenador con lineas de comando. Ha vivido y trabado en Medio oriente y en Asia del sud este. Participa de varios colectivos para defender a neutralidad de la red y luchar contra la sociedad de vigilancia. Su blog en francés:* http://seteici.ondule.fr *jujusete[at]riseup[point]net PGPD7484F3C y @jujusete*
+**Julie Gommes,** “analista en cyberseguridad” y periodista que codea y habla con su ordenador con lineas de comando. Ha vivido y trabado en Medio oriente y en Asia del sud este. Participa de varios colectivos para defender a neutralidad de la red y luchar contra la sociedad de vigilancia. Su blog en francés: http://seteici.ondule.fr *jujusete[at]riseup[point]net PGPD7484F3C y @jujusete*
 
 * * * 
 
