@@ -25,6 +25,7 @@
  * [Hacklabs](content/hacklabs-y-hackerspaces.md)
  * [Fablabs](content/diy-makers-fablabs.md)
  * [Biolabs](content/biolabs.md)
+ * [Calafou](content/calafou.md)
 
 ## Agradecimientos + Contribuciones
 
