@@ -13,10 +13,13 @@ En mi propia comunidad, mi lugar en este mundo cambiante, las cosas saltan por l
 Quizás este dossier no aporte soluciones a estos temas más bien macros, pero sí plantea maneras alternativas de entender la cuestión tecnológica. Se trata de la parte donde se reconstruyen las cosas a nuestra manera ya que, como apuntaba Gibson, “la calle siempre encuentra sus propios usos a las cosas” [^4]. La soberanía tecnológica nos remite a la contribución que hacemos cada una de nosotras al desarrollo de tecnologías, rescatando nuestros imaginarios radicales, recuperando nuestra historia y memorias colectivas, re-situándonos para poder soñar y desear juntas la construcción aquí y ahora de nuestras infraestructuras propias de información, comunicación y expresión.
 
 [^1]: Conference en el 27C3 **“Your infrastructure will kill you”,**
-https://www.youtube.com/watch?v=G-qU6\_Q\_GCc y entrevista Lelacoders (disponible en inglés: https://vimeo.com/66504687
+https://www.youtube.com/watch?v=G-qU6\_Q\_GCc y entrevista Lelacoders, disponible en inglés: https://vimeo.com/66504687
 
 [^2]: https://es.wikipedia.org/wiki/Stuxnet
 
 [^3]: Mike Davis, Planet of Slums, 2007
 
 [^4]: [Burning Chrome](http://en.wikipedia.org/wiki/Burning_Chrome) de William Gibson
+
+<p align="center"><img src="content/media/end0.png"></p>
+

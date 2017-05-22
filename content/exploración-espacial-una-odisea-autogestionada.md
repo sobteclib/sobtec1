@@ -71,3 +71,5 @@ Así mismo, mientras la comunidad hacker se prepara puede que te interese descub
 
 [^16] http://aerospaceresearch.net/constellation
 
+
+<p align="center"><img src="media/end0.png"></p>

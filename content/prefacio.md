@@ -63,3 +63,5 @@ Así entenderemos que existen numerosos límites con los que tienen que lidiar l
 Fuente: http://en.wikipedia.org/wiki/The\_Right\_to\_Privacy\_%28article%29. Pero cuidado, esta soberanía en su propia 'esfera de vida', también teorizada casi al mismo tiempo en los Países Bajos por el político calvinista Abraham Kuyper, tuvo un feo pequeño avatar: el Apartheid sudafricano...
 
 [^6]: http://fr.wikipedia.org/wiki/QQOQCCP
+
+<p align="center"><img src="media/end0.png"></p>

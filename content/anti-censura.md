@@ -13,7 +13,7 @@ Tanto más cuando este esfuerzo de transparencia no parece deber aplicarse a nue
 
 La percepción de seguridad depende de cómo nos conectamos, navegamos e intercambiamos, pero también del tipo de tecnologías que usamos y con quién las usamos. Los sistemas operativos, el tipo de hardware, los XISP, los servidores, los routers cuentan. Nuestras finalidades sociales y políticas también influyen en el tipo de seguridad que necesitaremos y de cómo intentaremos detectar, tapar o exponer nuestra huella. A veces buscaremos el anonimato, la autentificación, la prueba de integridad de las comunicaciones, cifrar los contenidos, y otras veces buscaremos todas estas dimensiones juntas.
 
-Sin embargo, la paradoja de la **privacidad** nos enseña que las personas generalmente tienen tendencia a afirmar que se preocupan por su intimidad, pero cuando se les pregunta qué medidas toman para protegerla, uno se da rápidamente cuenta de que no toman ninguna o casi ninguna. Al principio de Internet, existía esta idea que podíamos estar allí y adoptar cualquier identidad [^2] tal y como lo dibujó Steiner en 1993: «**On the Internet, nobody knows you're a dog»** [^3]. A día de hoy esta época de Internet ha pasado. Ahora nos etiquetan, nos perfilan, nos monitorizan, nos analizan.
+Sin embargo, la paradoja de la **privacidad** nos enseña que las personas generalmente tienen tendencia a afirmar que se preocupan por su intimidad, pero cuando se les pregunta qué medidas toman para protegerla, uno se da rápidamente cuenta de que no toman ninguna o casi ninguna. Al principio de Internet, existía esta idea que podíamos estar allí y adoptar cualquier identidad [^2] tal y como lo dibujó Steiner en 1993: **On the Internet, nobody knows you're a dog»** [^3]. A día de hoy esta época de Internet ha pasado. Ahora nos etiquetan, nos perfilan, nos monitorizan, nos analizan.
 
 Somos lo que dice nuestro grafo social [^4] de nosotros, y aquellos que no desarrollan prácticas para defenderse se encuentran totalmente expuestos. Desnudos en Internet: «Sí, pero bueno... la seguridad, es difícil».
 
@@ -114,3 +114,5 @@ Proteger su vida privada, la de sus contactos, la de sus amigos, no se improvisa
 [^8] http://www.truecrypt.org
 
 [^9] https://www.torproject.org
+
+<p align="center"><img src="media/end0.png"></p>

@@ -17,3 +17,5 @@ Contribuciones
 
 **Revisión castellano y catalán:** Aarón Fortuño
 
+
+<p align="center"><img src="media/end0.png"></p>

@@ -89,3 +89,5 @@ Un servidor online es hoy en día una fábrica de valor digital, que cuesta algo
 
 [^9] En este enlace se encuentra una lista con varios de ellos: https://www.riseup.net/radical-servers
 
+
+<p align="center"><img src="media/end0.png"></p>

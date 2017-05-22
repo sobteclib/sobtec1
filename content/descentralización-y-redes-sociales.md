@@ -187,3 +187,5 @@ El porvenir de las redes sociales empieza en su base: es decir, nosotros mismos.
 
 [^49] StartPage, Ixquick y DuckDuckGo han multiplicado por cinco la afluencia a sus motores de búsqueda después publicarse en diciembre de 2013 diferentes artículos en Der Spiegel y The Guardian.
 
+
+<p align="center"><img src="media/end0.png"></p>

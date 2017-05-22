@@ -140,3 +140,5 @@ Nos parece, entonces, que para cumplir con sus promesas, el Fablab debe consider
 [^17] Alain Besnier - *L'homme simplifié,* Fayard
 
 [^18] Marshall McLuhan – Pour Comprendre les médias - 1968
+
+<p align="center"><img src="media/end0.png"></p>

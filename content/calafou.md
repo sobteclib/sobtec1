@@ -20,3 +20,5 @@ Por todo ello queremos pedirte a ti que ya nos conoces, a ti que has tenido la o
 [**https://cooperativa.ecoxarxes.cat/g/calafou_colonia_ecoindustrial_postcapitalista**](https://cooperativa.ecoxarxes.cat/g/calafou_colonia_ecoindustrial_postcapitalista)
 
 *calafou@cooperativaintegral.cat*
+
+<p align="center"><img src="media/end0.png"></p>

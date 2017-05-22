@@ -122,3 +122,5 @@ Hay muchos experimentos autogestionados ya funcionando, basta con abrir bien los
 
 
 
+
+<p align="center"><img src="media/end0.png"></p>

@@ -292,3 +292,5 @@ libres y queden en la comunidad de usuarios y desarrolladores.
 [^1]: En inglés, el término «free» puede significar «libre» o «gratuito».
 
 [^2]: Adaptación de «**iThings**», término ideado para referirse de manera lúdica a artefactos tales como **iPod, iPad, iPhone** y similares.
+
+<p align="center"><img src="media/end0.png"></p>

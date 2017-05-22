@@ -156,3 +156,5 @@ Entre lo que está en juego a nivel internacional y las desigualdades locales, e
 [^34] http://daviddarts.com/piratebox/?id=PirateBox
 
 [^35] http://wiki.labomedia.org/index.php/PirateBox#Projets_et_d.C3.A9tournements_de_la_PirateBox
+
+<p align="center"><img src="media/end0.png"></p>

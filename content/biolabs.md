@@ -98,3 +98,5 @@ Nuestra filosofía es radicalmente abierta e inclusiva, comparte y decodifica la
 [^17] http://www.calafou.org
 
 [^18] http://pechblenda.hotglue.me
+
+<p align="center"><img src="media/end0.png"></p>

@@ -116,3 +116,5 @@ El tipo de materiales que se escanearán y documentarán primero así como las m
 [^15] http://www.memoryoftheworld.org/es/blog/2012/11/27/antes-y-despues-de-calibre
 
 [^16] http://www.memoryoftheworld.org/es/blog/2012/10/28/our-beloved-bookscanner/
+
+<p align="center"><img src="media/end0.png"></p>

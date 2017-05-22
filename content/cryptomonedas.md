@@ -59,7 +59,7 @@ Sólo resumiremos de forma escueta las principales posiciones en torno a la "cal
 
 #### El problema de la emisión 
 
-Aunque es necesario compensar a los mineros por la seguridad que proporcionan, en el futuro debería ser suficiente con las comisiones por transacción. En general la distribución inicial de las criptomonedas es un asunto controvertido sobre el que seguro se seguirá experimentando, y que nos hace también reflexionar sobre la creación del propio dinero oficial. Hay quien piensa [^30] que no deberían llevarla a cabo los bancos comerciales y centrales, sino que el señoreaje [^31] debería recibirlo el estado.
+Aunque es necesario compensar a los mineros por la seguridad que proporcionan, en el futuro debería ser suficiente con las comisiones por transacción. En general la distribución inicial de las criptomonedas es un asunto controvertido sobre el que seguro se seguirá experimentando, y que nos hace tambin reflexionar sobre la creación del propio dinero oficial. Hay quien piensa [^30] que no deberían llevarla a cabo los bancos comerciales y centrales, sino que el señoreaje [^31] debería recibirlo el estado.
 
 #### Hardware especializado 
 
@@ -73,7 +73,7 @@ Las pools son un grupo organizado de mineros que apuestan juntos para repartirse
 
 #### Privacidad 
 
-Se leen muchos comentarios en Internet sobre cómo la supuesta anonimidad de Bitcoin la convierte en la moneda preferida por los criminales. Pero la realidad es que a lo largo de toda su historia, todas las transacciones han sido públicas y cualquiera puede descargar la cadena de bloques para verlas alejándola del ideal tipo de moneda anónima. Aunque tampoco es un sistema diseñado para la vigilancia orwelliana de las finanzas, ya que cualquiera puede crear cualquier número de claves donde recibir pagos y no tener su nombre directamente asociado a las direcciones (seudónimos). A menos, por supuesto, que el dueño se lo diga a las personas que quiera o las publique en Internet (o si sus conexiones en Internet están siendo vigiladas [^34] ). Algunos proyectos como coinjoin [^35] o darkwallet [^36] están orientados a mejorar la privacidad de los usuarios sin modificar el protocolo básico de Bitcoin.
+Se leen muchos comentarios en Internet sobre cómo la supuesta anonimidad de Bitcoin la convierte en la moneda preferida por los criminales. Pero la realidad es que a lo largo de toda su historia, todas las transacciones han sido públicas y cualquiera puede descargar la cadena de bloques para verlas alejándola del ideal tipo de moneda anónima. Aunque tampoco es un sistema diseñado para la vigilancia orwelliana de las finanzas, ya que cualquiera puede crear cualquier número de claves donde recibir pagos y no tener su nombre directamente asociado a las direcciones (seudnimos). A menos, por supuesto, que el dueño se lo diga a las personas que quiera o las publique en Internet (o si sus conexiones en Internet están siendo vigiladas [^34] ). Algunos proyectos como coinjoin [^35] o darkwallet [^36] están orientados a mejorar la privacidad de los usuarios sin modificar el protocolo básico de Bitcoin.
 
 Otros proyectos como zerocoin [^37] optan por modificarlo (crear una nueva criptomoneda) para ofrecer más anonimidad, aunque ello pueda suponer menos eficiencia u otros efectos no deseados.
 
@@ -174,3 +174,5 @@ Sea cual sea el destino de cada moneda independientemente, la tecnología ofrece
 [^40] http://en.wikipedia.org/wiki/BitTorrent
 
 [^41] https://fr.wikipedia.org/wiki/Business_to_business_%28Internet%29
+
+<p align="center"><img src="media/end0.png"></p>
