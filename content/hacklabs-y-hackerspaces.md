@@ -1,9 +1,9 @@
 # Hacklabs y Hackerspaces: Talleres de máquinas compartidas 
 ## Maxigas 
 
-### Definiciones 
-
 ![](media/hacklabs.png)
+
+### Definiciones 
 
 ¿Puedes imaginar ingenieros profesionales y aspirantes construyendo su propio Disneylandia? Esto ocurre en la mayoría de las capitales europeas dónde se encuentran **Hacklabs[^1]** y **Hackerspaces[^2].** Son talleres de máquinas compartidas autogestionados por hackers y para hackers. Son salas o edificios donde la gente a las que les interesan las tecnologías puedan juntarse para socializarse, crear y compartir conocimientos; para desarrollar proyectos individuales o en grupos. Todo ello se complementa con encuentros y quedadas concretas. Así se construye un espacio-tiempo compartido de discurso, donde negociar y difundir significados. Se establece lo que se podría llamar una escena.
 
