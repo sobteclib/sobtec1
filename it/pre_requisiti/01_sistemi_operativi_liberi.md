@@ -4,7 +4,7 @@
 
 ![gnu e pinguino](../../es/content/media/operating-systems.png)
 
-     Una versione ridotta di questo articolo è stata pubblicata su Wired [^1].
+*Una versione ridotta di questo articolo è stata pubblicata su Wired [^1]*
 
 --------
 
