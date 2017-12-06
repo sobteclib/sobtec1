@@ -10,7 +10,7 @@
 
 
 Sono passati ormai 30 anni dalla nascita del movimento per il software libero, il cui obiettivo è quello di promuovere software che tuteli la libertà dell'utenza e della comunità.
-Questo software viene denominato «libero» (in riferimento alla libertà e non al prezzo [^2].
+Questo software viene denominato «libero» (in riferimento alla libertà e non al prezzo [^2]. 
 Alcuini programmi proprietari come Photoshop sono eccessivamente costosi, altri come Flash sono gratuiti; a prescindere, in entrambi i casi l'utente viene sottomesso al controllo del produttore del software.
 
 Parecchie cose sono cambiate da quando abbiamo cominciato.
@@ -20,7 +20,7 @@ Il software proprietario continua imponendo il suo controllo attraverso funzioni
 Sia il software proprietario che i SaaSS, possono spiare, incatenare e perfino attaccare i loro utenti.
 I frequenti abusi nei servizi e prodotti del software proprietario sono possibili proprio perché gli utenti non hanno nessun controllo.
 Infatti, questa è la differenza fondamentale: tanto il software proprietario come i SaaSS sono sotto il controllo esclusivo (spesso di aziende o dello Stato).
-Mentre il software libero, al contrario, offre in mano a tutti i suoi utenti questo potere. <
+Mentre il software libero, al contrario, offre in mano a tutti i suoi utenti questo potere.
 
 ### Il Controllo
 
