@@ -10,7 +10,7 @@
 
 
 Sono passati ormai 30 anni dalla nascita del movimento per il software libero, il cui obiettivo è quello di promuovere software che tuteli la libertà dell'utenza e della comunità.
-Questo software viene denominato «libero» (in riferimento alla libertà e non al prezzo [^2]).
+Questo software viene denominato «libero» (in riferimento alla libertà e non al prezzo [^2].
 Alcuini programmi proprietari come Photoshop sono eccessivamente costosi, altri come Flash sono gratuiti; a prescindere, in entrambi i casi l'utente viene sottomesso al controllo del produttore del software.
 
 Parecchie cose sono cambiate da quando abbiamo cominciato.
@@ -28,7 +28,7 @@ Perché il controllo è così importante? Perché la libertà implica poter assu
 Impiegando un software per svolgere delle attività attinenti alla tua vita, la tua libertà dipenderà esclusivamente dal controllo che puoi esercitare su di esso.
 Meriti d'avere tutto il controllo sui programmi che utilizzi, soprattutto se vengono impiegati per realizzare dei compiti a te indispensabili.
 
-Affinchè l'utenza possa assumere il controllo dei programmi impiegati sono indispensabili quattro [libertà essenziali](https://gnu.org/philosophy/free-sw.html).
+Affinchè l'utenza possa assumere il controllo dei programmi impiegati sono indispensabili quattro **libertà essenziali.** [^3]
 
 0. Libertà di eseguire il programma come si desidera, per qualsiasi scopo.
 
@@ -63,14 +63,14 @@ Se le persone non controllano il programma, è il software a controllarle.
 Nel caso del software proprietario, esiste sempre un'entità (il «proprietario» del programma) che controlla il programma ed e' proprio attraverso il programma che usa il suo potere e decide come e chi lo usa.
 Un programma che non è libero è dunque oppressore, uno strumento di potere ingiusto.
 
-Nei casi estremi (ormai diventati quasi normali), i programmi proprietari sono progettati per spiare, limitare, censurare o abusare di chi lo usa [^3].
-Cosa che vien fatta, ad esempio, dal sistema operativo degli i-cosi[^4] di Apple e anche dai dispositivi mobili Windows con processori ARM.
+Nei casi estremi (ormai diventati quasi normali), i programmi proprietari sono progettati per spiare, limitare, censurare o abusare di chi lo usa [^4].
+Cosa che vien fatta, ad esempio, dal sistema operativo degli i-cosi [^5] di Apple e anche dai dispositivi mobili Windows con processori ARM.
 I firmware dei telefonini, il navigatore Google Chrome per Windows e lo stesso sistema operativo, includono una backdoor universale che permette a una certa azienda di modificare programmi in modalità remota senza bisogno di permessi.
 Il Kindle di Amazon permette la cancellazione dei libri tramite un'apposita backdoor.
 
 Col proposito di finire con l'ingiustizia del software proprietario, il movimento per il software libero sviluppa programmi liberi così da garantire  agli utenti le proprie libertà.
 Movimento che nasce con lo sviluppo del sistema operativo libero GNU nel 1984.
-Ad oggi, milioni di computer funzionano con **GNU** [^5] , principalmente con la combinazione **GNU/Linux** [^6].
+Ad oggi, milioni di computer funzionano con **GNU** [^6] , principalmente con la combinazione **GNU/Linux** [^7].
 
 Distribuire programmi senza concederne le dovute libertà, implica un maltrattamento e un abuso per chi usa quei programmi.
 La non distribuzione di un programma, invece, non genera danni per nessuna persona.
@@ -88,7 +88,7 @@ Si consideri, per esempio, un SaaSS per le traduzioni: l'utente invia una o vari
 In questo modo, il compito di traduzione è sotto il controllo dell'amministratore del server e non dell'utente.
 
 Se usi un servizio SaaSS, chi controlla il server controlla anche i tuoi compiti informatici.
-Questo implica che affidi tutti i dati necessari all'amministratore del server, il che può essere costretto un giorno a fornire tale informazioni allo Stato o a terzi; quindi una domanda sorge spontanea: **chi è che sta servendo veramente questo servizio?** [^7]
+Questo implica che affidi tutti i dati necessari all'amministratore del server, il che può essere costretto un giorno a fornire tale informazioni allo Stato o a terzi; quindi una domanda sorge spontanea: **chi è che sta servendo veramente questo servizio?** [^8]
 
 
 ### Ingiustizie primarie e secondarie
@@ -120,7 +120,7 @@ Per avere un totale controllo delle mansioni informatiche svolte a favore dei ci
 
 Delegare lo svolgimento di tali compiti a un servizio esterno programmato ed eseguito da entità non interne allo Stato sarebbe ugualmente sbagliato, poiché in questo modo farebbero uso di SaaSS e non avrebbero il controllo di ciò che succede.
 Il software proprietario non offre protezione alcuna contro una minaccia fondamentale: il suo sviluppatore, che potrebbe facilitare terzi a portare a compimento un attacco.
-Prima di correggere gli errori di Windows, Microsoft li fornisce a alla NSA, la agenzia di spionaggio digitale del governo degli Stati Uniti [^8].
+Prima di correggere gli errori di Windows, Microsoft li fornisce a alla NSA, la agenzia di spionaggio digitale del governo degli Stati Uniti [^9].
 Non abbiamo conoscenza se Apple fa lo stesso, ma è sempre sotto la stessa pressione statale di Microsoft. 
 
 
@@ -136,7 +136,7 @@ Le scuole, cominciando dalle elementari, dovrebbero dire agli studenti: *«Cari 
 
 Seguendo gli interessi degli sviluppatori di software proprietario, gli studenti non potrebbero né acquisire l'abitudine di condividere il software né  sviluppare le capacità per modificarli, qualora ci fosse la curiosità ed interesse tra loro.
 Cosa che implica una mala formazione accademica.
-Nella sezione **GNU Education** [^9] è possibile trovare informazione dettagliate sull'uso di software libero nelle scuole e nelle istituzioni educative.
+Nella sezione **GNU Education** [^10] è possibile trovare informazione dettagliate sull'uso di software libero nelle scuole e nelle istituzioni educative.
 
 
 ### Software libero: molto più che «vantaggioso»
@@ -160,7 +160,7 @@ Anche il SaaSS impedisce di cooperare: se deleghi i tuoi compiti informatici a u
 ### Conclusioni
 
 Tutti noi meritiamo di avere il controllo della nostra vita informatica.
-Come possiamo ottenerlo? Rifiutandoci di impiegare software proprietario nei nostri computer oppure quelli di uso frequente, e anche, rifiutando i servizi SaaSS **Sviluppando software libero** [^10] per chi lavora nel campo della programmazione; rifiutando di sviluppare o promuovere software proprietario o SaaSS e **diffondendo queste idee** [^11].
+Come possiamo ottenerlo? Rifiutandoci di impiegare software proprietario nei nostri computer oppure quelli di uso frequente, e anche, rifiutando i servizi SaaSS **Sviluppando software libero** [^11] per chi lavora nel campo della programmazione; rifiutando di sviluppare o promuovere software proprietario o SaaSS e **diffondendo queste idee** [^12].
 
 Noi, e altri migliaia di utenti, continuiamo a farlo sin dal 1984, e grazie a questo sforzo oggi abbiamo il sistema operativo libero GNU/Linux, che tutti: da chi lo sviluppa e chi lo usa, possono modificare, distribuire e utilizzare.
 Unitevi alla nostra causa, ben sia come programmatore oppure attivista.
@@ -184,20 +184,22 @@ Tra i suoi meriti di programmazione all'interno del progetto GNU spiccano la rea
 
 [^2]: In inglese, il termine «free» può significare «libero» oppure «gratuito».
 
-[^3]: https://gnu.org/philosophy/proprietary.html
+[^3]: https://gnu.org/philosophy/free-sw.html
 
-[^4]: Presso da «iThings», termine dispregiativo per fare riferimento ad aggeggi tipo iPod, iPad, iPhone, ecc.
+[^4]: https://gnu.org/philosophy/proprietary.html
 
-[^5]: http://gnu.org/gnu/the-gnu-project.html
+[^5]: Presso da «iThings», termine dispregiativo per fare riferimento ad aggeggi tipo iPod, iPad, iPhone, ecc.
 
-[^6]: http://gnu.org/gnu/gnu-linux-faq.html
+[^6]: http://gnu.org/gnu/the-gnu-project.html
 
-[^7]: https://gnu.org/philosophy/who-does-that-server-really-serve.html
+[^7]: http://gnu.org/gnu/gnu-linux-faq.html
 
-[^8]: www.arstechnica.com/security/2013/06/nsa-gets-early-access-to-ze-ro-day-data-from-microsoft-others 
+[^8]: https://gnu.org/philosophy/who-does-that-server-really-serve.html
 
-[^9]: http://www.gnu.org/education
+[^9]: www.arstechnica.com/security/2013/06/nsa-gets-early-access-to-ze-ro-day-data-from-microsoft-others 
 
-[^10]: https://gnu.org/licenses/license-recommendations.html
+[^10]: http://www.gnu.org/education
 
-[^11]: https://gnu.org/help
+[^11]: https://gnu.org/licenses/license-recommendations.html
+
+[^12]: https://gnu.org/help
