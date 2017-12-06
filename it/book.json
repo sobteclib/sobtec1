@@ -1,0 +1,14 @@
+{
+    "title": "Sovranità tecnologica",
+    "description": "Dossier Ritimo",
+    "author": "ed. Hacklabbo",
+    "language": "it",
+    "pdf": {
+        "paperSize": "a4",
+        "fontSize": 15,
+        "pdf.margin.top": "30",
+	"pdf.margin.bottom": "30",
+	"pdf.margin.left": "30",
+	"pdf.fontFamily": "Helvetica"
+    }
+}
