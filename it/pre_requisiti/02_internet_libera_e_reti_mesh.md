@@ -89,82 +89,83 @@ Partendo da questo dispositivo, la comunità degli utilizzatori ha immaginato mo
 **Conclusioni**
 
 Tra quello che è in gioco a livello internazionale e le disuguaglianze locali, è possibile che sia conveniente tenere a mente uno dei principi fondatori di Internet, “distribuire l’intelligenza”. Si rende necessario evitare la centralizzazione tecnica e decisionale per rivolgerci, invece, verso uno scambio aperto delle conoscenze e dei dispositivi tecnici, e la difesa collettiva dell’idea per cui Internet sia un bene comune al quale si deve poter accedere liberamente. Possiamo immaginare che ogni mattina, ognuno potrà cercare Internet nella casa della sua artigiana di reti locale, come le verdure succulente che coltiva con amore un produttore appassionato. Internet non deve essere la scatola nera chiusa poco a poco da un ristretto numero di persone, ma deve essere considerata come un oggetto tecnico di cui appropriarsi, del quale è necessario mantenere il controllo, che va coltivato collettivamente nella sua diversità e affinché ci nutra con degli ottimi bytes.
-____
-
-Benjamin Cadon
 ----
+
+**Benjamin Cadon**
+
 Artista e coordinatore di Labomedia, mediahackerfablabspace senza scopo di lucro basato a Orléans, Francia.
 
 http://labomedia.org
 benjamin[at]labomedia[dot]org
 
+----
 
-NOTE
+###NOTE
 
-[^1]. In italiano: https://it.wikipedia.org/wiki/ICANN
+[^1]: https://it.wikipedia.org/wiki/ICANN
 
-[^2]. Un indirizzo IP chiamato “pubblico” è quello che permette a un computer di accedere a Internet e di parlare lo stesso linguaggio (il protocollo TCP/IP) per scambiare con suoi affini: server, personal computers, terminali mobili e altri oggetti chiamati “comunicanti”. I server DNS servono a trasformare questi indirizzi IP in nomi di dominio affinché i server sian piú accessibili agli umani e ai robot dei motori di ricerca.
+[^2]: Un indirizzo IP chiamato “pubblico” è quello che permette a un computer di essere parte di Internet e di parlare lo stesso linguaggio (il protocollo TCP/IP) per scambiare dati con suoi affini: server, personal computers, terminali mobili e altri oggetti chiamati “comunicanti”. I server DNS servono a trasformare questi indirizzi IP in nomi di dominio affinché i server sian piú accessibili agli umani e ai robot dei motori di ricerca.
 
-[^3]. “Un DNS in peer-to-peer ?” - Stéphane Bortzmeyer - http://www.bortzmeyer.org/dns-p2p.html
+[^3]: “Un DNS in peer-to-peer ?” - Stéphane Bortzmeyer - http://www.bortzmeyer.org/dns-p2p.html
 
-[^4]. MegaUpload Shut Down by the Feds, Founder Arrested » - http://torrentfreak.com/megaupload-shut-down-120119/
+[^4]: MegaUpload Shut Down by the Feds, Founder Arrested » - http://torrentfreak.com/megaupload-shut-down-120119/
 
-[^5]. http://bureaudetudes.org/2003/01/19/net-governement-2003/
+[^5]: http://bureaudetudes.org/2003/01/19/net-governement-2003/
 
-[^6]. http://www.laquadrature.net
+[^6]: http://www.laquadrature.net
 
-[^7]. Con “motivi discutibili” ci riferiamo al fatto di nascondere le offensive contro la neutralità della rete sotto il pretesto di voler proteggere la proprietà intellettuale e il diritto d’autore, prevenire il terrorismo e l’aumentare degli estremismi, o anche la lotta contro la pedofilia e altri comportamenti predatori nella rete. Non diciamo che questi problemi non esistono, ma provare a risolverli attraverso restrizioni della libertà in rete, dove la neutralità è un principio base, è un errore fondamentale.
+[^7]: Con “motivi discutibili” ci riferiamo al fatto di nascondere le offensive contro la neutralità della rete sotto il pretesto di voler proteggere la proprietà intellettuale e il diritto d’autore, prevenire il terrorismo e l’aumentare degli estremismi, o anche la lotta contro la pedofilia e altri comportamenti predatori nella rete. Non diciamo che questi problemi non esistono, ma provare a risolverli attraverso restrizioni della libertà in rete, dove la neutralità è un principio base, è un errore fondamentale.
 
-[^8]. VOIP: https://es.wikipedia.org/wiki/VOIP
+[^8]: VOIP: https://es.wikipedia.org/wiki/VOIP
 
-[^9]. http://reflets.info/amesys-et-la-surveillance-de-masse-du-fantasme-a-la-dure-realite/
+[^9]: http://reflets.info/amesys-et-la-surveillance-de-masse-du-fantasme-a-la-dure-realite/
 
-[^10]. http://www.camara.cl/prensa/noticias_detalle.aspx?prmid=38191
+[^10]: http://www.camara.cl/prensa/noticias_detalle.aspx?prmid=38191
 
-[^11]. http://www.numerama.com/magazine/22544-la-neutralite-du-net-devient-une-obligation-legale-aux-pays-bas.html
+[^11]: http://www.numerama.com/magazine/22544-la-neutralite-du-net-devient-une-obligation-legale-aux-pays-bas.html
 
-[^12]. http://www.laquadrature.net/fr/les-regulateurs-europeens-des-telecoms-sonnent-lalarme-sur-la-neutralite-du-net. Vedere anche la campagna: http://savetheinternet.eu/fr/
+[^12]: http://www.laquadrature.net/fr/les-regulateurs-europeens-des-telecoms-sonnent-lalarme-sur-la-neutralite-du-net. Vedere anche la campagna: http://savetheinternet.eu/fr/
 
-[^13]. http://www.rccem.fr/tpl/accueil.php?docid=2
+[^13]: http://www.rccem.fr/tpl/accueil.php?docid=2
 
-[^14]. http://www.laquadrature.net/fr/neutralite_du_Net
+[^14]: http://www.laquadrature.net/fr/neutralite_du_Net
 
-[^15]. http://www.laquadrature.net/fr/qui-sommes-nous
+[^15]: http://www.laquadrature.net/fr/qui-sommes-nous
 
-[^16]. http://www.fdn.fr/
+[^16]: http://www.fdn.fr/
 
 [^17]. http://www.ffdn.org/fr/membres
 
-[^18]. Una mappa dell’evoluzione dei FAI : http://www.ffdn.org/fr/article/2014-01-03/federer-les-fai-participatifs-du-monde-entier
+[^18]: Una mappa dell’evoluzione dei FAI : http://www.ffdn.org/fr/article/2014-01-03/federer-les-fai-participatifs-du-monde-entier
 
-[^19]. http://blog.spyou.org/wordpress-mu/2010/08/19/comment-devenir-son-propre-fai-9-cas-concret/
+[^19]: http://blog.spyou.org/wordpress-mu/2010/08/19/comment-devenir-son-propre-fai-9-cas-concret/
 
-[^20]. http://blog.spyou.org/wordpress-mu/?s=%22comment+devenir+son+propre+fai%22
+[^20]: http://blog.spyou.org/wordpress-mu/?s=%22comment+devenir+son+propre+fai%22
 
-[^21]. https://fr.wikipedia.org/wiki/Bande_industrielle,_scientifique_et_m%C3%A9dicale y https://es.wikipedia.org/wiki/Banda_ISM
+[^21]: https://fr.wikipedia.org/wiki/Bande_industrielle,_scientifique_et_m%C3%A9dicale y https://es.wikipedia.org/wiki/Banda_ISM
 
-[^22]. http://freifunk.net/
+[^22]: http://freifunk.net/
 
-[^23]. http://www.funkfeuer.at/
+[^23]: http://www.funkfeuer.at/
 
-[^24]. http://guifi.net/
+[^24]: http://guifi.net/
 
-[^25]. https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region - http://ninux.org/ 
+[^25]: https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region - http://ninux.org/ 
 
-[^26]. http://www.open-mesh.org/projects/open-mesh/wiki
+[^26]: http://www.open-mesh.org/projects/open-mesh/wiki
 
-[^27]. Si veda il contributo di Elleflane su “Hardware Libero” in questo dossier.
+[^27]: Si veda il contributo di Elleflane su “Hardware Libero” in questo dossier.
 
-[^28]. Allegato di Félix Treguer e Jean Cattan a favore della liberazione delle frequenze « Le spectre de nos libertés » (lo spettro delle nostre libertà): http://owni.fr/2011/05/07/le-spectre-de-nos-libertes/
+[^28]: Allegato di Félix Treguer e Jean Cattan a favore della liberazione delle frequenze « Le spectre de nos libertés » (lo spettro delle nostre libertà): http://owni.fr/2011/05/07/le-spectre-de-nos-libertes/
 
-[^29]. Ver https://guifi.net/ca/CXOLN
+[^29]: Ver https://guifi.net/ca/CXOLN
 
-[^30]. http://www.battlemesh.org/
+[^30]: http://www.battlemesh.org/
 
-[^31]. https://github.com/servalproject/batphone
+[^31]: https://github.com/servalproject/batphone
 
-[^32]. http://deaddrops.com/dead-drops/db-map/
+[^32]: http://deaddrops.com/dead-drops/db-map/
 
-[^33]. http://daviddarts.com/piratebox/?id=PirateBox
+[^33]: http://daviddarts.com/piratebox/?id=PirateBox
 
-[^34]. http://wiki.labomedia.org/index.php/PirateBox#Projets_et_d.C3.A9tournements_de_la_PirateBox
+[^34]: http://wiki.labomedia.org/index.php/PirateBox#Projets_et_d.C3.A9tournements_de_la_PirateBox
