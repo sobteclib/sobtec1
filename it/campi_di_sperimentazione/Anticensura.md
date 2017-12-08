@@ -1,6 +1,6 @@
-#Anticensura
+# Anticensura
 
-##Dal niente dal nascondere al niente da mostrare: sviluppare insieme pratiche più sicure in Internet*
+## Dal niente dal nascondere al niente da mostrare: sviluppare insieme pratiche più sicure in Internet*
 
 ***Julie Gommes***
 
@@ -26,32 +26,32 @@ Migliorare le proprie pratiche in Internet significa anche avere più libertà n
 
 Imparare a proteggersi ed a non mettere le altre persone in pericolo ha bisogno di tempo ed attenzione, però conferisce automatismi che saranno benefici nel quotidiano.
 
-###Presa di coscienza
+### Presa di coscienza
 Al giorno d'oggi non si può ignorare lo spionaggio on line. Che si tratti delle rivelazioni di Edward Snowden rispetto alla NSA o delle detenzioni ripetute di chi si opponeva, prima e dopo le rivoluzioni del 2011, non possiamo più ignorare che potenzialmente potremmo essere tutte sotto vigilaza. Questa situazione si verifica anche **offline**, con la videovigilanza. Se sono in una grande via di negozi con delle amiche, ci sarà sicuramente una videoregistrazione di quel momento anche se la mia immagine, il mio sorriso, un momento di intimità o confidenza che non hanno niente a che fare in un dabase. È la mia vita.
 
-##Sdrammatizzare
+## Sdrammatizzare
 
 La protezione della vita privata non è riservata ad un'elite appassionata alla tecnica, e passa molte volte attraverso piccoli gesti quotidiani e, prima di tutto, per una presa di posizione. Chiunque ha rilevato, (sopratutto) me inclusa, pezzi della nostra vita nel web, per una mancante conoscenza delle consequenze. Chiunque ha parlato della vita privata di persone amiche, prima di rendersi conto del danno che stava causando. Probabilmente abbiamo caricato foto nostre, perchè avevamo travestimenti fighi, perchè eravamo felici, perchè ci amavamo e non pensavamo che questi momenti sarebbero finito nell'ufficio di un agenzia di marketing o in un dossier dei servizi segreti.
 
-###Scegliere
+### Scegliere
 
 Non siamo apostoli del fare bene, del vivere meglio, nè le messaggiere della sacra protezione di dati. Vogliamo solo, con la tecnica che conosciamo, arricchita dagli errori commessi, darvi alcuni consigli basici per aiutarvi a proteggervi, o per lo meno, farvi riflettere su quello che (non) dovreste insegnare. Presto ci si renderà conto che bisognerà scegliere tra comodità e libertà, però, come diceva Benjamin Franklin "Un popolo pronto a sacrificare poca della sua libertà in cambio di poca sicurezza non merità né una cosa nell'altra, e finisce per perdere entrambe."
 Quindi al lavoro! Per scappare dalla vigilanza in maniera semplice e senza dolore, bisogna solo rimpiazzare i vostri strumenti quotidiani con strumenti sicuri. PrismBreak[^6], non importa il sistema operativo usato (si, anche windows, anche se ne sconsigliamo vivamente l'uso n.d.t.), propone strumenti che permettono schivare la vigilanza elettronica. E per evitare la videovigilanza il progetto "sotto vigilanza"[^7], permette consultare le mappe delle città dove ci si trova: Minsk, Mosca, Seattle, Parigi, etc, e così darsi appuntamento con le proprie fonti, amicizie, gruppi di azione, dove non ci sono videocamere e quindi evitare il pesante sguardo del Grande Fratello.
 
-###Dell'importanza della riappropiazione degli strumenti
+### Dell'importanza della riappropiazione degli strumenti
 A ciascuna pratica/persona/necessità corrisponte uno strumento. Non ci si anonimizza nella stessa maniera se si vuole recuperare materiale didattico come docente o se si è un'adolescente che vuole scaricare la musica preferita. Interessarsi per il proprio computer, per capire come funziona è anche capire che non c'è una soluzione miracolosa o uno strumento rivoluzionario. Iteressarsi vuol dire anche domandarsi quali sono i programmi che possono essere malevoli. Per esempio, perché un'applicazione di disegno in uno smartphone chiede i permessi per avere accesso alla mia rubrica o al mio archivio di SMS? Perché un'applicazione di note ha bisogno di localizzarmi? Possiamo renderci conto molto facilmente di come i creatori di alcune applicazioni si danno permessi sui nostri dispositivi. Bisogna solamente leggere le caratteristiche prima di fare click su "Installa". Un'altra volta non si hanno bisogno di competenze tecniche per proteggersi, solamente curiosità verso gli strumenti che si usano.
 
-###Disciplina
+### Disciplina
 Possiamo imparare a lanciare e usare questo o quel software, creare partizioni crittate con Truecrypt[^8], però se non siamo coscienti dei rischi che facciamo correre alle altre persone quando le chiamiamo al telefono o le mandiamo una email senza cifrarla, la tecnologia non serve a niente. Oltre il difficile apprendimento degli strumenti, è una disciplina che bisogna imparare, essere coscienti di quello che facciamo o di quello che non facciamo e delle conseguenze che possono portare. È una presa di coscienza quotidiana. È importante creare momenti di apprendimento collettivo, momenti di scambio, per poter pensare la sicurezza in una rete personale dove anche le amicizie e i parenti adottano queste pratiche per creare un circolo virtuoso dove ognuni persona stimola le altre. Scambiarsi email cifrate, scegliere un'indirizzo email che non dipenda da un'impresa commerciale, o lavorare insieme a tutorial e manuali sono buone pratiche di appoggio mutuo.
 
-###Anonimato, perché? Come?
+### Anonimato, perché? Come?
 Oltre le soluzioni tecniche, l'anonimato e l'uso di pseudonimi possono constituire soluzioni semplici alla vigilanza. L'uso di pseudonimi è mostrare un'altra identità in Internet, che sia di corta o lunga durata, che serva per una chat di alcuni minuti o per identificarsi in un forum nel quale si parteciperà per anni. L'anonimato è non lasciare nessuna traccia che permetta il riconoscimento. Alcuni strumenti semplici lo permettono. Tor[^9], per esempio, fa compiere dei salti da un server ad un altro nel momento stesso della connessione al sito. Il risultato? È l'indirizzo IP di uno dei server e non il vostro che verra salvato nei registri della vostra connessione.
 
-###Crittare, un gioco da ragazze
+### Crittare, un gioco da ragazze
 Inviare una mail "in chiaro" è lo stesso che inviare una cartolina. Il postino la può leggere nel cammino, vedere la foto, può scherzarci su, etc. La vostra cartolina viaggia senza protezione né contro la pioggia né contro occhiate indiscrete. Con le vostre email succede lo stesso. Tranne se, come nel sistema di posta, si mette il messaggio in una busta. La busta digitale si ottiene crittando.
-Quando ero bambina, lo facevamo in piccola scala inviandoci messaggi segreti con le amiche. Allo scegliere un codice tipo "saltare di tre lettere", "Ti voglio bene" si trasforma in "zo brlonr ehqh ". Crescendo non diventa molto più complicato. La differenza è che i computer lavorano per noi e fanno sì che crittare sia ancora più complesso, più difficile da rompere, con caratteri speciali, algoritmi che crittano un messaggio senza nessuna corrispondenza con il prossimo che critteranno.
+Quando ero bambina, lo facevamo in scala ridotta inviandoci messaggi segreti con le amiche. Allo scegliere un codice tipo "saltare di tre lettere", "Ti voglio bene" si trasforma in "zo brlonr ehqh ". Crescendo non diventa molto più complicato. La differenza è che i computer lavorano per noi e fanno sì che crittare sia ancora più complesso, più difficile da rompere, con caratteri speciali, algoritmi che crittano un messaggio senza nessuna corrispondenza con il prossimo che critteranno.
 
-###Della servitù volontarie
+### Della servitù volontarie
 Nel caso delle e-mail, quando facciamo click su "inviare" il messaggio questo viene imagazzinato in quattro copie:
 1. Il primo nella cartella di invio di chi la manda, si trova facilmente andando sulla cartella "posta inviata".
 2. Il secondo, nella cartella in entrata di chi la riceve. Fino ad ora niente di anormale, tranne che...
@@ -60,10 +60,10 @@ Nel caso delle e-mail, quando facciamo click su "inviare" il messaggio questo vi
 
 Cancellare i messaggi dalla cartella in arrivo o di uscita dell'interfaccia non li cancella dai server, li stanno imagazzinati e li rimangono. Anche se tutto questo risulta detestabile rispetto la vita privata, siamo noi che lo permettiamo.
 
-###Conclusioni
+### Conclusioni
 Proteggere la propria vita privata, quella delle persone che si relazionano a noi, delle nostre amicizie, non si improvvisa, però non è una sfida insuperabile. A volte basta riflettere prima di cliccare, prima di installare un'applicazione. Il resto è solo tecnica e sta alla portata di tutto il mondo, basta solo volerla apprendere.
 
-###Alcune guide e tutorial per iniziare
+### Alcune guide e tutorial per iniziare
 
 
 **Security in a box**: una guida che spiega che strumenti usare a seconda della situazione concreta. Esiste in 13 lingue: https://securityinabox.org/
@@ -77,7 +77,6 @@ Proteggere la propria vita privata, quella delle persone che si relazionano a no
 
 ---
 
-
 **Julie Gommes**
 Analista in cybersicurezza e giornalista che scrive codice e parla con il suo computer con linee di comandi. Ha vissuto e lavorato in Medio Oriente e nel sud-est asiatico. Partecipa in diversi collettivi per difendere la neutralità della rete e lottare contro la società della vigilanza.
 
@@ -89,7 +88,7 @@ PGP D7484F3C e @jujusete su twitter.
 ---
 
 
-**NOTE**
+### NOTE
 [^1]:	 http://www.ippolita.net/fr/libro/la-confidentialit%C3%A9-n%E2%80%99est-plus-l%E2%80%99id%C3%A9ologie-de-la-transparence-radicale
 
 [^2]:	 https://upload.wikimedia.org/wikipedia/en/f/f8/Internet_dog.jpg
