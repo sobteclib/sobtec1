@@ -1,6 +1,6 @@
 # Anticensura
 
-## Dal niente dal nascondere al niente da mostrare: sviluppare insieme pratiche più sicure in Internet*
+## Dal niente dal nascondere al niente da mostrare: sviluppare insieme pratiche più sicure in Internet
 
 ***Julie Gommes***
 
