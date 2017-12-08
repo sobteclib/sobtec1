@@ -62,25 +62,40 @@ Performer e investigatrice. Laureata in belle arti all'università di Barcellona
 
 
 ### NOTE
-[^1]: Tendenze transhackfemministe che operano con alcuni strumenti di biohacking. http://pechblenda.hotglue.me, https://network23.
-org/pechblendalab/, http://akelarrecyborg.tumblr.com/, http://anarchagland.hotglue.me/, http://transnoise.tumblr.com/, http://biosensing.tumblr.
-com/, http://sexoskeleton.tumblr.com/
+[^1]: Tendenze transhackfemministe che operano con alcuni strumenti di biohacking. http://pechblenda.hotglue.me, https://network23.org/pechblendalab/, http://akelarrecyborg.tumblr.com/, http://anarchagland.hotglue.me/, http://transnoise.tumblr.com/, http://biosensing.tumblr.com/, http://sexoskeleton.tumblr.com/
+
 [^2]: Gruppi di Open-science como Genomes Unzipped e il Personal Genome Project stanno pubblicizzando sequenze individuali di genoma, così come stanno mettendo a disposizione strumenti on-line gratuiti (per esempio, GET-Evidence e Trait-o-Matic). D'altra parte, con il nuovo kit da 100 dollari GeneLaser, sviluppato da Mac Cowel e Josh Perfetto, qualsiasi persona interessata può estrarre e sequenziare un frammento di DNA di quasi qualunque organismo in un giorno e senza laboratorio.
+
 [^3]: Raccomandiamo la lettura di questo libro di Eric Drexler, "Motori di Creazione".
+
 [^4]: Action Group on Erosion, Technology and Concentration, http://www.etcgroup.org/
+
 [^5]: NanoŠmano Labs http://hackteria.org/wiki/index.php/Nano%C5%A0mano_-_LifeSystem
+
 [^6]: http://www.f18institut.org/; http://www.cirkulacija2.org/
+
 [^7]: http://www.dusseiller.ch/labs/
+
 [^8]: Kapelica Gallery (Ljubljana, Slovenia).
+
 [^9]: http://hackteria.org/
+
 [^10]: http://hackteria.org/wiki/index.php/BioTehna_Lab_Infrastructure
+
 [^11]: http://biotweaking.com
+
 [^12]: http://www.manilabiopunk.org/
+
 [^13]: http://diybiosingapore.wordpress.com/
+
 [^14]: www.biodesign.cc/
+
 [^15]: http://lifepatch.org
+
 [^16]: http://biobricks.org/
+
 [^17]: http://www.calafou.org
+
 [^18]: http://pechblenda.hotglue.me/
  
 
