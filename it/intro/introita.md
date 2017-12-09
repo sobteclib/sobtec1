@@ -11,10 +11,10 @@ Nella mia comunità, il mio posto in questo mondo in cambiamento, le cose saltan
 
 Forse questo dossier non darà soluzioni a temi cosí ampi, ma suggerisce modi alternativi di intendere le questioni tecnologiche. Fa parte della ricostruzione delle cose a modo nostro, dato che, come osservava Gibson, “la strada trova sempre i propri usi delle cose”[^4]. La sovranità tecnologica ci fa tornare al contributo che ognuna di noi dà allo sviluppo delle tecnologie, riscattando i nostri immaginari radicali, recuperando la nostra storia e memoria collettiva, ri-situandoci per poter sognare e desiderare insieme la costruzione, qui e ora, delle *nostre* infrastrutture di informazione, comunicazione ed espressione. 
 
-    **NOTE**
-    [^1]:	Conferenza al 27c3 “Your infrastructure will kill you”, https://www.youtube.com/watch?v=G-qU6_Q_Gcc, e intervita Lelacoders (disponibile in inglese: https://vimeo.com/66504687)
-    [^2]:	https://es.wikipedia.org/wiki/Stuxnet
-    [^3]:	Mike Davis, Planet of Slums, 2007
-    [^4]:	Burning Chrome: http://en.wikipedia.org/wiki/Burning_Chrome, di William Gibson
+**NOTE**
+[^1]:	Conferenza al 27c3 “Your infrastructure will kill you”, https://www.youtube.com/watch?v=G-qU6_Q_Gcc, e intervita Lelacoders (disponibile in inglese: https://vimeo.com/66504687)
+[^2]:	https://es.wikipedia.org/wiki/Stuxnet
+[^3]:	Mike Davis, Planet of Slums, 2007
+[^4]:	Burning Chrome: http://en.wikipedia.org/wiki/Burning_Chrome, di William Gibson
 
 
