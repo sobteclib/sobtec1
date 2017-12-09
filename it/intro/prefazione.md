@@ -1,157 +1,70 @@
-Prefacio
-La soberanía tecnológica, una necesidad, un desafío.
-Quien aún no ha entendido, después de ‘Snowden’ y sus revelaciones, que nuestro querido ‘ciberespacio’ ya no está en 
-manos de sus usuarias, y esto desafortunadamente desde hace mucho tiempo, sino que constituye una zona muy vigilada y 
-de mucho riesgo. La usuaria, aparentemente libre en sus movimientos y dotada de incontables facilidades -a menudo pro
--
-vistas «
-gratuitamente»- se ha convertido de hecho en un sujeto cautivo que es, al mismo tiempo, rehén, conejillo de indias 
-y sospechoso. 
-El dominio de Internet por los poderes estatales o comerciales, o, muy a menudo, una asociación de los dos, parece total, y 
-lo es efectivamente donde los vectores y las plataformas son ‘propietarios’, es decir cuando están en posesión de actores par
--
-ticulares quienes pondrán  por delante sus intereses propios, con frecuencia a costa de los intereses de sus usuarias. Mientras 
-que el impacto que tiene Internet en nuestras vidas se hace cada vez más fuerte
-1
-, una toma de conciencia acerca de ¿Cómo, y 
-sobre todo para quién, funciona Internet
-? se vuelve cada vez más urgente. 
-Afortunadamente, esta toma de conciencia existe y empezó mucho antes que el despliegue de Internet. Pero su incidencia 
-permanece limitada, porque aún concierne a un número relativamente restringido de personas y grupos; y también porque 
-se topa con fuertes ofensivas por parte de unos poderes establecidos muy potentes. Su abanderado es el software libre, y sus 
-numerosos derivados. No sólo como técnica, sino sobre todo como el ideal que representa:  toma de conciencia, toma con 
-las propias manos -autonomía y soberanía. Porque cuidado, todo no es tecnología y la tecnología no lo es todo.
-Es necesario percibir la soberanía tecnológica en un contexto mucho más extendido que la tecnología informática, o inc
--
-luso que la tecnología a secas. Hacer caso omiso del conjunto de crisis medioambientales, políticas, económicas y sociales 
-imbricadas las unas en las otras
-2
-, o  buscar  resolverlas de forma aislada o en su conjunto con la sola tecnología son opciones 
-igualmente aberrantes. Queda ya más que claro que la soberanía tecnológica en sí misma no cambiará  nuestro inexorable 
-rumbo ... hacia la pared. 
-Es imposible continuar en la vía del crecimiento a todos los niveles, tal y como ha sido seguida hasta ahora. Una parada in 
-situ es necesaria, incluso quizás un decrecimiento voluntario, a falta de esto se impondrá él mismo, y en unas condiciones 
-seguramente más desagradables. También, desde esta perspectiva, tendremos que valorar las diferentes soluciones pro
--
-puestas para (re)conquistar esta autonomía individual y colectiva que hemos perdido ampliamente, o peor aún, delegada en 
-beneficio de unos actores económicos y políticos que quieren hacernos creer que sólo piensan en nuestros intereses y que 
-sus intenciones son benevolentes, honestas y legítimas. 
-Patrice Riemens
-Ritimo - Soberanía tecnológica
-Pág.  7
-Desafortunadamente las Tecnologías de Información y Comunicación (TIC), y sus desarrollador-es -porque aún son  en su 
-mayoría hombres-  tienen la nefasta tendencia de trabajar aislados, sin tener en cuenta su dependencia con la multitud de rel
--
-aciones humanas y recursos naturales que hacen el mundo y la sociedad. «
-Debemos reinventar la red
-» declaró Tim Pritlove, 
-animador del  30º Congreso del Chaos Computer Club, en su discurso de apertura
-3
-  que tuvo lugar a finales de diciembre 
-de 2013. Para añadir ante una multitud de activistas y hackers entusiastas: “Y sois vosotros quienes podéis hacerlo”. Tiene 
-razón en los dos frentes, pero detenerse aquí también puede significar la creencia en una ‘supremacía de los nerds’
-4
- quienes 
-lo apostarían todo en soluciones puramente tecnológicas. 
-Ya no hay ninguna duda de que se ha vuelto esencial recomponer la red desde la base para que sirva a los intereses de lo 
-común y no solo  los intereses de grupos exclusivos y opresores. Entonces, sí a la  reinvención, pero no de cualquier mane
--
-ra. Porque es necesario ir más allá de las soluciones del tipo  ‘technological fix’ (parches) que se limitan a atacar los efectos 
-y no las causas. Un enfoque dialéctico - y dialógico - es necesario para desarrollar en una base comunitaria y participativa, 
-las tecnologías que permiten a sus usuarias liberarse de su dependencia con los proveedores comerciales, y del seguimiento 
-policial generalizado por parte de los poderes estatales obnubilados por su deseo de vigilar y castigar. Pero entonces ¿en qué 
-consiste esta soberanía tecnológica  deseada y  qué esperamos construir
-?
-Una opción posible sería empezar nuestro planteamiento partiendo de la soberanía que actúa en nuestra propia esfera de 
-vida con respeto a los poderes que intentan dominarnos. Un principio de soberanía podría ser interpretada por ejemplo, 
-como ‘el derecho a que nos dejen tranquilos’
-5
-. Sin embargo, sabemos que este derecho siempre se ve pisoteado en el campo 
-de las (‘nuevas’) tecnologías de la información y de la comunicación. 
-Este dossier intenta establecer una evaluación de la situación relativa a las iniciativas,  a los métodos y a los medios no-pro
--
-pietarios y preferiblemente autogestionados que pueden salvaguardar lo mejor posible, nuestra ‘esfera de vida’. Servidores 
-autónomos, redes descentralizadas, encriptación, enlace de pares, monedas alternativas virtuales, el compartir saberes, lug
--
-ares de encuentro y trabajo cooperativo, se constituyen como  un gran abanico de iniciativas ya en marcha hacia la soberanía 
-tecnológica. Se observa que la eficacia de estas alternativas depende en gran medida de sus práctica(s) y éstas deberían ser 
-atravezadas por las siguientes dimensiones
-: 
-- 
-Temporalidad
-. ‘Tomarse el tiempo’ es esencial. Tenemos que liberarnos del siempre más, siempre más rápido: el canto 
-de las sirenas de la tecnología comercial. Es de esperar que las tecnologías ‘soberanas’  sean  más lentas y ofrezcan menos 
-prestaciones, pero esto no tiene por qué significar una pérdida de nuestro placer.
-- 
-‘Nosotras’
-. Las tecnologías ‘soberanas’ serán abiertas, participativas, igualitarias, comunitarias y cooperativas, o no serán. 
-Desarrollan mecanismos de gobierno horizontal a menudo involucrando a grupos muy variados. La separación, las jer
--
-arquías (a menudo presentadas como ‘meritocracia’) y el individualismo egoísta las matan. La distinción entre ‘expertas’ y 
-‘usuarias’ tiene que desdibujarse en la medida de lo posible.
-- 
-Responsabilidad
-. La realización de la soberanía exige mucho por parte de los que se afilian a ella. Desarrollando y desple
--
-gando sus herramientas, cada miembro del colectivo tiene que tomar sus responsabilidades. Es necesario aplicar la famosa 
-norma ‘¿Quién hace qué
-? ¿Dónde
-?¿Cuándo? ¿Cómo
-? ¿Cuánto
-? Y ¿Por qué
-?
-6
- , como la obligación de contestar adecuada
--
-mente en todo momento a cada una de estas preguntas. 
-Ritimo - Soberanía tecnológica
-Pág.  8
-- 
-Una economía basada en el intercambio
-. El principio de si “es gratuito, entonces tú eres el producto” caracteriza los 
-servicios ‘regalados’ por los pesos pesados de Internet. Las iniciativas ciudadanas se ven, habitualmente, empujadas hacia 
-‘la economía de la donación’, bajo la forma de voluntariados más o menos forzados. Habrá que encontrar entonces nuevos 
-modelos que remuneren, de forma honesta, a las ‘trabajadoras de lo inmaterial’ haciendo pagar su precio justo a las usuarias.
-- 
-Ecología y medioambiente
-. Una tecnología de soberanía es, evidentemente, respetuosa con el medioambiente y ahor
--
-radora de recursos poco o no renovables. Pocas personas se dan cuenta hasta qué punto la informática devora energía y 
-materias primas diversas,  y de las condiciones, a menudo deplorables, en las que son extraídas o en las cuales se desarrolla 
-su fabricación.
-Así entenderemos que existen numerosos limites con los que tienen que lidiar las tecnologías de soberanía y que no existe 
-un camino regio para llegar a ellas. E incluso si llegamos a esto, puede que no sea la utopía. Esto sin embargo, no es una 
-invitación a bajar los brazos, al contrario. La modestia y la lucidez junto con la reflexión mueven montañas. Sois vosotras, 
-queridas lectoras, quienes debéis empezar a mover las vuestras para definir vuestra propia contribución, e involucraros sin 
-ingenuidad, ni tampoco miedo.  Y  quién sabe, si después quizás con un entusiasmo indefectible y contagioso.
-Patrice Riemens
-Geógrafo, activista cultural, propagador del software libre, miembro del colectivo de hacker neerlandés  ‘Hippies from Hell’. 
-NOTAS
-1.
-Como lo escribía recientemente el ensayista alemán Sascha Lobo «
-Sólo hay dos tipos de personas en Alemania
-: los que vieron que su vida 
-cambió con Internet, y los que no se dieron cuenta de que su vida cambió con Internet.
-» (
-http://bit.ly/1h1bDy1
-)
-2.
-Lo que el filósofo francés Paul Virilio llama “el accidente integral”.
-3.
-https://tinyurl.com/n8fcsbb
-4.
-Http://es.wikipedia.org/wiki/Nerd
-5.
-En los
-Estados Unidos, este concepto del ‘right to be left alone’, es concebido como el fundamento del derecho a la privacidad individual 
-(‘privacy’) ver Warren & Brandeis, 1890. Fuente
-: 
-http://en.wikipedia.org/wiki/The_Right_to_Privacy_%28article%29
-. Pero cuidado, esta soberanía 
-en su propia esfera de vida’, también teorizada casi al mismo tiempo en los Países Bajos por el político calvinista Abraham Kuyper, tuvo un feo pequeño 
-avatar
-: el Apartheid sudafricano...
-6.
-Fuente:
-http://fr.wikipedia.org/wiki/QQOQCCP 
+**Prefazione**
+===
+**La sovranità tecnologica, una necessità, una sfida.**
+---
+***Patrice Riemens***
+
+Tutte ormai abbiamo capito, dopo “Snowden” e le sue rivelazioni, che il nostro caro “cyberspazio” non è gestito da chi lo usa. E questo, sfortunatamente, da molto tempo, al punto che oggi si tratta di una zona molto vigilata e rischiosa. L’utente, apparentemente libera nei suoi movimenti e dotata di innumerevoli facilitazioni -spesso fornite “gratuitamente”- si è convertita di fatto in un soggetto prigioniero che è, allo stesso tempo, ostaggio, cavia da laboratorio e sospettato. 
+
+Il dominio su Internet dei poteri statali o commerciali, o, molto spesso, una combinazione dei due, sembra totale, ed effettivamente lo è dove i vettori e le piattaforme sono “proprietarie”, cioè quando sono in possesso di certi attori che possono mettere in prima linea i propri interessi, frequentemente a costo degli interessi delle loro utenti. Mentre l’impatto che Internet ha sulle nostre vite si fa sempre più forte[^1], una presa di coscienza a proposito del come e, soprattutto, del per chi funziona, è sempre più urgente.
+
+Fortunatamente, questa presa di coscienza esiste ed è iniziata molto prima della diffusione di Internet. Tuttavia, i suoi effetti rimangono limitati, perché per ora interessano solo un numero relativamente ristretto di persone e gruppi; e anche perché si scontrano con forti offensive da parte di alcuni dei poteri stabiliti più potenti. Suo portabandiera è il software libero, e i suoi numerosi derivati. Non solo come tecnica, ma anche soprattutto per l’ideale che rappresenta: presa di coscienza, presa con le proprie mani -autonomia e sovranità. Perché attenzione, non tutto è tecnologia e la tecnologia non è tutto. 
+
+È necessario percepire la sovranità tecnologica in un contesto più esteso della tecnologia informatica, o più inclusivo rispetto la sola tecnologia informatica. Ignorare la congiuntura di crisi ambientali, politiche, economiche e sociali intersecate l’una nell’altra[^2], o cercare di risolverle in forma isolata o nella loro sola congiunzione tecnologica sono opzioni ugualmente perverse. Sembra ormai cristallino che la sola sovranità tecnologica non cambierà il nostro inesorabile cammino… contro un muro. 
+
+È impossibile continuare con la via della crescita su tutti i livelli, così come è stata seguita fino a ora. Una fermata in situ è necessaria, forse anche una decrescita volontaria. In ogni caso succederà lo stesso, e in condizioni sicuramente meno piacevoli. Inoltre, da questa prospettiva, dovremmo considerare le differenti soluzioni proposte per (ri)conquistare questa autonomia individuale e collettiva che abbiamo perso ampliamente o, ancora peggio, delegata a beneficio di attori economici e politici che vogliono farci credere che pensano solo ai nostri interessi e che le loro intenzioni sono benevole, oneste e legittime.
+
+Sfortunatamente le Tecnologie di Informazione e Comunicazione (TIC) e i suoi sviluppatori -perché sono ancora per la maggioranza uomini- hanno la tendenza a lavorare isolati, senza tenere conto della loro dipendenza con la moltitudine di relazioni umane e risorse naturali che compongono il mondo e la società. “Dobbiamo reinventare la rete”, ha dichiarato Tim Pritlove, animatore del trentesimo Congresso del Chaos Computer Club, nel suo discorso di apertura[^3] nel 2013. Per aggiungere davanti a una moltitudine di attivisti e hacker entusiasti: “e siete voi coloro che possono farlo”. Ha ragione su due fronti, ma soffermarsi qui potrebbe anche significare la credenza in una “supremazia dei nerd”[^4] che metteranno tutto a posto tramite soluzioni puramente tecnologiche. 
+
+Non c’è alcun dubbio sul fatto che sia diventato essenziale ricomporre la rete dalla base affinché serva agli interessi comuni, e non solo agli interessi di gruppi esclusivi e oppressori. Quindi, sì al reinventarsi, ma non a prescindere. Perché è necessario andare più in là di soluzioni del tipo “technological fix” (“pezze tenologiche”) che si limitano ad attaccare gli effetti senza toccare le cause. Un approccio dialettico -e dialogico- è necessario per sviluppare una base comunitaria e partecipativa, le tecnologie che permettono alle sue utilizzatrici di liberarsi dalla loro dipendenza dai provider commerciali, e dal monitoraggio poliziesco generalizzato da parte dei poteri statali obnubilati dal loro desiderio di vigilare e castigare. Ma quindi, in cosa consiste questa sovranità tecnologica desiderata e che vogliamo costruire? 
+
+Un’opzione è quella di iniziare il nostro approccio partendo dalla sovranità che si manifesta nella nostra sfera di vita personale, in rispetto ai poteri che provano a dominarci. Un principio di sovranità potrebbe essere interpretato per esempio come “il diritto a essere lasciate tranquille”[^5]. Senza dubbio, sappiamo che questo diritto si vede sempre calpestato nel campo delle (“nuove”) tecnologie d’informazione e di comunicazione. 
+
+Questo dossier prova a stabilire una valutazione della situazione relativa alle iniziative, ai metodi e ai mezzi non-proprietari e preferibilmente autogestiti che possono salvaguardare al meglio la nostra “sfera di vita”. Server autonomi, reti decentralizzate, crittografia, peer to peer, monete alternative virtuali, la condivisione del sapere, luoghi di incontro e lavoro cooperativo, si costituiscono come un gran ventaglio di iniziative già in marcia verso la sovranità tecnologica. Si osserva che l’efficacia di queste alternative dipende in gran misura dalla loro pratica (e pratiche) e queste dovrebbero essere attraversate dalle seguenti dimensioni:
+
+**Temporalità**
+
+“Prendersi il tempo” è essenziale. Dobbiamo liberarci del sempre di più, sempre più rapido: il canto delle sirene della tecnologia commerciale. Accettare che le tecnologie “sovrane” siano più lente e offrano meno prestazioni, ma non per questo ci sará una perdita del nostro piacere. 
+
+**Nostre**
+
+Le tecnologie “sovrane” dovranno essere aperte, partecipative, egualitarie, comunitarie e cooperative, o non saranno. 
+Sviluppare meccanismi di governo orizzontale coinvolgendo spesso gruppi molto differenti. La separazione, le gerarchie (spesso presentate come “meritocrazia”) e l’individualismo egoista le uccidono. La distinzione tra “esperte” e “utenti” deve sparire nella misura del possibile.
+
+**Responsabilità**
+
+La realizzazione della sovranità esige molto da parte di coloro che si affiliano ad essa. Sviluppando e dispiegando i suoi strumenti, ogni membro del collettivo deve prendere le sue responsabilità. È necessario applicare la famosa norma:
+“Chi fa cosa? Dove? Quando? Come? Quanto? E Perché?” con l’obbligo di rispondere in ogni momento a tutte queste domande.
+
+**Un’economia basata sullo scambio**
+
+Il principio del “se è gratuito, allora tu sei il prodotto” caratterizza i servizi “regalati” dai pesi massimi di Internet. Le iniziative cittadine si vedono, abitualmente, spinte verso “l’economia del dono”, sotto forme di volontariato più o meno forzate. Bisognerà incontrare quindi nuovi modelli che remunerino, in maniera onesta, le “lavoratrici dell’immateriale” facendo pagare il giusto prezzo alle utenti.
+
+**Ecologia e ambiente**
+
+Una tecnologia di sovranità è, evidentemente, rispettosa dell’ambiente e parca con le risorse poco sostenibili e non rinnovabili. Poche persone si accorgono di quanto l’informatica divori energia e materie prime diverse, e le condizioni, spesso deplorevoli, in cui queste ultime sono estratte o in cui vengono assemblate. 
+
+Seguendo questo percorso capiremo che esistono numerosi limiti contro i quali le tecnologie sovrane devono combattere, e che non esiste un cammino dorato per arrivare ad esse. E anche se ci arrivassimo, potrebbe non essere l’utopia. Questo, senza dubbio, non è un invito ad abbassare le braccia: al contrario. La modestia e la lucidità, unite alla riflessione, muovono montagne. Siete voi, care lettrici, che dovete iniziare a muovere le vostre per definire il vostro contributo ed essere coinvolte senza ingenuità e senza paura. E chi può dirlo, se sarà con un entusiasmo indistruttibile e contagioso.
+
+---
+
+**Patrice Riemens**
+
+Geografo, attivista culturale, diffusore del software libero, membro del collettivo di hacker olandesi “Hippies from Hell”.
+
+---
+
+**NOTE**
+
+[^1]: Come scriveva recentemente il saggista tedesco Sascha Lbo “ci sono solo due persone in germania: quelli che hanno visto la loro vita cambiare con Internet e quelli che non si sono accorti che la loro vita è cambiata con Internet”. (http://bit.ly/1h1bDy1)
+
+[^2]: Quello che il filosofo francese Paul Virilio chiama “l’incidente integrale”
+
+[^3]: https://tinyurl.com/n8fcsbb
+
+[^4]: http://es.wikipedia.org/wiki/Nerd
+
+[^5]: Negli Stati Uniti, questo concetto del “diritto a essere lasciati da soli” è concepito come il fondamento del diritto alla privacy individuale (ver Warren & Brandeis, 1890). Fonte: http://en.wikipedia.org/wiki/The_Right_to_Privacy_%28article%29. Ma attenzione, questa sovranità nella propria sfera di vita, teorizzata quasi nello stesso momento anche nei Paesi Bassi dal politico Abraham Kuyper, ha avuto anche una gran brutta applicazione : l’Apartheid sudafricano... 
+
+[^6]: Fonte: http://fr.wikipedia.org/wiki/QQOQCCP 
 

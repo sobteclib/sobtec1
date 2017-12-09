@@ -1,5 +1,5 @@
 
-**Autonomia tecnologica**
+**Sovranità tecnologica**
 
 ![logo sobtech](../logo.png)
 
@@ -19,8 +19,7 @@ AvANa - Avviso Ai Naviganti, dalle mura del Forte Prenestino (Roma)
 [https://avana.forteprenestino.net/](https://avana.forteprenestino.net/)
 
 
-Ringraziamenti per questa versione a tutta la comunità di [Hackmeeting.org](http://hackmeeting.org/) ed ai consigli di 
-[Ippolita.net](http://ippolita.net)
+Ringraziamenti per questa versione in lingua italiana a tutta la comunità di [Hackmeeting.org](http://hackmeeting.org/) ed di [Ippolita.net](http://ippolita.net)
 
 ---
 

@@ -1,6 +1,7 @@
 # Sovranità tecnologica
-* [Introduzione](intro/introita.md)
-* [Prefazione](intro/prefazioneita.md)
+* [Introduzione all'edizione in lingua italiana](README.md)
+* [Introduzione](intro/introduzione.md)
+* [Prefazione](intro/prefazione.md)
 * [Sovranità tecnologica](intro/st.md)
 * Pre-requisiti
   * [Sistemi operativi liberi](pre_requisiti/01_sistemi_operativi_liberi.md)
