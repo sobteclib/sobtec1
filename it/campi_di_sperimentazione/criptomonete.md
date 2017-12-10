@@ -130,3 +130,5 @@ Ingegnere informatico con più di 4 anni di esperienza in Indra <bho> , lavorand
 [^39]:	 https://en.bitcoin.it/wiki/Thin_Client_Security
 [^40]:	 https://it.wikipedia.org/wiki/BitTorrent
 [^41]:	 https://fr.wikipedia.org/wiki/Business_to_business_%28Internet%29
+
+<p align="center"><img src="../../end0.png"></p>
