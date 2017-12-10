@@ -1,8 +1,8 @@
-#﻿Motori di ricerca
+# Motori di ricerca
 
-##Open non significa libero, pubblicato non significa pubblico. La gratuità online è una truffa!
+## Open non significa libero, pubblicato non significa pubblico. La gratuità online è una truffa!
 
-***Ippolita***
+*Ippolita*
 
 ![bigG](../../es/content/media/search-engines.png)	
 
