@@ -1,6 +1,7 @@
-#Sull'hardware libero e il riappropriarsi della tecnologia
+# Sull'hardware libero e il riappropriarsi della tecnologia
 
-#Elleflâne
+*Elleflâne*
+
 ![3dprinter](../../es/content/media/free-hw.png)	
 
 Il concetto di hardware è abbastanza nuovo, molto ampio, in continuo rinnovamento e diametralmente diverso dal software. Vi è una vasta polemica su ciò che è e non é e grazie all'assenza di una definizione concordata ognuno lo interpreta un po' a modo suo. Ad esempio, per me, l'hardware comprende un componente elettronico, un condensatore, un transistor, un LED, un circuito integrato, un dispositivo quale un moto-aratro, la descrizione di un processo industriale, come la fabbricazione di un mattone refrattario, un computer, una stampante 3D, un meccanismo per la purificazione dell'acqua scritto in codice sorgente aperto, un processo per il riciclo della plastica, l'assemblaggio di una fresatrice CNC, un metodo di analisi dei suoli inquinati mediante sensori o il codice di un microcontrollore. 
@@ -87,128 +88,164 @@ Cultura libre; di Lawrence Lessig,
 ____
 
 
-Elleflane
+**Elleflane**
 ----
 Ingegnera Industriale per la UNED Universidad Nacional a Distancia; Ingegnera Tecnica in Design Industriale dell'Università Elisava Pompeu Fabra; realizza cortometraggi, poesie, quadri, fumetti, novelle fantastiche, invenzioni, +, ++, +++. Sta studiando alla ESA European Space Agency.
 
 
-NOTE
+* * * 
 
-[^1]. https://es.wikipedia.org/wiki/Homebrew_Computer_Club
+-   **[Hardware Libre https://cooperativa.ecoxarxes.cat/file/view/246449/esbozo-de-articulo-hardware-libre](https://cooperativa.ecoxarxes.cat/file/view/246449/esbozo-de-articulo-hardware-libre)** por Elle Flâne
 
-[^2]. http://www.webopedia.com/TERM/F/FPGA.html
+-   **[Tecnologías Re-apropiadas https://cooperativa.ecoxarxes.cat/file/view/246450/esbozo-de-articulo-tecnologias-apropiadas](https://cooperativa.ecoxarxes.cat/file/view/246450/esbozo-de-articulo-tecnologias-apropiadas)** por Elle Flâne
 
-[^3]. http://www.nationmaster.com/encyclopedia/Challenge-to-Silicon-Valley
+* [**Mi conocimiento es plástico** https://cooperativa.ecoxarxes.cat/file/view/247274/esbozo-articulos-plastico-impresoras3d](https://cooperativa.ecoxarxes.cat/file/view/247274/esbozo-articulos-plastico-impresoras3d) por Elle Flâne  
 
-[^4]. http://www.opencollector.org/history/OpenDesignCircuits/index.html
+-   [Opinione di Richard Stallman sull'hardware libero]http://features.linuxtoday.com/news_story.php3?ltsn=1999-06-22-005-05-NW-LF
 
-[^5]. http://www.oepm.es/es/propiedad_industrial/propiedad_industrial/
+-   [Free Hardware Design - Past, Present, Future](http://www.opencollector.org/Whyfree/freedesign.html) por Graham Seaman
 
-[^6]. http://stallman.org/
+-   [The economics of Free Core development](http://www.free-ip.com/Economics.htm) por David Kessner
 
-[^7]. http://www.fsf.org/
+-   [Open-source IP could ignite system-on-chip era](http://www.eetimes.com/story/speakout/OEG20000131S0007) por David Kessner
 
-[^8]. https://www.gnu.org/licenses/licenses.es.html
+-   [Business Models for Open Source Hardware Design](http://pages.nyu.edu/\~gmp216/papers/bmfosh-1.0.html) por Gregory Pomerantz
 
-[^9]. http://www.linuxtoday.com/infrastructure/1999062200505NWLF
+-   [Free chips for all - The status of open hardware designs](http://www4.ibm.com/software/developer/library/openhw.html?dwzone=opensource) por Jamil Khatib
 
-[^10]. http://www.opencollector.org/Whyfree/freedesign.html
+-   [Open Hardware and Free Software](http://www.opencollector.org/Whyfree/whyfree.html)
 
-[^11]. http://www.oshwa.org/
+-   [Extending the Freedoms of Free and Open Information](http://www.opencollector.org/Whyfree/vilbrandt.html) por Carl Vilbrandt, diseñador de GnuBook.
 
-[^12]. http://www.openhardware.net/
+-   [Challenge to Silicon Valley](http://news.com.com/2010-1069-964507.html?tag=lh) por Kofi Annan
 
-[^13]. https://www.gnu.org/copyleft/gpl.html
+-   *Liberalidad del conocimiento desde la cesión de derechos de propiedad intelectual* por J. M. León Rojas
 
-[^14]. http://www.freemodelfoundry.com/
+-   [Inteligencia Colectiva, la revolución invisible](http://www.adin-noticias.com.ar/libros03.htm) por Jean-François Noubel
 
-[^15]. http://www.uv.es/leo/sparc/
+-   [Wikipedias versus blogs: La creación colectiva y el acceso universal al conocimiento](http://www.bubok.com/libros/172033/Wikipedias-versus-blogs) por Xavier Casas Canals
 
-[^16]. http://opencores.org/
+-   [Cultura libre](http://meta.wikimedia.org/wiki/w:es:Cultura_libre_(libro)) por Lawrence Lessig
 
-[^17]. http://opensource.org/licenses/MIT
+-   “La industria de la música en la era digital: Participación de los consumidores en la creación de valor.” por D. Chaney
 
-[^18]. http://web.media.mit.edu/~rehmi/freeip.html
 
-[^19]. http://www.debian.org/News/2000/20001123.en.html
+###### NOTE
 
-[^20]. http://blog.openlibrary.org/tag/gnubook/
+[^1]: https://es.wikipedia.org/wiki/Homebrew_Computer_Club
 
-[^21]. http://www.simputer.org/simputer/license/
+[^2]: http://www.webopedia.com/TERM/F/FPGA.html
 
-[^22]. http://f-cpu.seul.org/
+[^3]: http://www.nationmaster.com/encyclopedia/Challenge-to-Silicon-Valley
 
-[^23]. http://opencores.org/
+[^4]: http://www.opencollector.org/history/OpenDesignCircuits/index.html
 
-[^24]. http://www.opencollector.org/hardlicense/msg00007.html
+[^5]: http://www.oepm.es/es/propiedad_industrial/propiedad_industrial/
 
-[^25]. https://joinup.ec.europa.eu/software/page/
-open_source_licences_and_complementary_agreements
+[^6]: http://stallman.org/
 
-[^26]. http://www.opencollector.org/hardlicense/hdpl.html
+[^7]: http://www.fsf.org/
 
-[^27]. http://www.opencollector.org/hardlicense/licenses.html
+[^8]: https://www.gnu.org/licenses/licenses.es.html
 
-[^28]. http://www.opencollector.org/hardlicense/hdpl.html
+[^9]: http://www.linuxtoday.com/infrastructure/1999062200505NWLF
 
-[^29]. http://www.ohwr.org/projects/cernohl/wiki
+[^10]: http://www.opencollector.org/Whyfree/freedesign.html
 
-[^30]. http://www.marketwired.com/press-release/adafruits-limor-fried-phillip-
-torrone-featured-keynotes-for-make-conference-1649479.htm
+[^11]: http://www.oshwa.org/
 
-[^31]. https://www.adafruit.com/
+[^12]: http://www.openhardware.net
 
-[^32]. http://www.arduino.cc/
+[^13]: https://www.gnu.org/copyleft/gpl.html
 
-[^33]. http://www.chumby.com/
+[^14]: http://www.freemodelfoundry.com/
 
-[^34]. http://www.liquidware.com
+[^15]: http://www.uv.es/leo/sparc/
 
-[^35]. https://www.makerbot.com/
+[^16]: http://opencores.org/
 
-[^36]. http://en.wikipedia.org/wiki/Crowdfunding
+[^17]: http://opensource.org/licenses/MIT
 
-[^37]. http://p2pfoundation.net/Open_Source_Hardware_Reserve_Bank
+[^18]: http://web.media.mit.edu/~rehmi/freeip.html
 
-[^38]. http://www.openmoney.org/
+[^19]: http://www.debian.org/News/2000/20001123.en.html
 
-[^39]. http://metacurrency.org/
+[^20]: http://blog.openlibrary.org/tag/gnubook/
 
-[^40]. sociali come Hackmeeting
+[^21]: http://www.simputer.org/simputer/license/
 
-[^41]. http://sindominio.net/hackmeeting/wiki/2014
+[^22]: http://f-cpu.seul.org/
 
-[^42]. http://giss.tv/dmmdb/index.php?channel=hardmeeting
+[^23]: http://opencores.org/
 
-[^43]. https://calafou.org/es/contenthackthearth-2013-jornadas-autosuficiencia
+[^24]: http://www.opencollector.org/hardlicense/msg00007.html
 
-[^44]. http://xctit.cooperativa.cat/encuentros/extrud_me-2014/
+[^25]: https://joinup.ec.europa.eu/software/page/open_source_licences_and_complementary_agreements
 
-[^45]. http://2013.oshwa.org/
+[^26]: http://www.opencollector.org/hardlicense/hdpl.html
 
-[^46]. http://www.ccc.de/en/
+[^27]: http://www.opencollector.org/hardlicense/licenses.html
 
-[^47]. http://www.oswash.org/
+[^28]: http://www.opencollector.org/hardlicense/hdpl.html
 
-[^48]. http://medialab-prado.es/
+[^29]: http://www.ohwr.org/projects/cernohl/wiki
 
-[^49]. http://www.laboralcentrodearte.org
+[^30]: http://www.marketwired.com/press-release/adafruits-limor-fried-phillip-torrone-featured-keynotes-for-make-conference-1649479.htm
 
-[^50]. http://hangar.org
+[^31]: https://www.adafruit.com/
 
-[^51]. http://www.befaco.org
+[^32]: http://www.arduino.cc/
 
-[^52]. http://faboratory.org/
+[^33]: http://www.chumby.com/
 
-[^53]. http://pechblenda.hotglue.me/
+[^34]: http://www.liquidware.com
 
-[^54]. http://xctit.cooperativa.cat/
+[^35]: https://www.makerbot.com/
 
-[^55]. http://cooperativa.cat/
+[^36]: http://en.wikipedia.org/wiki/Crowdfunding
 
-[^56]. “In the Next Industrial Revolution, Atoms Are the New Bits”,
+[^37]: http://p2pfoundation.net/Open_Source_Hardware_Reserve_Bank
 
-[^57]. http://www.openhardware.net/
+[^38]: http://www.openmoney.org/
 
-[^58]. http://www.publico.es/418911/la-gente-se-sentiria-molesta-si-viera-de-donde-
-viene-su-iphone
+[^39]: http://metacurrency.org/
+
+[^40]:  http://opendesignnow.org/index.php/visual_index/manifestos
+
+[^41]: http://sindominio.net/hackmeeting/wiki/2014
+
+[^42]: http://giss.tv/dmmdb/index.php?channel=hardmeeting
+
+[^43]: https://calafou.org/es/contenthackthearth-2013-jornadas-autosuficiencia
+
+[^44]: http://xctit.cooperativa.cat/encuentros/extrud_me-2014/
+
+[^45]: http://2013.oshwa.org/
+
+[^46]: http://www.ccc.de/en/
+
+[^47]: http://www.oswash.org/
+
+[^48]: http://medialab-prado.es/
+
+[^49]: http://www.laboralcentrodearte.org
+
+[^50]: http://hangar.org
+
+[^51]: http://www.befaco.org
+
+[^52]: http://faboratory.org/
+
+[^53]: http://pechblenda.hotglue.me/
+
+[^54]: http://xctit.cooperativa.cat/
+
+[^55]: http://cooperativa.cat/
+
+[^56]: “In the Next Industrial Revolution, Atoms Are the New Bits”
+
+[^57]: http://www.openhardware.net/
+
+[^58]: http://www.publico.es/418911/la-gente-se-sentiria-molesta-si-viera-de-donde-viene-su-iphone
+
+<p align="center"><img src="../../end0.png"></p>
