@@ -88,16 +88,27 @@ http://ippolita.net
 [^5]:	Le dieci cose che sappiamo essere certe, http://www.google.com/intl/es/about/company/philosophy/
 
 [^6]:	Sopratutto perché il diritto tramite leggi e giudizi sanziona chi lo infrange anche di più se non è in grado di pagare buoni avvocati. Si veda Carlo Milani,« Topologies du devenir libertaire. II – Droits ? », dans Philosophie de l’anarchie. Théories libertaires, pratiques quotidiennes et ontologie, ACL, Lyon, 2012, pp. 381-384.
+
 [^7]:	Se Google fa filosofia, Facebook annuncia princìpi: https://www.facebook.com/principles.php
+
 [^8]:	Si veda Ippolita, El lado oscuro de Google, cit., « V. Además, otras funcionalidades maliciosas »
+
 [^9]:	I lavori di danah boyd forniscono un punto di vista molto chiaro in merito, il suo sito http://www.zephoria.org/ merita una visita. Per una prospettiva più filosofica si veda Byung-Chul Han, Transparenzgesellschaft, Matthes & Seitz, Berlin, 2012.
+
 [^10]:	Il sito http://donttrack.us/ ci mostra molto chiaramente, con una breve presentazione, il sistema di tracciamento delle ricerche. Ci da anche l'opportunità di fare una prima allusione alle “alternative”, por esempio DuckDuckGo. Un motore di ricerca che dice di non tracciare (non fare tracking). Lo scetticismo metodologico al quale aspiriamo ci permette di osservare che è possibile: serve solo aver fiducia in DuckDuckGo...
+
 [^11]:	E comunque, sappiamo sin dalla publicazione del 1999 del rapporto europeo di Duncan Campbell 'Interception Capabilities' http://www.cyber-rights.org/interception/stoa/interception_capabilities_2000.htm che lo spionaggio digitale si fa su scala globale.
+
 [^12]:	Come successe varie volte nel 2012 e nel 2013, quando Google ridefinì i suoi parametri di confidenzialità e di scambio dei dati tra i suoi diversi servizi.
+
 [^13]:	Si può provarlo facilmente: chiedi ai tuoi amici e colleghi di lavoro se hanno cambiato i parametri di default di Google. Normalmente (a partire dal 2014) il filtro Safe Search che Google usa per scartare i risultati di ricerca «illeciti» è basato sulla «media», vale a dire che filtra i contenuti di carattere sessuale esplicito nei risultati di ricerca. E' sempre più difficile individuare questo tipo di parametri. La ragione è stata esposta da una fonte chiaramente corporate: la strategia di business ottimale per i giganti della profilazione online è offrire sistemi di controllo della confidenzialità difficili da usare. Si veda «Appendix: a game theoretic analysis of Facebook privacy settings», in Robert H. Sloan, Richard Warner, Unauthorized access. The Crisis in Online Privacy and Security, CRC Press, 2014, pp. 344-349.
+
 [^14]:	Si veda per esempio il manuale Security in a box: https://securityinabox.org/fr/firefox_principale
+
 [^15]:	Un panorama abbozzato da Ippolita, Nell'acquario di Facebook, Ledizioni, 2012, Parte terza, le libertà della Rete, «Reazioni e antropotecniche di sopravvivenza», pp. 177-186 http://www.ippolita.net/it/libro/acquario/reazioni-e-antropotecniche-di-sopravvivenza. Si vedano anche il progetto Panopticlick della EFF: https://panopti-click.eff.org/ e Ixquick: https://www.ixquick.com/eng/
+
 [^16]:	https://es.wikipedia.org/wiki/Big_data
+
 [^17]:	G. Deleuze, F. Guattari, Bilancio-programma per macchine desideranti, in Macchine desideranti, Ombre corte, Roma 2004, p. 114. Ed. or. Gilles Deleuze, Felix Guattari, «Appendice, Bilan-programme pour machines désirantes», L’Anti-Œdipe, Éditions de Minuit, Paris, 1975, p. 479.
 
 <p align="center"><img src="../../end0.png"></p>
