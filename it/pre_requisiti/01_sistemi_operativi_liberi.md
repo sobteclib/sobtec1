@@ -203,3 +203,5 @@ Tra i suoi meriti di programmazione all'interno del progetto GNU spiccano la rea
 [^11]: https://gnu.org/licenses/license-recommendations.html
 
 [^12]: https://gnu.org/help
+
+<p align="center"><img src="../../end0.png"></p>
