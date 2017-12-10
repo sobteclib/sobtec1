@@ -2,7 +2,7 @@
 
 ## Dal niente da nascondere al niente da mostrare: sviluppare insieme pratiche più sicure in Internet
 
-***Julie Gommes***
+*Julie Gommes*
 
 ![cipolle](../../es/content/media/circumvention-tools.png)	
 
