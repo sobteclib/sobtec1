@@ -63,7 +63,7 @@ Senza dubbio bisogna sempre mettere in discussione le dichiarazioni di neutralit
 
 **Maxigas**
 
-Ha studiato letteratura, cinematrografia e filosofia prima di diventare uno scienziato sociale nel campo degli studi tecnologici. Impara dalla vita essendo un istigatore avanguardista, un mediattivista, un sysadmin radicale e un conoscitore della cybercultura. Attualmente ricerca per la sua testi per UOC/ONE3 le architetture relazionate agli hackerspace, come ricerca su come costruire un computer biologico nel biolab di Calafou.
+Ha studiato letteratura, cinematrografia e filosofia prima di diventare uno scienziato sociale nel campo degli studi tecnologici. Impara dalla vita essendo un istigatore avanguardista, un mediattivista, un sysadmin radicale e un conoscitore della cybercultura. Attualmente ricerca per la sua tesi per UOC/ONE3 le architetture relazionate agli hackerspace, come ricerca su come costruire un computer biologico nel biolab di Calafou.
 http://research.metatron.ai/
 maxigas[at]anargeek[dot]net
 
