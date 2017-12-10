@@ -1,6 +1,6 @@
 # Sull'hardware libero e il riappropriarsi della tecnologia
 
-*Elleflâne*
+*Elle Flâne*
 
 ![3dprinter](../../es/content/media/free-hw.png)	
 
@@ -85,49 +85,50 @@ Liberalidad del conocimiento desde la cesión de derechos de propiedad intelectu
 Inteligencia Colectiva, la revolución invisible; di Jean-François Noubel Wikipedias versus blogs. La creación colectiva y el acceso universal al conocimiento. Casassas Canals, Xavier. 
 Cultura libre; di Lawrence Lessig, 
 “La industria de la música en la era digital: Participación de los consumidores en la creación de valor.”; di Chaney, D 
-____
 
 
-**Elleflane**
-----
-Ingegnera Industriale per la UNED Universidad Nacional a Distancia; Ingegnera Tecnica in Design Industriale dell'Università Elisava Pompeu Fabra; realizza cortometraggi, poesie, quadri, fumetti, novelle fantastiche, invenzioni, +, ++, +++. Sta studiando alla ESA European Space Agency.
+------
+
+*Elleflane*
+
+Ingegnera Industriale per la UNED Universidad Nacional a Distancia; Ingegnera Tecnica in Design Industriale dell'Università Elisava Pompeu Fabra; realizza cortometraggi, poesie, quadri, fumetti, novelle fantastiche, invenzioni, +, ++, +++. Sta studiando alla ESA European Space Agency. *elle_flane [at] riseup [dot] net*
 
 
-* * * 
+---- 
 
--   **[Hardware Libre https://cooperativa.ecoxarxes.cat/file/view/246449/esbozo-de-articulo-hardware-libre](https://cooperativa.ecoxarxes.cat/file/view/246449/esbozo-de-articulo-hardware-libre)** por Elle Flâne
+* [**Hardware Libre** https://cooperativa.ecoxarxes.cat/file/view/246449/esbozo-de-articulo-hardware-libre](https://cooperativa.ecoxarxes.cat/file/view/246449/esbozo-de-articulo-hardware-libre) di Elle Flâne
 
--   **[Tecnologías Re-apropiadas https://cooperativa.ecoxarxes.cat/file/view/246450/esbozo-de-articulo-tecnologias-apropiadas](https://cooperativa.ecoxarxes.cat/file/view/246450/esbozo-de-articulo-tecnologias-apropiadas)** por Elle Flâne
+* [**Tecnologías Re-apropiadas** https://cooperativa.ecoxarxes.cat/file/view/246450/esbozo-de-articulo-tecnologias-apropiadas](https://cooperativa.ecoxarxes.cat/file/view/246450/esbozo-de-articulo-tecnologias-apropiadas) di Elle Flâne
 
-* [**Mi conocimiento es plástico** https://cooperativa.ecoxarxes.cat/file/view/247274/esbozo-articulos-plastico-impresoras3d](https://cooperativa.ecoxarxes.cat/file/view/247274/esbozo-articulos-plastico-impresoras3d) por Elle Flâne  
+* [**Mi conocimiento es plástico** https://cooperativa.ecoxarxes.cat/file/view/247274/esbozo-articulos-plastico-impresoras3d](https://cooperativa.ecoxarxes.cat/file/view/247274/esbozo-articulos-plastico-impresoras3d) di Elle Flâne  
 
--   [Opinione di Richard Stallman sull'hardware libero]http://features.linuxtoday.com/news_story.php3?ltsn=1999-06-22-005-05-NW-LF
+-   [Opinione di Richard Stallman sull'hardware libero http://features.linuxtoday.com/news_story.php3?ltsn=1999-06-22-005-05-NW-LF](http://features.linuxtoday.com/news_story.php3?ltsn=1999-06-22-005-05-NW-LF)
 
--   [Free Hardware Design - Past, Present, Future](http://www.opencollector.org/Whyfree/freedesign.html) por Graham Seaman
+-   [Free Hardware Design - Past, Present, Future http://www.opencollector.org/Whyfree/freedesign.html](http://www.opencollector.org/Whyfree/freedesign.html) di Graham Seaman
 
--   [The economics of Free Core development](http://www.free-ip.com/Economics.htm) por David Kessner
+-   [The economics of Free Core development http://www.free-ip.com/Economics.htm](http://www.free-ip.com/Economics.htm) di David Kessner
 
--   [Open-source IP could ignite system-on-chip era](http://www.eetimes.com/story/speakout/OEG20000131S0007) por David Kessner
+-   [Open-source IP could ignite system-on-chip era http://www.eetimes.com/story/speakout/OEG20000131S0007](http://www.eetimes.com/story/speakout/OEG20000131S0007) di David Kessner
 
--   [Business Models for Open Source Hardware Design](http://pages.nyu.edu/\~gmp216/papers/bmfosh-1.0.html) por Gregory Pomerantz
+-   [Business Models for Open Source Hardware Design http://pages.nyu.edu/\~gmp216/papers/bmfosh-1.0.html](http://pages.nyu.edu/\~gmp216/papers/bmfosh-1.0.html) di Gregory Pomerantz
 
--   [Free chips for all - The status of open hardware designs](http://www4.ibm.com/software/developer/library/openhw.html?dwzone=opensource) por Jamil Khatib
+-   [Free chips for all - The status of open hardware designs http://www4.ibm.com/software/developer/library/openhw.html?dwzone=opensource](http://www4.ibm.com/software/developer/library/openhw.html?dwzone=opensource) di Jamil Khatib
 
--   [Open Hardware and Free Software](http://www.opencollector.org/Whyfree/whyfree.html)
+-   [Open Hardware and Free Software http://www.opencollector.org/Whyfree/whyfree.html](http://www.opencollector.org/Whyfree/whyfree.html)
 
--   [Extending the Freedoms of Free and Open Information](http://www.opencollector.org/Whyfree/vilbrandt.html) por Carl Vilbrandt, diseñador de GnuBook.
+-   [Extending the Freedoms of Free and Open Information http://www.opencollector.org/Whyfree/vilbrandt.html](http://www.opencollector.org/Whyfree/vilbrandt.html) di Carl Vilbrandt, progettista di GnuBook.
 
--   [Challenge to Silicon Valley](http://news.com.com/2010-1069-964507.html?tag=lh) por Kofi Annan
+-   [Challenge to Silicon Valley http://news.com.com/2010-1069-964507.html?tag=lh](http://news.com.com/2010-1069-964507.html?tag=lh) di Kofi Annan
 
--   *Liberalidad del conocimiento desde la cesión de derechos de propiedad intelectual* por J. M. León Rojas
+-   ”Liberalidad del conocimiento desde la cesión de derechos de propiedad intelectual” di J. M. León Rojas
 
--   [Inteligencia Colectiva, la revolución invisible](http://www.adin-noticias.com.ar/libros03.htm) por Jean-François Noubel
+-   [Inteligencia Colectiva, la revolución invisible http://www.adin-noticias.com.ar/libros03.htm](http://www.adin-noticias.com.ar/libros03.htm) di Jean-François Noubel
 
--   [Wikipedias versus blogs: La creación colectiva y el acceso universal al conocimiento](http://www.bubok.com/libros/172033/Wikipedias-versus-blogs) por Xavier Casas Canals
+-   [Wikipedias versus blogs: La creación colectiva y el acceso universal al conocimiento http://www.bubok.com/libros/172033/Wikipedias-versus-blogs](http://www.bubok.com/libros/172033/Wikipedias-versus-blogs) di Xavier Casas Canals
 
--   [Cultura libre](http://meta.wikimedia.org/wiki/w:es:Cultura_libre_(libro)) por Lawrence Lessig
+-   ”Cultura libre” di Lawrence Lessig
 
--   “La industria de la música en la era digital: Participación de los consumidores en la creación de valor.” por D. Chaney
+-   “La industria de la música en la era digital: Participación de los consumidores en la creación de valor” di D. Chaney
 
 
 ###### NOTE
