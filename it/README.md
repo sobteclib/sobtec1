@@ -1,7 +1,6 @@
-** Sovranità tecnologica **
+<p align="center"><h2>Sovranità tecnologica</h2>
 
-![logo sobtech](../logo.png)
-
+<img src="../logo.png"></p>
 
 Scritto inizialmente in Catalano, Soberanía Tecnológica è una raccolta di saggi curata dalla colonia ecoindustriale postcapitalista [Calafou](https://calafou.org/es). Attraverso l’analisi critica dello sviluppo tecnologico della nostra società, varie tematiche sono affrontate per fornire una prospettiva differente sulle possibilità offerte dalla tecnologia contemporanea: server autogestiti, criptomonete, hacklabs e hackerspaces, motori di ricerca alternativi sono tra gli argomenti trattati.
 
