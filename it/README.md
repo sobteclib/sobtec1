@@ -24,7 +24,7 @@ Mentre il libro fatto con gitbook, lo potete vedere compilato qui:
 ---
 
 Licenza
-[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by--nc-sa/4.0/)
 
 You are free to:
 
