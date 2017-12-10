@@ -1,8 +1,8 @@
-**Una odissea spaziale autogestita**
+# Una odissea spaziale autogestita
 ===
 
 ---
-***Marta G. Franco & Spideralex***
+*Marta G. Franco & Spideralex*
 
 ![satelliti](../../es/content/media/satellites.png)	
 
