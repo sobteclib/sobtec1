@@ -4,7 +4,7 @@
 
 Scritto inizialmente in Catalano, Soberanía Tecnológica è una raccolta di saggi curata dalla colonia ecoindustriale postcapitalista [Calafou](https://calafou.org/es). Attraverso l’analisi critica dello sviluppo tecnologico della nostra società, varie tematiche sono affrontate per fornire una prospettiva differente sulle possibilità offerte dalla tecnologia contemporanea: server autogestiti, criptomonete, hacklabs e hackerspaces, motori di ricerca alternativi sono tra gli argomenti trattati.
 
-Per quanto sia stato possibile si è cercata una policy degender, ovvero di neutralizzare il più possibile riferimenti a dei sessi definiti.
+Per quanto sia stato possibile si è cercata una policy degender, ovvero di neutralizzare il più possibile riferimenti alla definizione binaria dei sessi. In alcuni casi si è scelta la forma femminile per essere fedeli al testo originale in quando ne condividiamo la scelta politica.
 
 ---
 
@@ -18,7 +18,7 @@ AvANa - Avviso Ai Naviganti, dalle mura del Forte Prenestino (Roma)
 [https://avana.forteprenestino.net/](https://avana.forteprenestino.net/)
 
 
-Ringraziamenti per questa versione in lingua italiana a tutta la comunità di [Hackmeeting.org](http://hackmeeting.org/) ed di [Ippolita.net](http://ippolita.net)
+Ringraziamenti per questa versione in lingua italiana a tutta la comunità di [Hackmeeting.org](http://hackmeeting.org/) e di [Ippolita.net](http://ippolita.net)
 
 ---
 
