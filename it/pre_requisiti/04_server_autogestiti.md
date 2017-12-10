@@ -1,6 +1,6 @@
 # Server Autogestiti
 
-**Tatiana de la O**
+*Tatiana de la O*
 
 ![barricata](../../es/content/media/servers.png)
 
@@ -9,19 +9,19 @@ Riassumendo semplicemente, quando un persona collega il computer a Internet e di
 
 ### Che cos'è un server autonomo?
 
-I server autonomi possono essere definiti come server autogestiti la cui esistenza dipende dal lavoro volontario e/o salariato dei loro manutentori quando ricevono finanziamenti dalla comunità di utenti a cui servono. Essi, pertanto, non dipendono da un istituto pubblico o privato per operare. 
+I server autonomi possono essere definiti come server autogestiti la cui esistenza dipende dal lavoro volontario e/o salariato delle persone che gli fanno manutenzione, in quando ricevono direttamente finanziamenti dalla comunità di utenti a cui servono. Essi, pertanto, non dipendono da un istituto pubblico o privato per operare. 
 In ogni caso, l'autonomia di questi servizi può variare, alcuni accettano sovvenzioni o sono ospitati in istituti scolastici mentre altri possono essere nascosti in un ufficio o alloggiati in un centro educativo o d'arte e non hanno bisogno di tali finanziamenti.
-I server autonomi sono nati come una delle numerose iniziative dei collettivi di hacktivisti per democratizzare l'accesso alle informazioni e alla produzione di contenuti, alla pari con altre attività come la creazione di punti di accesso alle tecnologie e Internet, seminari di formazione, reti libere, lo sviluppo di programmi o sistemi operativi liberi, ecc
+I server autonomi sono nati come una delle numerose iniziative dei collettivi di hacktivisti per democratizzare l'accesso alle informazioni e alla produzione di contenuti, alla pari con altre attività come la creazione di punti di accesso alle tecnologie e Internet, seminari di formazione, reti libere, lo sviluppo di programmi o sistemi operativi liberi, etc...
 
-Ci sono diversi tipi e taglie di server autogestiti, dal piccolo server di posta e web di pochi web designer a servizi noti come la posta elettronica di Riseup[^1] o al servizio di blog personalizzabili come noblogs.org. Molti informatici tengono un server in casa connesso ad una normale connessione domestica dal quale possono fornire siti web, posta, torrent o semplicemente un accesso ad un archivio condiviso con i suoi amici o familiari.
-Non è necessario una licenza per avere un server, solo un computer collegato a Internet e un cambiamento nella configurazione del router di casa. La responsabilità non è così grande quando non è previsto un servizio capillare e importante. E se non ci sono molte persone collegate ad esso, non c'è bisogno di gran larghezza di banda.
+Ci sono diversi tipi e taglie di server autogestiti, dal piccolo server di posta e siti web di pochi web designer, a servizi famosi come la posta elettronica di Riseup[^1] o al servizio di blog personalizzabili come noblogs.org. Molti informatici tengono un server in casa connesso ad una normale connessione domestica dalla quale possono fornire siti web, posta, torrent o semplicemente un accesso ad un archivio condiviso con i suoi amici o familiari.
+Non è necessario una licenza per avere un server, solo un computer collegato a Internet e un cambiamento nella configurazione del router di casa. La responsabilità non è così grande quando non è previsto un servizio capillare e stabile. E se non ci sono molte persone collegate ad esso, non c'è bisogno di gran larghezza di banda.
 
 Da alcuni anni non è così facile lasciare parcheggiato un server presso l'università o in azienda. Con le nuove leggi di controllo dei cittadini su Internet[^2], multe per la violazione del diritto d'autore[^3] e casi di frode[^4], le istituzioni non vogliono ospitare i server senza averne alcun controllo, e molti gruppi scelgono di passare a data center commerciali per dare maggiore stabilità al loro servizio, perché avere un server nel proprio armadio a casa può implicare molti episodi di disconnessione.
 
 
 ### A che ci serve avere dei server autonomi?
 
-Parallelamente, l'industria dell'informazione ha ottenuto monetizzare ogni volta di più i propri utenti e non necessita più chiedergli denaro per renderli redditizi. Servizi basici come ospitare siti web o caselle di posta sono sempre più offerti da imprese e non da collettivi ‘politicizzati’. Per esempio, molti attivisti usano la casella di posta su Gmail o pubblicano le proprie foto in Flickr gratuitamente. Queste aziende non necessitano di riscuotere direttamente del denaro dagli utenti per l'utilizzo, dato che si fanno pagare da terzi parti per avvalersi dei loro utenti attraverso l'esposizione alla pubblicità, o l'utilizzo dei contenuti che questi utenti hanno generato e sono memorizzati su server.
+Parallelamente, l'industria dell'informazione è riscuscita a monetizzare ogni volta di più i propri utenti e non ha più bisogno di chiedergli denaro per renderli redditizi. Servizi basici come ospitare siti web o caselle di posta sono sempre più offerti da imprese e non da collettivi ‘politicizzati’. Per esempio, molti attivisti usano la casella di posta su Gmail o pubblicano le proprie foto in Flicker gratuitamente. Queste aziende non necessitano di riscuotere direttamente del denaro dagli utenti per l'utilizzo, dato che si fanno pagare da terze part, attraverso l'esposizione alla pubblicità, o l'utilizzo dei contenuti che questi stessi utenti hanno generato e sono memorizzati sul server.
 Continuare a creare ed utilizzare servizi autonomi in generale e server in particolare è importante per tante ragioni che andiamo a vedere. Grazie ai diversi aspetti che analizzeremo è facile dedurre che difendere ed appoggiare i server autonomi più vicini (di lingua , politici , geografici) si traduce in un Internet basato su valori comuni, dove le persone che tengono i nostri servizi lo fanno per sostenere quello che facciamo e non per venderci alle autorità o agli inserzionisti. 
 La pratica da la forma agli strumenti e gli strumenti modellano le pratiche. 
 
