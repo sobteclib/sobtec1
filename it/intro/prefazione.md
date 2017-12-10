@@ -56,11 +56,11 @@ Geografo, attivista culturale, diffusore del software libero, membro del collett
 
 **NOTE**
 
-[^1]: Come scriveva recentemente il saggista tedesco Sascha Lbo “ci sono solo due persone in germania: quelli che hanno visto la loro vita cambiare con Internet e quelli che non si sono accorti che la loro vita è cambiata con Internet”. (http://bit.ly/1h1bDy1)
+[^1]: www.faz.net/aktuell/feuilleton/debatten/abschied-von-der-utopie-die-digitale-kraenkung-des-menschen-12747258.html Come scriveva recentemente il saggista tedesco Sascha Lbo “ci sono solo due persone in Germania: quelli che hanno visto la loro vita cambiare con Internet e quelli che non si sono accorti che la loro vita è cambiata con Internet”
 
 [^2]: Quello che il filosofo francese Paul Virilio chiama “l’incidente integrale”
 
-[^3]: https://tinyurl.com/n8fcsbb
+[^3]: http://www.securitytube.net/video/9246
 
 [^4]: http://es.wikipedia.org/wiki/Nerd
 
