@@ -24,7 +24,8 @@ Ringraziamenti per questa versione in lingua italiana a tutta la comunità di [H
 ---
 
 1° edizione: Calafou - giugno 2014 <br/>
-1° edizione in lingua italiana: Hacklabbo/AvANa - Val di Susa - giugno 2017 
+1° edizione in lingua italiana: Hacklabbo/AvANa - Val di Susa - giugno 2017 <br/>
+2° edizione in lingua italiana: Hacklabbo/AvANa - dicembre 2017
 
 ---
 
