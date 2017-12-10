@@ -66,7 +66,7 @@ Utilizzando servizi non commerciali, smettiamo di collaborare con i nostri conte
 
 -----
 
-*Tatiana de la O*
+**Tatiana de la O**
 
 Attivista per il software libero, VJ con PureData e contributrice a vari progetti di supporto telematico ai movimenti sociali.
 
