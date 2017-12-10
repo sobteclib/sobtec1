@@ -1,66 +1,24 @@
-Introducción
-Alex Haché
-Mientras escribo la electricidad que alimenta mi ordenador Frankenstein, mil veces operado y revivido, se va cortando y el 
-pequeño SAI lanza pitidos. Todo ello contribuye con mi sensación de vivir en una nave espacial y me recuerda cuan preca
--
-rias pueden resultar nuestras infraestructuras. Tal y como apuntaba Eleanor Saitta
-1
-, lo más probable es que sean estas las que 
-nos estén fallando, o nos acaben por matar en primer lugar.
-La falta de planificación y resiliencia son causadas por un mantenimiento cada vez más precario de las infraestructuras 
-“públicas”. Juegos políticos decididos por personas cuyas vidas resultan mucho más cortas que las infraestructuras que ges
--
-tionan. Presiones y tráficos de influencia para conseguir reelecciones y cargos de confianza. Corrupción sistemática. El dis
--
-tanciamiento de las instituciones de la ciudadanía, lo público privatizado, los comunes vandalizados y saqueados. Mientras 
-tanto las infraestructuras tecnológicas, sociales y políticas sobre las cuales se mantienen nuestros estilos de vida son cada vez 
-más complejas. Puede que por ello, los equipos a de la cibernética de control de esas infraestructuras se muestren incapaces 
-de detectar las pautas y vislumbrar cuándo se romperán los diques de la Nueva Orleans, se caerán las redes eléctricas en épi
--
-cos black-outs, se infectarán las plantas nucleares por culpa de Stuxnet
-2
-, o se colapsará ruidosamente el sistema financiero 
-global .
-En mi propia comunidad, mi lugar en este mundo cambiante, las cosas saltan por los aires cada dos por tres. Ocasional
--
-mente la electricidad deja de alumbrar, el proyecto de gestión integral de agua se estanca, el factor humano juega a derribar 
-nuestra tan ansiada estabilidad. Existen grandes similitudes entre lo que intentamos conseguir de manera autogestionada 
-con nuestras infraestructuras básicas (agua, electricidad, lavabos, cocina e internet) con lo que pasa en muchos otros luga
--
-res semi-urbanizados dentro de este gigante “planet of slums
-3
-” en el cual se esta convirtiendo el planeta. Oscilamos entre el 
-consumo descabellado e insostenible de recursos naturales y tecnológicos versus la construcción de una sociedad basada en 
-el decrecimiento, los comunes y la justicia social. Un cambio que implica afrontar muchos retos a la vez: desarrollar y man
--
-tener las infraestructuras, dotar a las instituciones del pro-común de sostenibilidad, repensar las normas sociales y cómo las 
-hilamos entre todas.
-Quizás este dossier no aporte soluciones a estos temas más bien macros, pero sí plantea maneras alternativas de entender la 
-cuestión tecnológica. Se trata de la parte donde se reconstruyen las cosas a nuestra manera ya que, como apuntaba Gibson, 
-“
-la calle siempre encuentra sus propios usos a las cosas
-”
-4
-. La soberanía tecnológica nos remite a la contribución que hacemos cada 
-una de nosotras al desarrollo de tecnologías, rescatando nuestros imaginarios radicales, recuperando nuestra historia y me
--
-morias colectivas, re-situándonos para poder soñar y desear juntas la construcción aquí y ahora de nuestras infraestructuras 
-propias de información, comunicación y expresión.
-Ritimo - Soberanía tecnológica
-Pág.  5
-NOTAS
-1.
-Conference en el 27c3 “Your infrastructure will kill you”, 
-https://www.youtube.com/watch?v=G-qU6_Q_GCc 
-y entrevista Lelacoders (dis
--
-ponible en inglés: https://vimeo.com/66504687)
-2.
-https://es.wikipedia.org/wiki/Stuxnet
-3.
-Mike Davis, Planet of Slums, 2007
-4.
-Burning Chrome: 
-http://en.wikipedia.org/wiki/Burning_Chrome
- de William Gibson
+**Introduzione**
+===
 
+***Alex Haché***
+
+Mentre scrivo, l'elettricità che alimenta il mio computer Frankenstein, mille volte operato e resuscitato, si sta interrompendo e il piccolo SAI lancia dei fischi. Tutto questo contribuisce alla mia sensazione di vivere in una nave spaziale e mi ricorda di quanto possano risultare precarie le nostre infrastrutture. Come notava Eleanor Saitta [^1], è probabile che saranno esse stesse a portarci alla rovina, o addirittura a ucciderci. 
+
+La mancanza di pianificazione e di resilienza sono causate da una manutenzione sempre più precaria delle infrastrutture “pubbliche”. Giochi politici decisi da persone le cui vite risultano molto più corte di quelle delle infrastrutture che gestiscono. Pressioni e traffici di influenze per essere rieletti e cariche date sulla fiducia. Corruzione sistematica. La distanza delle istituzioni dalla cittadinanza, il pubblico privatizzato, i beni comuni vandalizzati e saccheggiati. Intanto le infrastrutture tecnologiche, sociali e politiche sulle quali si mantengono i nostri stili di vita sono sempre più complesse. Forse proprio per queste ragioni, chi gestisce la cibernetica del controllo di queste infrastrutture sembra incapace di comprenderne il funzionamento e capire quando si romperanno le dighe di New Orleans, la rete elettrica cadrà in black-out epici, le centrali nucleari saranno infettate per colpa di Stuxnet, [^2] o il sistema finanziario globale collasserà rovinosamente. 
+
+Nella mia comunità, il mio posto in questo mondo in cambiamento, le cose saltano per aria ogni due per tre. A volte l’elettricità smette di fare luce, il progetto di gestione integrale dell’acqua si blocca, il fattore umano gioca a demolire la nostra tanto agognata stabilità. Ci sono grandi somiglianze tra quello che cerchiamo di conseguire in maniera autogestita con le nostre infrastrutture di base (acqua, elettricità, bagni, cucina e internet) e quello che succede in molti altri luoghi semi-urbanizzati in questo gigante “planet of slums” [^3] in cui si sta trasformando il pianeta. Oscilliamo tra il consumo ridicolo e insostenibile di risorse naturali e tecnologiche e la costruzione di una società basata sulla decrescita, i beni comuni e la giustizia sociale. Un cambiamento che va affrontato con molte sfide ogni volta: sviluppare e mantenere le infrastrutture, dotare le istituzioni del bene comune della sostenibilità, ripensare le norme sociali e come le mettiamo insieme tra di noi. 
+
+Forse questo dossier non darà soluzioni a temi cosí ampi, ma suggerisce modi alternativi di intendere le questioni tecnologiche. Fa parte della ricostruzione delle cose a modo nostro, dato che, come osservava Gibson, “la strada trova sempre i propri usi delle cose” [^4]. La sovranità tecnologica ci fa tornare al contributo che diamo allo sviluppo delle tecnologie, riscattando i nostri immaginari radicali, recuperando la nostra storia e memoria collettiva, ri-situandoci per poter sognare e desiderare insieme la costruzione, qui e ora, delle *nostre* infrastrutture di informazione, comunicazione ed espressione. 
+
+---
+
+### NOTE
+
+[^1]: Conferenza al 27c3 “Your infrastructure will kill you”, https://www.youtube.com/watch?v=G-qU6_Q_Gcc, e intervita Lelacoders (in inglese: https://vimeo.com/66504687)
+
+[^2]: https://es.wikipedia.org/wiki/Stuxnet
+
+[^3]: Mike Davis, Planet of Slums, 2007
+
+[^4]: Burning Chrome: http://en.wikipedia.org/wiki/Burning_Chrome, di William Gibson
