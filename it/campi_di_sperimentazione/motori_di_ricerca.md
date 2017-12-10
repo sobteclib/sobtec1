@@ -94,3 +94,5 @@ http://ippolita.net
 [^15]:	Un panorama abbozzato da Ippolita, Nell'acquario di Facebook, Ledizioni, 2012, Parte terza, le libertà della Rete, «Reazioni e antropotecniche di sopravvivenza», pp. 177-186 http://www.ippolita.net/it/libro/acquario/reazioni-e-antropotecniche-di-sopravvivenza. Si vedano anche il progetto Panopticlick della EFF: https://panopti-click.eff.org/ e Ixquick: https://www.ixquick.com/eng/
 [^16]:	https://es.wikipedia.org/wiki/Big_data
 [^17]:	G. Deleuze, F. Guattari, Bilancio-programma per macchine desideranti, in Macchine desideranti, Ombre corte, Roma 2004, p. 114. Ed. or. Gilles Deleuze, Felix Guattari, «Appendice, Bilan-programme pour machines désirantes», L’Anti-Œdipe, Éditions de Minuit, Paris, 1975, p. 479.
+
+<p align="center"><img src="../../end0.png"></p>
