@@ -94,3 +94,4 @@ without congressional action or a strong judicial precedent, I would _strongly_ 
 
 [^9]: https://www.riseup.net/radical-servers
 
+<p align="center"><img src="../../end0.png"></p>
