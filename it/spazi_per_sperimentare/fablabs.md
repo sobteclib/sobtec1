@@ -134,6 +134,6 @@ Membro del collettivo Usinette e dell’ecoluogo Valle de Humbligny a le Cher.
 
 [^19]: - (Marshall Mc Luhan, Pour Comprendre les médias, 1968)
 
-
+<p align="center"><img src="../../end0.png"></p>
 
 

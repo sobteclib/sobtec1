@@ -89,44 +89,46 @@ Ingegnere informatico con più di 4 anni di esperienza in Indra <bho> , lavorand
 
 ##### NOTE
 
-[1]:	 http://en.wikipedia.org/wiki/Bernard_Lietaer/
-2.	 https://it.wikipedia.org/wiki/Debito._I_primi_5000_anni
-3.	 https://it.wikipedia.org/wiki/Economia_del_dono
-4.	 http://en.wikipedia.org/wiki/Mutual_credit
-5.	 https://it.wikipedia.org/wiki/Riforma_monetaria
-6.	 http://www.complementarycurrency.org/ccDatabase/
-7.	 http://en.wikipedia.org/wiki/Worgl#The_W.C3.B6rgl_Experiment
-8.	 http://en.wikipedia.org/wiki/Silvio_Gesell
-9.	 http://en.wikipedia.org/wiki/Cypherpunk
-10.	 http://en.wikipedia.org/wiki/DigiCash
-11.	 http://en.wikipedia.org/wiki/Hashcash
-12.	 http://it.wikipedia.org/wiki/Bitcoin
-13.	 http://it.wikipedia.org/wiki/Peer-to-peer
-14.	 http://dot-bit.org/
-15.	 http://freico.in/
-16.	 http://peercoin.net/
-17.	 https://bitcointalk.org/index.php?topic=361813.0 contiene il seguente video "esplicativo": http://www.youtube.com/watch?v=xcaltexI-mW0
-18.	 https://it.wikipedia.org/wiki/Software_libero
-19.	 https://it.wikipedia.org/wiki/Scuola_austriaca
-20.	 https://it.wikipedia.org/wiki/Anarco-capitalismo
-21.	 http://lifeboat.com/blog/2013/12/a-college-kid-made-over-24000-yesterday-just-by-waving-this-sign-on-espn
-22.	 http://devcoin.org/
-23.	 http://it.wikipedia.org/wiki/Crowdfunding
-24.	 http://foundation.freicoin.org/#/donations
-25.	 http://en.wikipedia.org/wiki/M-Pesa
-26.	 http://kipochi.com/blog/kipochi-launches-first-bitcoin-wallet-in-africa-with-m-pesa-integration
-27.	 http://en.wikipedia.org/wiki/Neo-Keynesian_economics
-28.	 http://freico.in/
-29.	 http://en.wikipedia.org/wiki/Demurrage_(currency)
-30.	 http://www.positivemoney.org/
-31.	 https://it.wikipedia.org/wiki/Signoraggio
-32.	 https://it.wikipedia.org/wiki/Application_specific_integrated_circuit
-33.	 http://www.coindesk.com/bitcoin-developer-jeff-garzik-on-altcoins-asics-and-bitcoin-usability/
-34.	 http://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
-35.	 https://bitcointalk.org/index.php?topic=279249.0
-36.	 https://darkwallet.unsystem.net/
-37.	 http://zerocoin.org/
-38.	 http://en.wikipedia.org/wiki/Scalability https://en.bitcoin.it/wiki/Scalability
-39.	 https://en.bitcoin.it/wiki/Thin_Client_Security
-40.	 https://it.wikipedia.org/wiki/BitTorrent
-41.	 https://fr.wikipedia.org/wiki/Business_to_business_%28Internet%29
+[^1]:	http://en.wikipedia.org/wiki/Bernard_Lietaer/
+[^2]:	https://it.wikipedia.org/wiki/Debito._I_primi_5000_anni
+[^3]:	https://it.wikipedia.org/wiki/Economia_del_dono
+[^4]:	http://en.wikipedia.org/wiki/Mutual_credit
+[^5]:	https://it.wikipedia.org/wiki/Riforma_monetaria
+[^6]:	http://www.complementarycurrency.org/ccDatabase/
+[^7]:	http://en.wikipedia.org/wiki/Worgl#The_W.C3.B6rgl_Experiment
+[^8]:	http://en.wikipedia.org/wiki/Silvio_Gesell
+[^9]:	http://en.wikipedia.org/wiki/Cypherpunk
+[^10]:	http://en.wikipedia.org/wiki/DigiCash
+[^11]:	http://en.wikipedia.org/wiki/Hashcash
+[^12]:	http://it.wikipedia.org/wiki/Bitcoin
+[^13]:	http://it.wikipedia.org/wiki/Peer-to-peer
+[^14]:	http://dot-bit.org/
+[^15]:	http://freico.in/
+[^16]:	http://peercoin.net/
+[^17]:	https://bitcointalk.org/index.php?topic=361813.0 contiene il seguente video "esplicativo": http://www.youtube.com/watch?v=xcaltexI-mW0
+[^18]:	 https://it.wikipedia.org/wiki/Software_libero
+[^19]:	 https://it.wikipedia.org/wiki/Scuola_austriaca
+[^20]:	 https://it.wikipedia.org/wiki/Anarco-capitalismo
+[^21]:	 http://lifeboat.com/blog/2013/12/a-college-kid-made-over-24000-yesterday-just-by-waving-this-sign-on-espn
+[^22]:	 http://devcoin.org/
+[^23]:	 http://it.wikipedia.org/wiki/Crowdfunding
+[^24]:	 http://foundation.freicoin.org/#/donations
+[^25]:	 http://en.wikipedia.org/wiki/M-Pesa
+[^26]:	 http://kipochi.com/blog/kipochi-launches-first-bitcoin-wallet-in-africa-with-m-pesa-integration
+[^27]:	 http://en.wikipedia.org/wiki/Neo-Keynesian_economics
+[^28]:	 http://freico.in/
+[^29]:	 http://en.wikipedia.org/wiki/Demurrage_(currency)
+[^30]:	 http://www.positivemoney.org/
+[^31]:	 https://it.wikipedia.org/wiki/Signoraggio
+[^32]:	 https://it.wikipedia.org/wiki/Application_specific_integrated_circuit
+[^33]:	 http://www.coindesk.com/bitcoin-developer-jeff-garzik-on-altcoins-asics-and-bitcoin-usability/
+[^34]:	 http://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
+[^35]:	 https://bitcointalk.org/index.php?topic=279249.0
+[^36]:	 https://darkwallet.unsystem.net/
+[^37]:	 http://zerocoin.org/
+[^38]:	 http://en.wikipedia.org/wiki/Scalability https://en.bitcoin.it/wiki/Scalability
+[^39]:	 https://en.bitcoin.it/wiki/Thin_Client_Security
+[^40]:	 https://it.wikipedia.org/wiki/BitTorrent
+[^41]:	 https://fr.wikipedia.org/wiki/Business_to_business_%28Internet%29
+
+<p align="center"><img src="../../end0.png"></p>

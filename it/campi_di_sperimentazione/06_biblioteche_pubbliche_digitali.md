@@ -96,3 +96,5 @@ ki.ber[at]kom[dot]uni[dot]st
 [^1]: http://www.digitalbookworld.com/2012/american-library-association-open-letter-to-publishers-on-e-book-library-lending/
 [^2]: http://lj.libraryjournal.com/2011/02/technology/ebooks/harpercollins-puts-26-loan-cap-on-ebook-circulations/
 [^3]: http://www.americanheritage.com/content/melvil-dewey
+
+<p align="center"><img src="../../end0.png"></p>

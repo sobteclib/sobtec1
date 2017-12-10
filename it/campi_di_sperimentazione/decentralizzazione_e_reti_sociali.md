@@ -1,6 +1,6 @@
-#Decentralizzazione e reti sociali
+# Decentralizzazione e reti sociali
 
-##Hellekin
+*Hellekin*
 
 ![net](../../es/content/media/descentralised-soc-net.png)	
 
@@ -134,3 +134,4 @@ hellekin[at]cepheide[dot]org
 [^48]: https://en.wikipedia.org/wiki/Crystal_Space
 [^49]: StartPage, Ixquick e DuckDuckGo hanno quintuplicato l’affluenza ai loro motori di ricerca dopo che alcuni articoli su Der Spiegel e The Guardian ne hanno parlato nel 2013
 
+<p align="center"><img src="../../end0.png"></p>

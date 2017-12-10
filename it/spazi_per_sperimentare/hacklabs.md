@@ -111,3 +111,4 @@ maxigas[at]anargeek[dot]net
 [^40]:	- "Alcuni esempi: il passaporto hackerspaces è un documento nel quale i visitatori dello spazio possono collezionare francobolli, chiamati “visti”. Il programma Hackerspaces Global Space Program debuttò nel 2011 con l'obiettivo scherzoso di “inviare un hacker sulla luna entro i prossimi 23 anni”. SpaceFED è un sistema federato di autenticazioni per l'accesso a reti senza fili, che attraversa gli hackerspaces apparsi a eduroam, usato nelle università in giro per il mondo."
 [^41]:	http://learn.adafruit.com/tv-b-gone-kit
 
+<p align="center"><img src="../../end0.png"></p>

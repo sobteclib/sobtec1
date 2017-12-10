@@ -170,3 +170,5 @@ Artista e coordinatore di [Labomedia](http://labomedia.org), mediahackerfablabsp
 [^33]: http://daviddarts.com/piratebox/?id=PirateBox
 
 [^34]: http://wiki.labomedia.org/index.php/PirateBox#Projets_et_d.C3.A9tournements_de_la_PirateBox
+
+<p align="center"><img src="../../end0.png"></p>

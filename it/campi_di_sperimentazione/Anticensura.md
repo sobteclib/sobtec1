@@ -1,6 +1,6 @@
 # Anticensura
 
-## Dal niente dal nascondere al niente da mostrare: sviluppare insieme pratiche più sicure in Internet
+## Dal niente da nascondere al niente da mostrare: sviluppare insieme pratiche più sicure in Internet
 
 ***Julie Gommes***
 
@@ -106,3 +106,5 @@ PGP D7484F3C e @jujusete su twitter.
 [^8]:	 http://www.truecrypt.org/
 
 [^9]:	 https://www.torproject.org/
+
+<p align="center"><img src="../../end0.png"></p>

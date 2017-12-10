@@ -68,3 +68,4 @@ Geografo, attivista culturale, diffusore del software libero, membro del collett
 
 [^6]: Fonte: http://fr.wikipedia.org/wiki/QQOQCCP 
 
+<p align="center"><img src="../../end0.png"></p>

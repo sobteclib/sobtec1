@@ -108,3 +108,5 @@ Hacker Space Global Grid: [http://en.wikipedia.org/wiki/Hackerspace_Global_Grid]
 [^15]: MSST: Movimento Sem Satelites [http://devolts.org/msst/](http://devolts.org/msst/)
 
 [^16]: http://devolts.org/msst/?page_id=2	
+
+<p align="center"><img src="../../end0.png"></p>
