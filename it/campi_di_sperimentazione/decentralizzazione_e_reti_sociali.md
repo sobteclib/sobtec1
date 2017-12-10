@@ -1,6 +1,6 @@
 # Decentralizzazione e reti sociali
 
-##Hellekin
+*Hellekin*
 
 ![net](../../es/content/media/descentralised-soc-net.png)	
 
