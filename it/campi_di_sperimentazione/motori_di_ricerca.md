@@ -78,10 +78,15 @@ http://ippolita.net
 **NOTE**
 
 [^1]:	Si veda Giles Slade, The Big Disconnect: The Story of Technology and Loneliness, Prometheus Books, NY, 2012, in particolare il terzo capitolo, «Trusting Machines».
+
 [^2]:	Per esempio, https://upload.wikimedia.org/wikipedia/commons/b/b9/Steve_Jobs_Headshot_2010-CROP.jpg
+
 [^3]:	Ippolita, El lado oscuro de Google: Historia y futuro de la industria de los metadatos, virus editorial ed. or. it. Luci e Ombre di Google, Feltrinelli, Milano, 2007. Free copyleft download http://ippolita.net
+
 [^4]:	Non essere malvagio
+
 [^5]:	Le dieci cose che sappiamo essere certe, http://www.google.com/intl/es/about/company/philosophy/
+
 [^6]:	Sopratutto perché il diritto tramite leggi e giudizi sanziona chi lo infrange anche di più se non è in grado di pagare buoni avvocati. Si veda Carlo Milani,« Topologies du devenir libertaire. II – Droits ? », dans Philosophie de l’anarchie. Théories libertaires, pratiques quotidiennes et ontologie, ACL, Lyon, 2012, pp. 381-384.
 [^7]:	Se Google fa filosofia, Facebook annuncia princìpi: https://www.facebook.com/principles.php
 [^8]:	Si veda Ippolita, El lado oscuro de Google, cit., « V. Además, otras funcionalidades maliciosas »
