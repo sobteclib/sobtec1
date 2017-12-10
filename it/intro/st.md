@@ -112,3 +112,5 @@ spideralex[at]riseup[dot]net
 [^19]:	https://it.wikipedia.org/wiki/La_cattedrale_e_il_bazaar
 [^20]:	Per esempio Guifi.net iniziò spinta da un gruppo di persone che non riuscivano ad accedere ad un internet di buona qualità per la loro ubicazione geografica considerata “remota” dagli ISP commerciali; o la gente di La Tele – Okupem les Ones che volevano contare su un canale di televisione non commerciale che riflettesse l'attualità dei movimenti sociali.
 [^21]:	Fonte: http://www.ain23.com/topy.net/kiaosfera/contracultura/aaa/aaa_intro.htm
+
+<p align="center"><img src="../../end0.png"></p>
