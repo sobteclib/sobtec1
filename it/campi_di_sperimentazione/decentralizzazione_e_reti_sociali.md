@@ -77,8 +77,8 @@ Software libero, servizi decentralizzati, distribuiti, riproducibili e comunitar
 ---
 
 **Hellekin**
-Maintainer ufficiale del progetto GNU consensus. Sviluppatore a tempo perso, attivista a tempo pieno, naviga nelle reti e nei continenti in cerca di soluzioni per l’empowerment della razza umana a partire dai suoi ideali libertari.
-Nella sua base in America Latina aiuta a costruire una comunità e una infrastruttura libera per le reti di comunicazione elettronica per difendere e promuovere le iniziative locali e decentralizzate. GnuPG: 0x386361391CA24A13 - *hellekin[at]cepheide[dot]org*
+
+Maintainer ufficiale del progetto GNU consensus. Sviluppatore a tempo perso, attivista a tempo pieno, naviga nelle reti e nei continenti in cerca di soluzioni per l’empowerment della razza umana a partire dai suoi ideali libertari. Nella sua base in America Latina aiuta a costruire una comunità e una infrastruttura libera per le reti di comunicazione elettronica per difendere e promuovere le iniziative locali e decentralizzate. GnuPG: 0x386361391CA24A13 - hellekin[at]cepheide[dot]org
 ---
 
 ###### Note
@@ -127,7 +127,8 @@ Nella sua base in America Latina aiuta a costruire una comunità e una infrastru
 
 [^22]: https://gnu.org/consensus
 
-[^23]: Fuorilegge: criminali e spammers, servizi segreti, aziende e governi totalitari etc.
+[^23]: Fuorilegge: criminali e spammers, servizi segreti, aziende e governi totalitari etc...
+
 [^24]: https://gnunet.org/
 
 [^25]: http://secushare.org/
