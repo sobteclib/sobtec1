@@ -76,62 +76,109 @@ Software libero, servizi decentralizzati, distribuiti, riproducibili e comunitar
 
 ---
 
-***Hellekin***
-Mantenitore ufficiale del progetto GNU consensus. Sviluppatore a tempo perso, attivista a tempo pieno, naviga nelle reti e nei continenti in cerca di soluzioni per l’empowerment della razza umana a partire dai suoi ideali libertari.
+**Hellekin**
+Maintainer ufficiale del progetto GNU consensus. Sviluppatore a tempo perso, attivista a tempo pieno, naviga nelle reti e nei continenti in cerca di soluzioni per l’empowerment della razza umana a partire dai suoi ideali libertari.
 Nella sua base in America Latina aiuta a costruire una comunità e una infrastruttura libera per le reti di comunicazione elettronica per difendere e promuovere le iniziative locali e decentralizzate.
-(GnuPG : 0x386361391CA24A13)
-hellekin[at]cepheide[dot]org 
+GnuPG : 0x386361391CA24A13 - *hellekin[at]cepheide[dot]org*
 ---
 
-**Note**
+###### Note
+
 [^1]: La rete 2.0 è un concetto commerciale inventato per valutare la comparsa di siti interattivi di carattere sociale. Il “2.0” non rappresenta qui nessuna caratteristica tecnica, però cerca di tracciare l’obsolescenza di quello che esiste, cioè il Web delle origini, rete tra pari e decentralizzata 
+
 [^2]: https://it.wikipedia.org/wiki/Jacob_Levi_Moreno
+
 [^3]: Barnes, John (1954) “Class and Committees in a Norwegian Island Parish”, in Human Relations, (7), pp 39-58
+
 [^4]: https://it.wikipedia.org/wiki/Howard_Rheingold
+
 [^5]: https://es.wikipedia.org/wiki/Paul_Baran
+
 [^6]: Baran, Paul (1962) “On Distributed Communications Networks”, presentato nel Primo Congresso di Scienza dei Sistemi di Informazione organizzato dal MITRE. 
-[^7]: La “chiacchierata” è stata possibile per il basso costo delle comunicazioni numeriche che si ottiene usndo i protocolli Internet Relay Chat (IRC) eXtensible Messaging Presence Protocol (XMPP), molto prima che apparissero applicazioni proprietarie e limitate come MSN o la chat di Facebook.
+
+[^7]: La “chiacchierata” è stata possibile per il basso costo delle comunicazioni digitali che si ottiene usando i protocolli Internet Relay Chat (IRC) eXtensible Messaging Presence Protocol (XMPP), molto prima che apparissero applicazioni proprietarie e limitate come MSN o la chat di Facebook.
+
 [^8]: https://it.wikipedia.org/wiki/Attacco_man_in_the_middle
+
 [^9]: https://it.wikipedia.org/wiki/BitTorrent
+
 [^10]: https://it.wikipedia.org/wiki/GNUnet
+
 [^11]: https://it.wikipedia.org/wiki/Tor
+
 [^12]: https://it.wikipedia.org/wiki/I2P
+
 [^13]: http://cjdns.info/
+
 [^14]: https://it.wikipedia.org/wiki/Bitcoin
+
 [^15]: Un servizio centralizzato usa spesso la distribuzione nella sua stessa struttura per assicurarsi la sua possibilitò di espansione su larga scala.
+
 [^16]: Nel 2014 la FSF ha compiuto trent’anni dalla sua creazione.
+
 [^17]: Thompson, Ken (1984) “Reflections on Trusting Trust”, URL: http://cm.bell-labs.com/who/ken/trust.html (Si noti l’uso tendenzioso della parola “hacker” nella sua accezione negativa, e come le sue riflessioni si possano applicare oggi agli abusi dei servizi segreti).
+
 [^18]: La complicità dei giganti del software proprietario nella vigilanza globale capitanata dalla NSA dovrebbe fare di questo punto qualcosa di indubitabile
+
 [^19]: Stallman, Richard (1996), “Che cosa è il software libero”? URL: https://gnu.org/philosophy/free-sw.it.html
+
 [^20]: La complicità dei giganti del software proprietario nella vigilanza globale capitanata dalla NSA dovrebbe fare di questo punto qualcosa di indubitabile
+
 [^21]: https://gnu.org/home.fr.html
+
 [^22]: https://gnu.org/consensus
+
 [^23]: Fuorilegge: criminali e spammers, servizi segreti, aziende e governi totalitari etc.
 [^24]: https://gnunet.org/
+
 [^25]: http://secushare.org/
+
 [^26]: http://prism-break.org/fr/
+
 [^27]: https://gnu.org/s/social/
+
 [^28]: http://friendica.com/
+
 [^29]: http://pump.io/
+
 [^30]: http://twister.net.co/
-[^31]: http://www.elgg.org/
+
+[^31]: http://www.elgg.org
+
 [^32]: https://lorea.org/
+
 [^33]: https://we.riseup.net/crabgrass
+
 [^34]: https://drupal.org/
+
 [^35]: http://indiewebcamp.com/
+
 [^36]: meet.jit.si per il servizio e http://jitsi.org/ per il software.
+
 [^37]: http://tox.im/  ha come obiettivo la sostituzione di Skype con una soluzione libera
+
 [^38]: https://leap.se/fr
+
 [^39]: https://pond.imperialviolet.org/
+
 [^40]: https://es.wikipedia.org/wiki/I2P
+
 [^41]: https://help.riseup.net/es/email
+
 [^42]: http://www.autistici.org
+
 [^43]: https://gnu.org/s/mediagoblin
+
 [^44]: https://unhosted.org/
+
 [^45]: Kleiner, Dmytri (2010), “Il manifesto telecomunista »”, URL: http://telekommunisten.net/the-telekommunist-manifesto/
+
 [^46]: MMORPG : Massively Multiplayer Online Role Playing Games
+
 [^47]: http://www.planeshift.it/
+
 [^48]: https://en.wikipedia.org/wiki/Crystal_Space
+
 [^49]: StartPage, Ixquick e DuckDuckGo hanno quintuplicato l’affluenza ai loro motori di ricerca dopo che alcuni articoli su Der Spiegel e The Guardian ne hanno parlato nel 2013
 
 <p align="center"><img src="../../end0.png"></p>
