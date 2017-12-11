@@ -2,7 +2,7 @@
 
 <p align="center"><img src="../logo.png"></p>
 
-Scritto inizialmente in Catalano, Soberanía Tecnológica è una raccolta di saggi curata dalla colonia ecoindustriale postcapitalista [Calafou](https://calafou.org/es). Attraverso l’analisi critica dello sviluppo tecnologico della nostra società, varie tematiche sono affrontate per fornire una prospettiva differente sulle possibilità offerte dalla tecnologia contemporanea: server autogestiti, criptomonete, hacklabs e hackerspaces, motori di ricerca alternativi sono tra gli argomenti trattati.
+Scritto inizialmente in Catalano, Sobiranía Tecnológica è una raccolta di saggi curata dalla colonia ecoindustriale postcapitalista [Calafou](https://calafou.org/es). Attraverso l’analisi critica dello sviluppo tecnologico della nostra società, varie tematiche sono affrontate per fornire una prospettiva differente sulle possibilità offerte dalla tecnologia contemporanea: server autogestiti, criptomonete, hacklabs e hackerspaces, motori di ricerca alternativi sono tra gli argomenti trattati.
 
 Per quanto sia stato possibile si è cercata una policy degender, ovvero di neutralizzare il più possibile riferimenti alla definizione binaria dei sessi. In alcuni casi si è scelta la forma femminile per essere fedeli al testo originale in quando ne condividiamo la scelta politica.
 
