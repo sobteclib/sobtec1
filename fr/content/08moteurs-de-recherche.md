@@ -298,7 +298,7 @@ propriété, parce que*:
 > multiplication de petites machines et l’adaptation des grandes machines à de
 > petites unités, la vente exclusive d’éléments machiniques qui doivent être
 > assemblés par les usagers-producteurs eux-mêmes, la destruction de la
-> spécialisation du savoir et du monopole professionnel [^17].
+> spécialisation du savoir et du monopole professionnel. [^17]
 
 La question qui se re-pose encore et toujours est donc: comment faire?  Quels
 désirs avons-nous à l'égard des technologies de recherche?  Veut-on *trouver*

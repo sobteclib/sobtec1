@@ -38,7 +38,7 @@ politiques, économiques, sociales imbriquées les unes aux autres [^2], ou
 encore chercher à les résoudre isolément ou dans leur ensemble par la seule
 technologie se constituent comme autant d'options aberrantes. Il est d'ores et
 déjà clair que la souveraineté technologique en elle-même ne nous détournera
-pas de notre inexorable course ... vers le mur.
+pas de notre inexorable course … vers le mur.
 
 Il est impossible de continuer sur la voie de la croissance tout azimuts telle
 qu'elle a été poursuivie jusqu'à présent. Un arrêt sur place, voire même une
