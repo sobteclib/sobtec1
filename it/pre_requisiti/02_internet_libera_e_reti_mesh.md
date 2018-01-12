@@ -105,19 +105,19 @@ Artista e coordinatore di [Labomedia](http://labomedia.org), mediahackerfablabsp
 
 [^1]: https://it.wikipedia.org/wiki/ICANN
 
-[^2]: - (Un indirizzo IP chiamato “pubblico” è quello che permette a un computer di essere parte di Internet e di parlare lo stesso linguaggio ,il protocollo TCP/IP, per scambiare dati con suoi affini: server, personal computers, terminali mobili e altri oggetti chiamati “comunicanti”. I server DNS servono a trasformare questi indirizzi IP in nomi di dominio affinché i server sian piú accessibili agli umani e ai robot dei motori di ricerca.)
+[^2]: Un indirizzo IP chiamato “pubblico” è quello che permette a un computer di essere parte di Internet e di parlare lo stesso linguaggio ,il protocollo TCP/IP, per scambiare dati con suoi affini: server, personal computers, terminali mobili e altri oggetti chiamati “comunicanti”. I server DNS servono a trasformare questi indirizzi IP in nomi di dominio affinché i server sian piú accessibili agli umani e ai robot dei motori di ricerca.
 
-[^3]: http://www.bortzmeyer.org/dns-p2p.html (Un DNS in peer-to-peer ?” - Stéphane Bortzmeyer -)
+[^3]: http://www.bortzmeyer.org/dns-p2p.html "Un DNS in peer-to-peer?" - Stéphane Bortzmeyer
 
-[^4]: http://torrentfreak.com/megaupload-shut-down-120119 (MegaUpload Shut Down by the Feds, Founder Arrested )
+[^4]: http://torrentfreak.com/megaupload-shut-down-120119 MegaUpload Shut Down by the Feds, Founder Arrested
 
 [^5]: http://bureaudetudes.org/2003/01/19/net-governement-2003/
 
 [^6]: http://www.laquadrature.net
 
-[^7]: - (Con “motivi discutibili” ci riferiamo al fatto di nascondere le offensive contro la neutralità della rete sotto il pretesto di voler proteggere la proprietà intellettuale e il diritto d’autore, prevenire il terrorismo e l’aumentare degli estremismi, o anche la lotta contro la pedofilia e altri comportamenti predatori nella rete. Non diciamo che questi problemi non esistono, ma provare a risolverli attraverso restrizioni della libertà in rete, dove la neutralità è un principio base, è un errore fondamentale.)
+[^7]: Con "motivi discutibili" ci riferiamo al fatto di nascondere le offensive contro la neutralità della rete sotto il pretesto di voler proteggere la proprietà intellettuale e il diritto d’autore, prevenire il terrorismo e l’aumentare degli estremismi, o anche la lotta contro la pedofilia e altri comportamenti predatori nella rete. Non diciamo che questi problemi non esistono, ma provare a risolverli attraverso restrizioni della libertà in rete, dove la neutralità è un principio base, è un errore fondamentale.
 
-[^8]: https://es.wikipedia.org/wiki/VOIP (Wikipedia VOIP)
+[^8]: https://es.wikipedia.org/wiki/VOIP Wikipedia VOIP
 
 [^9]: http://reflets.info/amesys-et-la-surveillance-de-masse-du-fantasme-a-la-dure-realite/
 
@@ -125,7 +125,7 @@ Artista e coordinatore di [Labomedia](http://labomedia.org), mediahackerfablabsp
 
 [^11]: http://www.numerama.com/magazine/22544-la-neutralite-du-net-devient-une-obligation-legale-aux-pays-bas.html
 
-[^12]: http://www.laquadrature.net/fr/les-regulateurs-europeens-des-telecoms-sonnent-lalarme-sur-la-neutralite-du-net. (neutralita' della rete - Vedere anche la campagna: http://savetheinternet.eu/fr/)
+[^12]: http://www.laquadrature.net/fr/les-regulateurs-europeens-des-telecoms-sonnent-lalarme-sur-la-neutralite-du-net. Sulla neutralita' della rete vedere anche la campagna: http://savetheinternet.eu/fr/
 
 [^13]: http://www.rccem.fr/tpl/accueil.php?docid=2
 
@@ -137,13 +137,13 @@ Artista e coordinatore di [Labomedia](http://labomedia.org), mediahackerfablabsp
 
 [^17]: http://www.ffdn.org/fr/membres
 
-[^18]: http://www.ffdn.org/fr/article/2014-01-03/federer-les-fai-participatifs-du-monde-entier (Una mappa dell’evoluzione dei FAI)
+[^18]: http://www.ffdn.org/fr/article/2014-01-03/federer-les-fai-participatifs-du-monde-entier Una mappa dell’evoluzione dei FAI
 
 [^19]: http://blog.spyou.org/wordpress-mu/2010/08/19/comment-devenir-son-propre-fai-9-cas-concret/
 
 [^20]: http://blog.spyou.org/wordpress-mu/?s=%22comment+devenir+son+propre+fai%22
 
-[^21]: https://es.wikipedia.org/wiki/Banda_ISM (Banda ISM, vedere anche https://fr.wikipedia.org/wiki/Bande_industrielle,_scientifique_et_m%C3%A9dicale)
+[^21]: https://es.wikipedia.org/wiki/Banda_ISM Banda ISM, vedere anche https://fr.wikipedia.org/wiki/Bande_industrielle,_scientifique_et_m%C3%A9dicale
 
 [^22]: http://freifunk.net/
 
@@ -151,13 +151,13 @@ Artista e coordinatore di [Labomedia](http://labomedia.org), mediahackerfablabsp
 
 [^24]: http://guifi.net/
 
-[^25]: https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region (Lista reti wireless comunitarie, vedere anche http://ninux.org) 
+[^25]: https://en.wikipedia.org/wiki/List_of_wireless_community_networks_by_region Lista reti wireless comunitarie, vedere anche http://ninux.org 
 
 [^26]: http://www.open-mesh.org/projects/open-mesh/wiki
 
-[^27]: - (Si veda il contributo di Elleflane su “Hardware Libero” in questo dossier.)
+[^27]: Si veda il contributo di Elleflane su “Hardware Libero” in questo dossier.
 
-[^28]: http://owni.fr/2011/05/07/le-spectre-de-nos-libertes/ (Allegato di Félix Treguer e Jean Cattan a favore della liberazione delle frequenze « Le spectre de nos libertés » lo spettro delle nostre libertà )
+[^28]: http://owni.fr/2011/05/07/le-spectre-de-nos-libertes/ Allegato di Félix Treguer e Jean Cattan a favore della liberazione delle frequenze « Le spectre de nos libertés » lo spettro delle nostre libertà
 
 [^29]: https://guifi.net/ca/CXOLN
 
@@ -170,3 +170,5 @@ Artista e coordinatore di [Labomedia](http://labomedia.org), mediahackerfablabsp
 [^33]: http://daviddarts.com/piratebox/?id=PirateBox
 
 [^34]: http://wiki.labomedia.org/index.php/PirateBox#Projets_et_d.C3.A9tournements_de_la_PirateBox
+
+<p align="center"><img src="../../end0.png"></p>

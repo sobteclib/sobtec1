@@ -15,7 +15,7 @@ Contributi
 
 **Traduzione in catalano:** Xavier Borràs i Deliris
 
-**Traduzione in italiano:** HacklabB0
+**Traduzione in italiano:** HacklabB0, AvANa
 
 **Revisione del castigliano e catalano:** Aarón Fortuño
 

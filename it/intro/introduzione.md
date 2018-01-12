@@ -22,3 +22,5 @@ Forse questo dossier non darà soluzioni a temi cosí ampi, ma suggerisce modi a
 [^3]: Mike Davis, Planet of Slums, 2007
 
 [^4]: Burning Chrome: http://en.wikipedia.org/wiki/Burning_Chrome, di William Gibson
+
+<p align="center"><img src="../../end0.png"></p>

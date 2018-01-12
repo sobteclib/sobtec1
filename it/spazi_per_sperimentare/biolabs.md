@@ -1,6 +1,7 @@
-# Biohacking: Investigazione scientifica come capacità di performare la realtà. <br/> Una revisione transhackfemminista dell'hacking nella scienza
+# Biohacking: Investigazione scientifica come capacità di performare la realtà.
+## Una revisione transhackfemminista dell'hacking nella scienza
 
-## Paula Pin
+*Paula Pin*
 
 ![cellule](../../es/content/media/biohacking.png)	
 
@@ -99,3 +100,4 @@ Performer e investigatrice. Laureata in belle arti all'università di Barcellona
 [^18]: http://pechblenda.hotglue.me/
  
 
+<p align="center"><img src="../../end0.png"></p>

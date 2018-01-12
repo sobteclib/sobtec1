@@ -19,6 +19,7 @@
   * [Hacklab](spazi_per_sperimentare/hacklabs.md)
   * [Fablab](spazi_per_sperimentare/fablabs.md)
   * [Biolab](spazi_per_sperimentare/biolabs.md)
+  * [Calafou](spazi_per_sperimentare/calafou.md)
 * Contributi + ringraziamenti
  * [Contributi](contributi.md)
  * [Ringraziamenti](ringraziamenti.md)

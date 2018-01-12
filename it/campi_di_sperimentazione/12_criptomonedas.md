@@ -95,3 +95,5 @@ Ingeniero informático con más de 4 años de experiencia en Indra, trabajando e
 7.http://en.wikipedia.org/wiki/Worgl#The_W.C3.B6rgl_Experiment 
 8. http://en.wikipedia.org/wiki/Silvio_Gesell 
 9. http://en.wikipedia.org/wiki/Cypherpunk
+
+<p align="center"><img src="../../end0.png"></p>
