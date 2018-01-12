@@ -209,36 +209,36 @@ Mean Equipment'. http://ki.ber.kom.uni.st
 
 ------------------------------------------------------------------------
 
-[1]: http://www.digitalbookworld.com/2012/american-library-association-open-letter-to-publishers-on-e-book-library-lending/
+[^1]: http://www.digitalbookworld.com/2012/american-library-association-open-letter-to-publishers-on-e-book-library-lending/
 
-[2]: http://www.libraryjournal.com/lj/home/889452-264/harpercollins_puts_26_loan_cap.html.csp
+[^2]: http://www.libraryjournal.com/lj/home/889452-264/harpercollins_puts_26_loan_cap.html.csp
 
-[3]: http://www.americanheritage.com/content/melvil-dewey
+[^3]: http://www.americanheritage.com/content/melvil-dewey
 
-[4]: http://aaaaarg.org/
+[^4]: http://aaaaarg.org/
 
-[5]: http://monoskop.org/
+[^5]: http://monoskop.org/
 
-[6]: http://www.piratecinema.org/?page=faq
+[^6]: http://www.piratecinema.org/?page=faq
 
-[7]: http://pad.ma/
+[^7]: http://pad.ma/
 
-[8]: http://ubu.com/
+[^8]: http://ubu.com/
 
-[9]: http://www.kether.com/bio/
+[^9]: http://www.kether.com/bio/
 
-[10]: http://en.wikipedia.org/wiki/Piratbyrån
+[^10]: http://en.wikipedia.org/wiki/Piratbyrån
 
-[11]: http://thepiratebay.org/
+[^11]: http://thepiratebay.org/
 
-[12]: http://libgen.org/
+[^12]: http://libgen.org/
 
-[13]: http://en.wikipedia.org/wiki/Aaron_Swartz
+[^13]: http://en.wikipedia.org/wiki/Aaron_Swartz
 
-[14]: http://www.memoryoftheworld.org/es/blog/2012/11/26/catalogo-de-punto-a-punto/
+[^14]: http://www.memoryoftheworld.org/es/blog/2012/11/26/catalogo-de-punto-a-punto/
 
-[15]: http://www.memoryoftheworld.org/es/blog/2012/11/27/antes-y-despues-de-calibre/
+[^15]: http://www.memoryoftheworld.org/es/blog/2012/11/27/antes-y-despues-de-calibre/
 
-[16]: http://www.memoryoftheworld.org/es/blog/2012/10/28/our-beloved-bookscanner/
+[^16]: http://www.memoryoftheworld.org/es/blog/2012/10/28/our-beloved-bookscanner/
 
 
