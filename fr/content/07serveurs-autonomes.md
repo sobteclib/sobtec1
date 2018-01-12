@@ -16,7 +16,7 @@ cette page Web sont logés dans un serveur. Ceux-ci peuvent être de diverses
 natures. Dans l'article suivant, nous aborderons les serveurs dénommés
 serveurs autonomes.
 
-## Qu'est-ce qu'un serveur autonome ?
+## Qu'est-ce qu'un serveur autonome?
 
 Nous pourrions définir les serveurs autonomes comme des serveurs autogérés
 dont la durabilité dépend du travail volontaire et/ou rémunéré de ceux qui en
@@ -56,7 +56,7 @@ stabilité à leur service, étant donné qu'avoir un serveur dans le placard de
 la maison implique également et normalement de nombreux épisodes de
 déconnexion.
 
-## À quoi servent les serveurs autonomes ?
+## À quoi servent les serveurs autonomes?
 
 En parallèle, l'industrie de l'information a réussi à monétiser chaque fois
 plus ses utilisateurs et n'a plus besoin de leur demander de l'argent pour les
@@ -218,20 +218,20 @@ sociaux.
 
 [^0]: http://fr.wikipedia.org/wiki/Service_(économie)
 
-[1]: http://riseup.net
+[^1]: http://riseup.net
 
-[2]: http://www.spiegel.de/international/europe/the-big-brother-of-europe-france-moves-closer-to-unprecedented-internet-regulation-a-678508.html
+[^2]: http://www.spiegel.de/international/europe/the-big-brother-of-europe-france-moves-closer-to-unprecedented-internet-regulation-a-678508.html
 
-[3]: http://www.zdnet.com/france-drops-hadopi-three-strikes-copyright-law-7000017857/ • http://www.zdnet.com/the-pirate-bay-kicked-off-sx-domain-after-dutch-pressure-7000024225/
+[^3]: http://www.zdnet.com/france-drops-hadopi-three-strikes-copyright-law-7000017857/ • http://www.zdnet.com/the-pirate-bay-kicked-off-sx-domain-after-dutch-pressure-7000024225/
 
-[4]: http://www.law.cornell.edu/wex/computer_and_internet_fraud
+[^4]: http://www.law.cornell.edu/wex/computer_and_internet_fraud
 
-[5]: http://en.rsf.org/internet-enemie-burma,39754.html
+[^5]: http://en.rsf.org/internet-enemie-burma,39754.html
 
-[6]: http://www.telegraph.co.uk/technology/blackberry/8689313/London-riots-BlackBerry-manufacturer-offers-to-help-police-in-any-way-we-can.html
+[^6]: http://www.telegraph.co.uk/technology/blackberry/8689313/London-riots-BlackBerry-manufacturer-offers-to-help-police-in-any-way-we-can.html
 
-[7]: http://socialfixer.com/blog/2013/09/12/beware-your-business-is-at-the-mercy-of-facebook-social-fixer-page-deleted-without-explanation/
+[^7]: http://socialfixer.com/blog/2013/09/12/beware-your-business-is-at-the-mercy-of-facebook-social-fixer-page-deleted-without-explanation/
 
-[8]: “My Fellow Users, I have been forced to make a difficult decision: to become complicit in crimes against the American people or walk away from nearly ten years of hard work by shutting down Lavabit. After significant soul searching, I have decided to suspend operations. I wish that I could legally share with you the events that led to my decision. I cannot. I feel you deserve to know what’s going on--the first amendment is supposed to guarantee me the freedom to speak out in situations like this.  Unfortunately, Congress has passed laws that say otherwise. As things currently stand, I cannot share my experiences over the last six weeks, even though I have twice made the appropriate requests. What’s going to happen now? We’ve already started preparing the paperwork needed to continue to fight for the Constitution in the Fourth Circuit Court of Appeals. A favorable decision would allow me resurrect Lavabit as an American company.This experience has taught me one very important lesson: without congressional action or a strong judicial precedent, I would \_strongly\_ recommend against anyone trusting their private data to a company with physical ties to the United States.” http://lavabit.com/
+[^8]: “My Fellow Users, I have been forced to make a difficult decision: to become complicit in crimes against the American people or walk away from nearly ten years of hard work by shutting down Lavabit. After significant soul searching, I have decided to suspend operations. I wish that I could legally share with you the events that led to my decision. I cannot. I feel you deserve to know what’s going on--the first amendment is supposed to guarantee me the freedom to speak out in situations like this.  Unfortunately, Congress has passed laws that say otherwise. As things currently stand, I cannot share my experiences over the last six weeks, even though I have twice made the appropriate requests. What’s going to happen now? We’ve already started preparing the paperwork needed to continue to fight for the Constitution in the Fourth Circuit Court of Appeals. A favorable decision would allow me resurrect Lavabit as an American company.This experience has taught me one very important lesson: without congressional action or a strong judicial precedent, I would \_strongly\_ recommend against anyone trusting their private data to a company with physical ties to the United States.” http://lavabit.com/
 
-[9]: Le lien suivant répertorie une liste de ces collectifs: https://www.riseup.net/radical-servers
+[^9]: Le lien suivant répertorie une liste de ces collectifs: https://www.riseup.net/radical-servers
