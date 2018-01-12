@@ -2,7 +2,7 @@
 
 ## Avant
 
- * [Introduction](content/README.md)
+ * [Intro](content/README.md)
  * [Préface](content/02preface.md)
  * [Souveraineté technologique](content/03st.md)
 
