@@ -43,10 +43,10 @@ quand vous les utilisez pour quelque chose d'important pour vous.
 Pour que l'utilisateur ait la maîtrise du programme, il doit bénéficier des
 quatre libertés essentielles [^2].
 
-(0) La liberté de faire fonctionner le programme comme l'on souhaite,
+0. La liberté de faire fonctionner le programme comme l'on souhaite,
 pour n'importe quel usage.
 
-(1) La liberté d'étudier le « code source » du programme, et de le
+1. La liberté d'étudier le « code source » du programme, et de le
 modifier, de telle sorte que le programme s'exécute comme vous le
 voulez. Les programmes sont écrits par des programmeurs dans un langage
 de programmation, ressemblant à de l'anglais combiné avec de l'algèbre;
@@ -59,7 +59,7 @@ extrêmement difficile à comprendre pour un être humain, la compréhension
 et la modification du programme sous cette forme sont d'une difficulté
 redoutable.
 
-(2) La liberté de créer et de distribuer des copies exactes quand vous
+2. La liberté de créer et de distribuer des copies exactes quand vous
 le souhaitez. (Ce n'est pas une obligation; c'est votre choix. Si le
 programme est libre, cela ne signifie pas que quelqu'un a l'obligation
 de vous en proposer une copie, ou que vous avez l'obligation de lui en
@@ -68,7 +68,7 @@ liberté, c'est leur faire du tort; cependant, choisir de ne pas
 distribuer le programme — en l'utilisant de manière privée — ne fait de
 tort à personne.)
 
-(3) La liberté de faire et de distribuer des copies de vos versions
+3. La liberté de faire et de distribuer des copies de vos versions
 modifiées, quand vous le souhaitez.
 
 Avec les deux premières libertés, chaque utilisateur peut exercer un
@@ -308,7 +308,7 @@ Traduction: Framalang (Asta, ckiw, Penguin, Amine Brikci-N, lgodard,
 Feadurn, Thérèse, aKa, Spanti Nicola, Paul, Scailyna, Armos, genma,
 Figue, Sébastien et quelques anonymes).
 
-Révision: trad-gnu@april.org
+Révision: trad-gnu [at] april [dot] org
 
 [^1]: http://www.wired.com/opinion/2013/09/why-free-software-is-more-important-now-than-ever-before
 
