@@ -322,8 +322,7 @@ Orléans (France). http://labomedia.org
 
 [^11]: http://www.numerama.com/magazine/22544-la-neutralite-du-net-devient-une-obligation-legale-aux-pays-bas.html
 
-[^12]:
-http://www.laquadrature.net/fr/les-regulateurs-europeens-des-telecoms-sonnent-lalarme-sur-la-neutralite-du-net • Voir aussi la campagne: http://savetheinternet.eu/fr/
+[^12]: http://www.laquadrature.net/fr/les-regulateurs-europeens-des-telecoms-sonnent-lalarme-sur-la-neutralite-du-net • Voir aussi la campagne: http://savetheinternet.eu/fr/
 
 [^13]: http://www.rccem.fr/tpl/accueil.php?docid=2
 
