@@ -4,17 +4,17 @@
 
 Encore largement inconnu du public il y a deux décennies, le terme de « réseau
 social » apparaît aujourd'hui comme une innovation du *Web
-2.0* [^1]footnote1. Toutefois il s'agit d'un concept
+2.0* [^1]. Toutefois il s'agit d'un concept
 bien antérieur au phénomène de concentration mercantile des instruments dédiés
 aux réseaux sociaux. En 1933, le sociologue Jacob Levy
-Moreno [^2]footnote2 introduisit le sociogramme, une
+Moreno [^2] introduisit le sociogramme, une
 représentation graphique des relations interpersonnelles où chaque nœud est un
 individu et chaque lien une relation sociale. Le terme de « réseau social »
 apparut pour la première fois en 1954 dans un article du professeur John
-Arundel Barnes [^3]footnote3, concluant son étude des
+Arundel Barnes [^3], concluant son étude des
 relations sociales dans un village de pêcheurs Norvégiens.
 
-Howard Rheingold [^4]footnote4, pionnier des
+Howard Rheingold [^4], pionnier des
 communautés virtuelles et chroniqueur visionnaire des changements sociaux liés
 à l'évolution des technologies de l'information et de la communication
 souligne comment « *certaines personnes confondent les réseaux sociaux, qui
@@ -26,8 +26,8 @@ au-mieux à en faciliter l'émergence.
 ### Réseau centralisé, décentralisé, distribué ?
 
 Ces concepts ont évolués depuis l'article de Paul
-Baran [^5]footnote5 consacré aux diverses topologies
-de réseaux de communication [^6]footnote6. Les
+Baran [^5] consacré aux diverses topologies
+de réseaux de communication [^6]. Les
 caractérisations suivantes en offrent une vue plus sociale que technique.
 
 On dit qu'un réseau est centralisé lorsque son intégrité dépend d'un acteur
@@ -44,7 +44,7 @@ Un réseau décentralisé ne dépend pas d'un pôle unique de décision, mais ch
 membre du réseau n'est pas nécessairement autonome, et peut dépendre de la
 disponibilité d'un serveur qui le relie au reste du réseau; la fédération est
 le modèle typique du réseau décentralisé, tels le courrier électronique ou les
-réseaux de *chat [^7]footnote7*. Ce modèle est parfait
+réseaux de *chat [^7]*. Ce modèle est parfait
 pour des organisations qui peuvent maintenir leur propres infrastructures de
 communication et préfèrent contrôler leurs communications. Mais il présente la
 même problématique qu'un réseau centralisé concernant le rôle de
@@ -53,8 +53,8 @@ in the middle* »).
 
 Lorsque chaque nœud du réseau décentralisé est autonome, on parle de réseau
 distribué: c'est le modèle de pair-à-pair (P2P) comme
-Bittorrent [^8]footnote8,
-GNUnet [^9]footnote9,
+Bittorrent [^8],
+GNUnet [^9],
 Tor [^10],
 I2P [^11],
 cjdns [^12] ou
