@@ -52,7 +52,7 @@ d'interdire (*lus prohibendi*) permet au titulaire du droit de demander le
 paiement d'une licence, appelée redevance ou royaltie, qui possède des limites
 temporelles et territoriales.
 
-## Hardware libre: jusqu'où et de quelle manière ?
+## Hardware libre: jusqu'où et de quelle manière?
 
 Toutes les étapes suivantes doivent faire partie de la mise en place de
 hardware libre: une conception, un processus de fabrication, des matières
@@ -159,7 +159,7 @@ réelles possibilités de générer des gains économiques avec des projets bas�
 sur une activité ouverte et partagée avec la communauté. Ce qui est moins
 clair, c'est: Est-il possible d'envisager une réelle politique anticapitaliste
 basée sur un projet économique et de redistribution des biens en lien avec des
-logiques de durabilité et de décroissance ?
+logiques de durabilité et de décroissance?
 
 Il existe un modèle de durabilité intéressant pour l'Open Hardware qui réside
 dans le crowdfunding [^36] et qui consiste à recevoir de petites quantités de
@@ -206,7 +206,7 @@ une existence physique et l'autre non. De ce fait, une conception physique est
 unique et sa répartition dépend de sa facilité de reproduction.
 
 De plus, il existe une dépendance technologique envers les composants importés
-qui peut se traduire par: les chips sont-ils disponibles ? De ce fait, il
+qui peut se traduire par: les chips sont-ils disponibles? De ce fait, il
 existe des modèles d'exclusion étant donné que toute personne n'est pas
 capable de réaliser un hardware libre, dû aux implications causées par le type
 d'infrastructure nécessaire. La personne qui souhaite utiliser le hardware
@@ -374,118 +374,118 @@ Space Agency).
 
 ------------------------------------------------------------------------
 
-[1]: http://es/wikipedia.org/wiki/homebrew_Computer-Club
+[^1]: http://es/wikipedia.org/wiki/homebrew_Computer-Club
 
-[2]: http://www.webopedia.com/TERM/F/FPGA.html
+[^2]: http://www.webopedia.com/TERM/F/FPGA.html
 
-[3]: http://www.nationmaster.com/encyclopedia.Challenge-to-Silicon-Valley
+[^3]: http://www.nationmaster.com/encyclopedia.Challenge-to-Silicon-Valley
 
-[4]: http://www.opencollector.org/history/OpenDesignCircuits/index.html
+[^4]: http://www.opencollector.org/history/OpenDesignCircuits/index.html
 
-[5]: http://www.oepm.es/es/propiedad_industrial/propiedad_industrial/
+[^5]: http://www.oepm.es/es/propiedad_industrial/propiedad_industrial/
 
-[6]: http:/stallman.org
+[^6]: http:/stallman.org
 
-[7]: http://www.fsf/org/
+[^7]: http://www.fsf/org/
 
-[8]: https://www.gnu.org/licences/licences.es.html
+[^8]: https://www.gnu.org/licences/licences.es.html
 
-[9]: http://www.linuxtoday.com/infrastructure/1999062200505NWLF
+[^9]: http://www.linuxtoday.com/infrastructure/1999062200505NWLF
 
-[10]: http://www.opencollector.org/Whyfree/freedesign.html
+[^10]: http://www.opencollector.org/Whyfree/freedesign.html
 
-[11]: http://www.oshwa.org/
+[^11]: http://www.oshwa.org/
 
-[12]: http://www.openhardware.net/
+[^12]: http://www.openhardware.net/
 
-[13]: https://www.gnu.org/copyleft/gpl.html
+[^13]: https://www.gnu.org/copyleft/gpl.html
 
-[14]: http://freemodelfoundry.com/
+[^14]: http://freemodelfoundry.com/
 
-[15]: http://www.uv.es/leo/sparc
+[^15]: http://www.uv.es/leo/sparc
 
-[16]: http://opencores.org/
+[^16]: http://opencores.org/
 
-[17]: http://opensource.org/licenses/MIT
+[^17]: http://opensource.org/licenses/MIT
 
-[18]: http://web.media.mit.edu/~rehmi/freeip.html
+[^18]: http://web.media.mit.edu/~rehmi/freeip.html
 
-[19]: http://www.debian.org/News/2000/20001123.en.html
+[^19]: http://www.debian.org/News/2000/20001123.en.html
 
-[20]: http://blog.openlibrary.org/tag/gnubook/
+[^20]: http://blog.openlibrary.org/tag/gnubook/
 
-[21]: http://www.simputer.org/simputer/license/
+[^21]: http://www.simputer.org/simputer/license/
 
-[22]: http://f-cpu.seul.org/
+[^22]: http://f-cpu.seul.org/
 
-[23]: http://opencores.org/
+[^23]: http://opencores.org/
 
-[24]: http://www.opencollector.org/hardlicense/msg00007.html
+[^24]: http://www.opencollector.org/hardlicense/msg00007.html
 
-[25]: https://joinup.ec.europa.eu/software/page/open_source_licences_and_complementary_agreements
+[^25]: https://joinup.ec.europa.eu/software/page/open_source_licences_and_complementary_agreements
 
-[26]: http://www.opencollector.org/hardlicense/hdpl.html
+[^26]: http://www.opencollector.org/hardlicense/hdpl.html
 
-[27]: http://www.opencollector.org/hardlicense/licenses.html
+[^27]: http://www.opencollector.org/hardlicense/licenses.html
 
-[28]: http://www.opencollector.org/hardlicense/hdpl.html
+[^28]: http://www.opencollector.org/hardlicense/hdpl.html
 
-[29]: http://www.ohwr.org/projects/cernohl/wiki
+[^29]: http://www.ohwr.org/projects/cernohl/wiki
 
-[30]: http://www.marketwired.com/press-release/adafruits-limor-fried-phillip-torrone-featured-keynotes-for-make-conference-1649479.htm
+[^30]: http://www.marketwired.com/press-release/adafruits-limor-fried-phillip-torrone-featured-keynotes-for-make-conference-1649479.htm
 
-[31]: https://www.adafruit.com/
+[^31]: https://www.adafruit.com/
 
-[32]: http://www.arduino.cc/
+[^32]: http://www.arduino.cc/
 
-[33]: http://www.chumby.com/
+[^33]: http://www.chumby.com/
 
-[34]: http://www.liquidware.com/
+[^34]: http://www.liquidware.com/
 
-[35]: https://www.makerbot.com/
+[^35]: https://www.makerbot.com/
 
-[36]: http://en.wikipedia.org/wiki/Crowdfunding
+[^36]: http://en.wikipedia.org/wiki/Crowdfunding
 
-[37]: http://p2pfoundation.net/Open_Source_Hardware-Reserve_Bank
+[^37]: http://p2pfoundation.net/Open_Source_Hardware-Reserve_Bank
 
-[38]: http://www.openmoney.org/
+[^38]: http://www.openmoney.org/
 
-[39]: http://metacurrency.org/
+[^39]: http://metacurrency.org/
 
-[40]: http://opendesignnow.org/index.php/visual_index/manifestos/
+[^40]: http://opendesignnow.org/index.php/visual_index/manifestos/
 
-[41]: http://sindomonio.net/hackmeeting/wiki/2014
+[^41]: http://sindomonio.net/hackmeeting/wiki/2014
 
-[42]: http://giss.tv/dmmdb/index.php?channel=hardmeeting
+[^42]: http://giss.tv/dmmdb/index.php?channel=hardmeeting
 
-[43]: https://calafou.org/es/contenthackthearth-2013-jornadas-autosuficiencia
+[^43]: https://calafou.org/es/contenthackthearth-2013-jornadas-autosuficiencia
 
-[44]: http://xctit.cooperativa.cat/encuentros/extrud_me-2014/
+[^44]: http://xctit.cooperativa.cat/encuentros/extrud_me-2014/
 
-[45]: http://2013.oshwa.org/
+[^45]: http://2013.oshwa.org/
 
-[46]: http://www.ccc.de/en/
+[^46]: http://www.ccc.de/en/
 
-[47]: http://www.oswash.org/
+[^47]: http://www.oswash.org/
 
-[48]: http://medialab-prado.es/
+[^48]: http://medialab-prado.es/
 
-[49]: http://www.laboralcentrodearte.org
+[^49]: http://www.laboralcentrodearte.org
 
-[50]: http://hangar.org
+[^50]: http://hangar.org
 
-[51]: http://www.befaco.org
+[^51]: http://www.befaco.org
 
-[52]: http://faboratory.org/
+[^52]: http://faboratory.org/
 
-[53]: http://pechblenda.hotglue.me/
+[^53]: http://pechblenda.hotglue.me/
 
-[54]: http://xctit.cooperativa.cat/
+[^54]: http://xctit.cooperativa.cat/
 
-[55]: http://cooperativa.cat/
+[^55]: http://cooperativa.cat/
 
-[56]: "In the Next Industrial Revolution, Atoms Are the New Bits."
+[^56]: "In the Next Industrial Revolution, Atoms Are the New Bits."
 
-[57]: http://www.openhardware.net/
+[^57]: http://www.openhardware.net/
 
-[58]: http://www.publico.es/418911/la-gente-se-sentiria-molesta-si-viera-de-donde-viene-su-iphone
+[^58]: http://www.publico.es/418911/la-gente-se-sentiria-molesta-si-viera-de-donde-viene-su-iphone
