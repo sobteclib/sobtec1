@@ -2,6 +2,8 @@
 
 ***Hellekin***
 
+![](media/descentralised-soc-net.png)
+
 Encore largement inconnu du public il y a deux décennies, le terme de « réseau
 social » apparaît aujourd'hui comme une innovation du *Web
 2.0* [^1]. Toutefois il s'agit d'un concept

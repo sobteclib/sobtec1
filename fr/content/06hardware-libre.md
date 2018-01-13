@@ -2,6 +2,8 @@
 
 ***Elleflâne***
 
+![](media/free-hw.png)
+
 Le concept de hardware est assez nouveau, très large, en perpétuelle
 rénovation et radicalement différent de celui du logiciel. Il existe une large
 controverse sur ce qu'il est et sur ce qu'il n'est pas, et en l'absence d'une

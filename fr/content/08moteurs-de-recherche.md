@@ -1,6 +1,10 @@
 # Moteurs de recherches
 
-## Ouvert n'est pas libre, publié n'est pas public. La « gratuité » en ligne est une arnaque!
+## Ouvert n'est pas libre, publié n'est pas public
+
+### La « gratuité » en ligne est une arnaque!
+
+![](media/search-engines.png)
 
 ***Ippolita***
 

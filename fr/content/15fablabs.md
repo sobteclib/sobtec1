@@ -4,6 +4,8 @@
 
 ***Ursula Gastfall & Thomas Fourmond***
 
+![](fablabs.png)
+
 Le maker [^1] est une sorte de
 bricoleur du 21e siècle. Il fait un usage important du réseau internet
 comme lieu de diffusion de connaissances, de collaborations et de

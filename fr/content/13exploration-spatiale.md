@@ -2,6 +2,8 @@
 
 ***Marta G. Franco and Spideralex***
 
+![](satellites.png)
+
 Les récits de science fiction ont modelé un futur technologique dans lequel
 nous utiliserions l'espace pour faciliter, sur la terre, la communication par
 ondes. Les satellites artificiels ont été interprétés par un officier

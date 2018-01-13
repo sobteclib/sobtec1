@@ -2,6 +2,8 @@
 
 ***Richard Stallman***
 
+![](media/operating-systems.png)
+
 Une version profondément remaniée de cet article a été publiée dans Wired
 [^1].
 

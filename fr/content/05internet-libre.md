@@ -2,6 +2,8 @@
 
 ***Benjamin Cadon***
 
+![](media/mesh-net.png)
+
 La question de la souveraineté technologique se pose également avec
 acuité lorsqu'il s'agit d'aborder la question d'Internet et de notre
 capacité à y accéder librement pour un ensemble d'usages qui vont de la

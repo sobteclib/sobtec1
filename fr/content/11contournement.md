@@ -6,6 +6,8 @@
 
 ***Julie Gommes***
 
+![](media/circumvention-tools.png)
+
 J’aime beaucoup quand les gens me disent qu’ils n’ont rien à cacher: « Alors
 je peux te filmer sous la douche? » regard interloqué. Mais non ! « Et sinon,
 je peux venir enregistrer quand tu ronfles, la nuit?  Ou alors, au moins lire

@@ -2,6 +2,8 @@
 
 ***Tatiana de la O***
 
+![](media/servers.png)
+
 Selon Wikipedia, en informatique "*un serveur est un dispositif informatique
 matériel ou logiciel qui offre des* *services* [^0], à différents clients
 […] Il s'agit d'un ordinateur doté d'un programme qui réalise certaines

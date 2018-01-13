@@ -6,6 +6,8 @@
 
 ***Paula Pin***
 
+![](media/biohacking.png)
+
 Quand nous parlons de performer nous faisons référence à l'idée de
 “performance” qui signifie avoir une action, parfois artistique, parfois
 scénique et parfois technique, lors de laquelle le facteur improvisation y

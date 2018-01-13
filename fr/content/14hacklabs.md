@@ -4,6 +4,8 @@
 
 ***Maxigas***
 
+![](media/hacklabs.png)
+
 ## Definitions
 
 Can you imagine professional and would-be engineers building their own
@@ -52,6 +54,10 @@ strategico-political point of view in the last section.
 The stories and histories below are confined to Europe, since I am more
 familiar with the continent.
 
+![](images/apt.jpg)
+
+Figure 1: Les Tanneries squatted social centre, Dijon, 2007. Photo published by nigra. Source: https://linksunten.indymedia.org/de/node/98266 Licence: Creative Commons 2.0 Attribution Non-commercial Share-alike.
+
 ### Hacklabs
 
 Hacklabs existed basically since the advent of the personal computer, [^6] but
@@ -91,7 +97,7 @@ the TransHackFeminist Hardlab Pechblenda [^27] as well as flats.
 
 ![](images/Action_IMC-Dijon-20041104-02-small.jpg)
 
-Figure 1: Old hard drives nailed to the front door of the police station in
+Figure 2: Old hard drives nailed to the front door of the police station in
 Dijon, France. Action against the censorship of the local Independent Media
 Center. 4 November, 2004. Photo published by print. Source:
 http://print.squat.net/move.html

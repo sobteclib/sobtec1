@@ -2,6 +2,8 @@
 
 ***Marcell Mars***
 
+![](media/digital-public-libraries.png)
+
 Dans le catalogue des grandes avancées historiques, les bibliothèques
 publiques font partie de l'un des phénomènes dont nous sommes les plus
 fiers, sûrement conjointement avec l'éducation et la santé publique, la

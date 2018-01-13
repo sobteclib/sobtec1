@@ -2,6 +2,8 @@
 
 ***Jorge Timón***
 
+![](media/cryptocurrencies.png)
+
 *"Si vous demandez à un économiste ce qu'est l'argent", il est probable qu'il
 ne vous réponde pas en employant une définition mais en énumérant les trois
 fonctions attribuées traditionnellement à l'argent. À savoir : un moyen
