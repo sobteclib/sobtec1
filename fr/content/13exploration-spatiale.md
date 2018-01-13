@@ -2,7 +2,7 @@
 
 ***Marta G. Franco and Spideralex***
 
-![](satellites.png)
+![](media/satellites.png)
 
 Les récits de science fiction ont modelé un futur technologique dans lequel
 nous utiliserions l'espace pour faciliter, sur la terre, la communication par
