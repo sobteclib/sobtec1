@@ -154,34 +154,34 @@ technologique en développant de la recherche engagée utile.
 
 ------------------------------------------------------------------------
 
-[1]: http://www.philsp.com/mags/sf_s.html#satellite_science_fiction
+[^1]: http://www.philsp.com/mags/sf_s.html#satellite_science_fiction
 
-[2]: http://es.wikipedia.org/wiki/Archivo:Possible_PDM_signal_labeled_as_Sputnik_by_NASA.ogg
+[^2]: http://es.wikipedia.org/wiki/Archivo:Possible_PDM_signal_labeled_as_Sputnik_by_NASA.ogg
 
-[3]: AAA http://www.ain23.com/topy.net/kiaosfera/contracultura/aaa/info_guerra.htm
+[^3]: AAA http://www.ain23.com/topy.net/kiaosfera/contracultura/aaa/info_guerra.htm
 
-[4]: Les satellites peuvent être classés selon leur orbite de gravitation (géostationnaire, basse, moyenne et elliptique) et selon leur but (télécommunications, météorologie, navigation, usages militaires et espions, observation, science et expérience)
+[^4]: Les satellites peuvent être classés selon leur orbite de gravitation (géostationnaire, basse, moyenne et elliptique) et selon leur but (télécommunications, météorologie, navigation, usages militaires et espions, observation, science et expérience)
 
-[5]: Nous recommandons sa page web qui donne des informations très précises sur ses avancées et expériences: http://www.copenhagensuborbitals.com/
+[^5]: Nous recommandons sa page web qui donne des informations très précises sur ses avancées et expériences: http://www.copenhagensuborbitals.com/
 
-[6]: Selon María Eugenia Salazar Furiati, ce projet a été créé en 1977 par 5 nations andines (Bolivie, Colombie, Equateur, Perou et Vénézuela) qui ont effectué des études techniques pour asseoir l'utilisation de certaines positions orbitales qui ont été ultérieurement réservées à leur faveur par l'Union Internationale des Télécommunications (ITU), l'instance internationale qui gère leur attribution. http://www.gumilla.org/biblioteca/bases/biblo/texto/COM2009146_53-64.pdf
+[^6]: Selon María Eugenia Salazar Furiati, ce projet a été créé en 1977 par 5 nations andines (Bolivie, Colombie, Equateur, Perou et Vénézuela) qui ont effectué des études techniques pour asseoir l'utilisation de certaines positions orbitales qui ont été ultérieurement réservées à leur faveur par l'Union Internationale des Télécommunications (ITU), l'instance internationale qui gère leur attribution. http://www.gumilla.org/biblioteca/bases/biblo/texto/COM2009146_53-64.pdf
 
-[7]: http://www.ertopen.com/news-in-4-languages/english/item/3849#.UiOnVNdDT6k
+[^7]: http://www.ertopen.com/news-in-4-languages/english/item/3849#.UiOnVNdDT6k
 
-[8]: https://es.wikipedia.org/wiki/Chaos_Computer_Club
+[^8]: https://es.wikipedia.org/wiki/Chaos_Computer_Club
 
-[9]: http://events.ccc.de/camp/2011/wiki/Space_program_of_the_Hacker_Scene:_For_our_future
+[^9]: http://events.ccc.de/camp/2011/wiki/Space_program_of_the_Hacker_Scene:_For_our_future
 
-[10]: http://en.wikipedia.org/wiki/Hackerspace_Global_Grid
+[^10]: http://en.wikipedia.org/wiki/Hackerspace_Global_Grid
 
-[11]: http://shackspace.de/
+[^11]: http://shackspace.de/
 
-[12]: Le calcul distribué ou réparti est un nouveau modèle permettant de résoudre des problèmes de calcul massif en utilisant un grand nombre d'ordinateurs organisés en clusters de calcul spécialisés dans une infrastructure de télécommunications distribuée.
+[^12]: Le calcul distribué ou réparti est un nouveau modèle permettant de résoudre des problèmes de calcul massif en utilisant un grand nombre d'ordinateurs organisés en clusters de calcul spécialisés dans une infrastructure de télécommunications distribuée.
 
-[13]: http://aerospaceresearch.net/constellation/
+[^13]: http://aerospaceresearch.net/constellation/
 
-[14]: Satellites Bolinhas (Brésil) http://www.youtube.com/user/bvianna?feature=watch
+[^14]: Satellites Bolinhas (Brésil) http://www.youtube.com/user/bvianna?feature=watch
 
-[15]: MSST: Mouvement Sans Satellites http://devolts.org/msst/
+[^15]: MSST: Mouvement Sans Satellites http://devolts.org/msst/
 
-[16]: http://devolts.org/msst/?page_id=2
+[^16]: http://devolts.org/msst/?page_id=2
