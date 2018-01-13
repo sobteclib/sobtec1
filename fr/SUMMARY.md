@@ -29,8 +29,10 @@
 
 * * *
 
- * [Contributions + remerciements](content/17contributions-et-remerciments.md)
- * [Épilogue](content/18epilogue.md)
+ * [Contributions](content/17contributions.md)
+ * [Remerciements](content/18remerciements.md)
  
+Junio 2014
 
- 
+[![creative commons cc-by-sa
+license](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by-sa_petit.png)](http://creativecommons.org/licenses/by-sa/4.0/deed.es_ES)
