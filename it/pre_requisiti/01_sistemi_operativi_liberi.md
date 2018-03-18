@@ -9,23 +9,23 @@
 --------
 
 
-Sono passati ormai 30 anni dalla nascita del movimento per il software libero, il cui obiettivo è quello di promuovere software che tuteli la libertà dell'utenza e della comunità.
-Questo software viene denominato «libero» (in riferimento alla libertà e non al prezzo [^2]. 
-Alcuini programmi proprietari come Photoshop sono eccessivamente costosi, altri come Flash sono gratuiti; a prescindere, in entrambi i casi l'utente viene sottomesso al controllo del produttore del software.
+Sono passati ormai 30 anni dalla nascita del movimento per il software libero, il cui obiettivo è promuovere software che tuteli la libertà dell'utenza e della comunità.
+Questo software viene denominato «libero» (in riferimento alla libertà e non al prezzo) [^2]. 
+Alcuni programmi proprietari come Photoshop sono eccessivamente costosi, altri come Flash sono gratuiti; a prescindere, in entrambi i casi l'utente viene sottomesso al controllo del produttore del software.
 
 Parecchie cose sono cambiate da quando abbiamo cominciato.
-Nei paesi sviluppati del mondo odierno chiunque possiede un computer (a volte chiamati «telefonini») con cui collegarsi a Internet.
-Il software proprietario continua imponendo il suo controllo attraverso funzioni informatiche ad utenti completamente ignari di esse. Inoltre ora è possibile imporre tale controllo anche attraverso nuovi modelli _SaaSS_ (Service as a Software Substitute), ovvero «Servizio Surrogato del Software»  che permette a un computer esterno di eseguire funzioni sul tuo dispositivo.
+Nei paesi ricchi del mondo chiunque possiede un computer (a volte chiamati «telefonini») con cui collegarsi a Internet.
+Il software proprietario impone il proprio controllo inserendo funzionalità nascoste, e gli utenti sono completamente ignari di esse. E' possibile inoltre perseguire questo scopo anche attraverso i nuovi modelli _SaaSS_ (Service as a Software Substitute), ovvero «Servizio Surrogato del Software»  che permette a un computer esterno di eseguire funzioni sul tuo dispositivo.
 
-Sia il software proprietario che i SaaSS, possono spiare, incatenare e perfino attaccare i loro utenti.
-I frequenti abusi nei servizi e prodotti del software proprietario sono possibili proprio perché gli utenti non hanno nessun controllo.
-Infatti, questa è la differenza fondamentale: tanto il software proprietario come i SaaSS sono sotto il controllo esclusivo (spesso di aziende o dello Stato).
-Mentre il software libero, al contrario, offre in mano a tutti i suoi utenti questo potere.
+Sia il software proprietario che i SaaSS, possono spiare, imprigionare e perfino attaccare i propri utenti.
+I frequenti abusi nei servizi e prodotti software proprietari sono possibili proprio perché gli utenti non hanno alcun controllo.
+Infatti, questa è la discriminante fondamentale: tanto il software proprietario qaunto i SaaSS sono sotto il controllo esclusivo (spesso di aziende o dello Stato).
+Mentre il software libero, al contrario, lascia in mano a tutti i propri utenti questo potere.
 
 ### Il Controllo
 
 Perché il controllo è così importante? Perché la libertà implica poter assumere il controllo della propria vita.
-Impiegando un software per svolgere delle attività attinenti alla tua vita, la tua libertà dipenderà esclusivamente dal controllo che puoi esercitare su di esso.
+Impiegando un software per svolgere delle attività attinenti alla propria vita, la libertà dipenderà esclusivamente dal controllo che è possibile esercitare.
 Meriti d'avere tutto il controllo sui programmi che utilizzi, soprattutto se vengono impiegati per realizzare dei compiti a te indispensabili.
 
 Affinchè l'utenza possa assumere il controllo dei programmi impiegati sono indispensabili quattro **libertà essenziali.** [^3]
@@ -33,137 +33,121 @@ Affinchè l'utenza possa assumere il controllo dei programmi impiegati sono indi
 0. Libertà di eseguire il programma come si desidera, per qualsiasi scopo.
 
 1. Libertà di studiare il codice sorgente del programma e di modificarlo in modo da adattarlo alle proprie necessità.
-I programmatori scrivono i programmi in un determinato linguaggio di programmazione (qualcosa di simile all'inglese combinato con l'algebra), cosa che viene denominata «codice sorgente».
-Chiunque sia in grado di programmare e abbia a sua disposizione il codice sorgente del programma può leggere tale codice, capire i suoi meccanismi e dunque modificarlo.
-Invece, quando si ha unicamente a disposizione il programma come eseguibile binario (cioè, una lista di numeri eseguibili dal computer, ma difficilmente decifrabile per noi umani), capire il programma e modificarlo a piacere diventa un compito al quanto complesso.
+I programmatori scrivono il codice in un determinato linguaggio (qualcosa di simile all'inglese combinato con l'algebra): il «codice sorgente».
+Chiunque sia in grado di programmare e abbia a propria disposizione il codice sorgente può leggerlo, comprenderne il funzionanmento e dunque modificarlo.
+Invece, quando si ha unicamente a disposizione il programma come eseguibile binario (cioè, una lista di numeri comprensibile dal computer, ma difficilmente decifrabile per noi umani), capirlo e modificarlo a piacere diventa un compito alquanto complesso.
 
-2. Libertà di ridistribuire copie del programma quando lo desideri. Questo non è un obbligo è una possibilitá.
-Che il programma sia libero non implica che una persona debba fare delle copie oppure debbano farti delle copie.
-Mentre distribuire programmi senza le libertà essenziali è un affronto verso chi l'utilizza. Chiaramente se non si copiano e se ne fa un uso semplicamente privato questo rispetta la libertá e non rappresenta un danno per nessuna persona.
+2. Libertà di ridistribuire copie del programma, se lo si desidera. Non è un obbligo, ma una possibilitá. Un software libero non implica la necessità di farne o riceverne copie. Ma distribuire programmi senza queste libertà essenziali è un affronto all'utente. Ovviamente se ne si fa un uso semplicamente privato, senza presenza di copie, si rispetta comunque la libertá e non si arreca alcun danno.
 
 3. Libertà di migliorare il programma e distribuirne pubblicamente i miglioramenti apportati.
 
-Le due prime libertà garantiscono ad ogni utente la possibilità di controllare individualmente il programma.
-Le altre due invece, permettono a un qualunque gruppo di utenti di **controllare collettivivamente** l'uso del software.
-L'intero insieme delle quattro libertà permette che tutti gli insieme si assuma il controllo completo sul programma.
-Se una di queste libertà va a mancare o viene modificata il programma non è libero, è proprietario e quindi ingiusto.
+Le prime due libertà garantiscono ad ogni utente la possibilità di controllare individualmente il software.
+Le altre invece, permettono a un qualunque gruppo di utenti di **controllare collettivivamente** l'uso del software.
+L'insieme delle quattro libertà permette il controllo completo sul programma.
+Se una di queste libertà viene meno o viene modificata il programma non è libero, diviene proprietario e quindi ingiusto.
 
-In vari ambiti pratici vengono impiegate anche opere di vario genere, tipo ricette di cucina; materiale didattico (libri di testo, manuali, dizionari ed enciclopedie); tipi di caratteri; diagrammi circuitali per la produzione hardware; oppure stampanti 3D per la manifattura di oggetti funzionali (non necessariamente ornamentali).
-Anche se tutte queste ed altre opere non appartengono alla categoria del software, il movimento del software libero tenta di accogliere questo vasto insieme nello stesso modo, cioè applicando su di esse lo stesso ragionamento di base e arrivando la stessa conclusione: tutte queste opere devono garantire le quattro libertà essenziali.
+In diversi ambiti pratici sono impiegate anche opere dell'ingegno di vario genere, ad esempio: ricette di cucina, materiale didattico (libri di testo, manuali, dizionari ed enciclopedie), font, circuiti per la produzione hardware, oppure stampanti 3D per la manifattura di oggetti (non necessariamente ornamentali).
+Anche se tutte queste e molte altre non appartengono alla categoria del software, il movimento del software libero tenta di racchiudere anche questo vasto insieme, applicando su di esse lo stesso ragionamento di base e arrivando alla stessa conclusione: tutte queste opere devono garantire le quattro libertà essenziali.
 
-Il software libero permette di sperimentare ed aggiungere modifiche a un determinato programma, così da fargli realizzare quel che a noi serve (oppure eliminare ciò noi non interessa).
+Il software libero permette di sperimentare e modificare un programma, perchè si adatti ai nostri bisogni (oppure di eliminare quanto non ci interessa).
 Modificare il software può risultare fuori luogo per chi è abituato alle scatole chiuse del software proprietario, ma nel mondo del software libero è consuetudine, inoltre rappresenta un ottimo modo per imparare a programmare.
-Persino il passatempo di aggiustare le proprie macchine, usanza comune in vari paesi, viene ostacolato dal fatto che ora le vetture portano all'interno del software proprietario.
+Persino il passatempo di aggiustare le proprie automobili, usanza comune in vari paesi, viene ostacolato dall'utilizzo di software proprietario all'interno dei veicoli.
 
 
-### L'ingiustizia del privativo
+### L'ingiustizia dell'esclusività
 
 Se le persone non controllano il programma, è il software a controllarle.
 
-Nel caso del software proprietario, esiste sempre un'entità (il «proprietario» del programma) che controlla il programma ed e' proprio attraverso il programma che usa il suo potere e decide come e chi lo usa.
-Un programma che non è libero è dunque oppressore, uno strumento di potere ingiusto.
+Nel caso del software proprietario, esiste sempre un'entità (il «proprietario») che controlla il programma, attraverso il quale esercita il proprio potere e decide come e chi dovrà utilizzarlo.
+Un programma non libero è fonte di oppresssione, di ingiustizia.
 
-Nei casi estremi (ormai diventati quasi normali), i programmi proprietari sono progettati per spiare, limitare, censurare o abusare di chi lo usa [^4].
-Cosa che vien fatta, ad esempio, dal sistema operativo degli i-cosi [^5] di Apple e anche dai dispositivi mobili Windows con processori ARM.
-I firmware dei telefonini, il navigatore Google Chrome per Windows e lo stesso sistema operativo, includono una backdoor universale che permette a una certa azienda di modificare programmi in modalità remota senza bisogno di permessi.
+Nei casi estremi (ormai quasi normali), il codice proprietario è progettato per spiare, limitare, censurare o abusare degli utenti [^4].
+Strategia messa in atto, ad esempio, dalla famiglia Ios [^5] di Apple e dai dispositivi mobili Windows con processori ARM.
+
+I firmware dei telefonini, il navigatore Google Chrome per Windows e lo stesso sistema operativo, includono una backdoor universale che permette all'azienda di modificare programmi in modalità remota senza bisogno di permessi.
 Il Kindle di Amazon permette la cancellazione dei libri tramite un'apposita backdoor.
 
-Col proposito di finire con l'ingiustizia del software proprietario, il movimento per il software libero sviluppa programmi liberi così da garantire  agli utenti le proprie libertà.
-Movimento che nasce con lo sviluppo del sistema operativo libero GNU nel 1984.
+Per mettere fine all'ingiustizia del software proprietario, il movimento per il software libero sviluppa programmi liberi per garantire agli utenti le proprie libertà.
+Il movimento nasce con lo sviluppo del sistema operativo libero GNU nel 1984.
 Ad oggi, milioni di computer funzionano con **GNU** [^6] , principalmente con la combinazione **GNU/Linux** [^7].
 
-Distribuire programmi senza concederne le dovute libertà, implica un maltrattamento e un abuso per chi usa quei programmi.
-La non distribuzione di un programma, invece, non genera danni per nessuna persona.
-Certo, se scrivi un software e lo usi solo per te non stati facendo male, al massimo sprechi la possibilità di _fare del bene_ favorirendo qualche altra persona che ne avrebbe bisogno, cosa che però è ben diversa da _far del male_.
-Quindi, quando affermiamo che tutto il software devovrebbe essere libero, intendiamo che tutte le copie di un programma messe a disposizione ad altri dovrebbero concedere le quattro libertà essenziali, ma non che tutti coloro che sviluppano programmi debbano concedere obbligatoriamente delle copie in giro ad altre persone.
+Distribuire programmi senza concedere le dovute libertà, significa vessare e abure degli utenti. La non distribuzione, invece, non arreca alcun danno. Certo, se scrivi un software e lo usi solo per te non stai facendo male, al massimo sprechi la possibilità di _fare del bene_, aiutando qualche altra persona che ne avrebbe bisogno, cosa che però è ben diversa da _far del male_.
+Quindi, quando affermiamo che tutto il software dovrebbe essere libero, intendiamo che tutte le copie di un programma messe a disposizione di altri dovrebbero concedere le quattro libertà essenziali, ma non che tutti coloro che sviluppano programmi debbano concedere obbligatoriamente copia ad altre persone.
 
 
 ### Software proprietario e SaaSS
 
-Il software proprietario è stato il primo mezzo impiegato dalle aziende per prendersi il controllo dei compiti informatici delle persone. Oggi tale controllo viene spesso imposto attraverso i servizi chiamati SaaSS (_Service as a Software Substitute_), tradotto in italiano sarebbe «Servizio come Surrogato del Software», ovvero un servizio che permette a un computer esterno di eseguire alcuni  compiti sui quali non abbiamo assolutamente il controllo.
+Il software proprietario è stato il principale mezzo impiegato dalle aziende per controllare le attività informatiche delle persone. Oggi tale controllo viene spesso imposto attraverso i servizi chiamati SaaSS (_Service as a Software Substitute_), tradotto in italiano sarebbe «Servizio come Surrogato del Software», ovvero un servizio che permetta a un computer esterno di eseguire alcuni compiti sui quali non abbiamo assolutamente il controllo.
 
-Anche se di solito i programmi all'interno dei server fornitori di SaaSS sono proprietari, tali server possono anche includere o essere interamente progettati utilizzando software libero.
-Purtroppo, l'utilizzo in sé dei SaaSS provoca le stesse ingiustizie inerenti all'utilizzo del software proprietario: sono due percorsi che portano alla stessa cattiva fine.
-Si consideri, per esempio, un SaaSS per le traduzioni: l'utente invia una o varie frasi al server, il server traduce (per esempio dall'inglese all'italiano) e poi reinvia il testo tradotto all'utente.
+Anche se di solito i programmi sui server fornitori di SaaSS sono proprietari, questi servizi possono anche includere o essere interamente progettati utilizzando software libero.
+Purtroppo, l'utilizzo in sé dei SaaSS riporta alle ingiustizie connesse all'utilizzo del software proprietario: sono due strade che conducono alla stessa pessima conclusione.
+Si consideri, per esempio, un SaaSS per le traduzioni: l'utente invia una o varie frasi al server, il server traduce (per esempio dall'inglese all'italiano) e poi rimanda il testo tradotto all'utente.
 In questo modo, il compito di traduzione è sotto il controllo dell'amministratore del server e non dell'utente.
 
-Se usi un servizio SaaSS, chi controlla il server controlla anche i tuoi compiti informatici.
-Questo implica che affidi tutti i dati necessari all'amministratore del server, il che può essere costretto un giorno a fornire tale informazioni allo Stato o a terzi; quindi una domanda sorge spontanea: **chi è che sta servendo veramente questo servizio?** [^8]
+Se utilizzi un servizio SaaSS, chi gestisce il server controlla anche le tue attività informatiche. Tutti le richieste e i dati relativi sono affidati al gestore dell'infrastruttura, che un giorno potrebbe essere costretto a fornire tale informazioni allo Stato o a terzi; quindi una domanda sorge spontanea: **chi sta servendo veramente questo servizio?** [^8]
 
 
 ### Ingiustizie primarie e secondarie
 
-Impiegando programmi privati o SaaSS si provoca un danno, poiché concedi ad altri di esercitare un potere ingusto su di te.
+Impiegare programmi proprietari o SaaSS e' un problema per tutti, poiché si permette ad altri di esercitare un potere ingiusto su di noi.
 Per il proprio bene si dovrebbe evitarne l'uso.
-Se l'utente acconsente di "non condividere" si danneggiano anche gli altri.
-Accettare questo tipo di compromesso è un male, smettere è meno peggio, ma la cosa giusta è non iniziare affatto.
+Se un singolo utente acconsente alla "non condivisione", danneggia anche gli altri. Accettare questo tipo di compromesso è un male, smettere è il meno peggio, ma la cosa giusta è non iniziare affatto.
 
-Ci sono situazioni in cui l'uso del software proprietario incoraggia altre persone a farne uso.
-Skype è un chiaro esempio: se qualcuno impiega il loro client, forza altre persone a farne uso a discapito delle proprie libertà.
+Ci sono situazioni in cui l'uso del software proprietario incoraggia altre persone a farne uso. Skype è un chiaro esempio: se qualcuno impiega il loro client, forza altre persone a farne uso a discapito delle proprie libertà.
 Anche Google Hangouts presenta lo stesso problema.
 È del tutto sbagliato proporre software di questo genere.
-Infatti, dobbiamo rifiutarci di utilizzare questi programmi, anche per pochi istanti, perfino nei computer di altri individui.
+Dobbiamo rifiutarci di utilizzare questi programmi, anche occasionalmente, perfino nei computer altrui.
 
-Riassumendo, si può dire che l'impiego di programmi privativi e SaaSS consente di premiare l'oppressore, farne propaganda, promuovendone lo sviluppo di tale programma o «servizio» e spingendo sempre più persone a sottostare al dominio di un unica azienda proprietaria.
-Nel caso un cui l'utente corrisponde a un ente pubblico o una scuola, i danni indiretti *in tutte le sue forme* raggiungono una dimensione maggiore.
+Riassumendo, si può dire che l'impiego di programmi proprietari e SaaSS favorisca l'oppressore, lo aiuti nella propaganda, ne promuova la crescita e spinga sempre più persone a sottostare al dominio di un'unica azienda.
+Nel caso un cui l'utente corrisponda a un ente pubblico o una scuola, i danni indiretti *in tutte le forme possibili* raggiungono una dimensione maggiore.
 
 
 ### Il software libero e lo Stato
 
-
 Gli enti pubblici sono stati concepiti per i cittadini, e non come istituzioni indipendenti.
-Per tanto, tutti i compiti informatici che svolgono, li svolgono facendo le veci dei cittadini e delle cittadine.
-Hanno dunque il dovere di mantenere il totale controllo su tali compiti ai fini di garantire la loro corretta esecuzione.
-È questa, infatti, la sovranità informatica dello Stato.
-Esattamente per questo che nessun ente dovrebbe mai permettere che il controllo dei compiti informatici dello Stato venga delegati e sovlti da imprese private.
-Per avere un totale controllo delle mansioni informatiche svolte a favore dei cittadini, gli enti pubblici non dovrebbero impiegare software proprietario (software sottoposto al controllo di entità non statali).
+Pertanto, anche nelle loro funzioni informatiche, fanno le veci dei cittadini e delle cittadine. Hanno dunque il dovere di mantenere il totale controllo su tali compiti al fine di garantire la loro corretta esecuzione.
+È questa, infatti, la "sovranità informatica" dello Stato.
+Proprio per questo nessun ente dovrebbe delegare o far svolgere da imprese private il proprio ruolo. Per avere un totale controllo delle mansioni informatiche svolte a favore dei cittadini, gli enti pubblici non dovrebbero impiegare software proprietario (software sottoposto al controllo di entità non statali).
 
-Delegare lo svolgimento di tali compiti a un servizio esterno programmato ed eseguito da entità non interne allo Stato sarebbe ugualmente sbagliato, poiché in questo modo farebbero uso di SaaSS e non avrebbero il controllo di ciò che succede.
-Il software proprietario non offre protezione alcuna contro una minaccia fondamentale: il suo sviluppatore, che potrebbe facilitare terzi a portare a compimento un attacco.
-Prima di correggere gli errori di Windows, Microsoft li fornisce a alla NSA, la agenzia di spionaggio digitale del governo degli Stati Uniti [^9].
-Non abbiamo conoscenza se Apple fa lo stesso, ma è sempre sotto la stessa pressione statale di Microsoft. 
+Delegare lo svolgimento di tali compiti a un servizio esterno sviluppato e eseguito su piattaforme non interne alle strutture statali sarebbe comunque sbagliato, ricadrebbe nell'utilizzo di SaaSS e non permetterebbe il controllo di quanto accade.
+Il software proprietario non offre protezione alcuna contro una minaccia fondamentale: il proprio sviluppatore, che potrebbe facilitare l'attacco da parte di terzi. La Microsoft, prima di correggere gli errori di Windows, li comunica alla NSA, l'agenzia di intelligence del governo degli Stati Uniti [^9].
+Non sappiamo se Apple faccia lo stesso, ma è sicuramente sottoposta, come Microsoft, a pressioni da parte dello Stato. 
 
 
 ### Software libero e l'educazione
 
-Le scuole (e tutte le istituzioni educative a sua volta) influiscono sul futuro della società tramite i loro insegnamenti.
-Nel campo informatico, per garantire che tale influenza sia positiva, le scuole dovrebbero insegnare unicamente software libero.
-Insegnare l'uso di un programma proprietario equivale ad imporne la dipendenza, azione del tutto contraria alla missione educativa.
-Incentivando l'uso tra gli studenti di software libero, le scuole reindirizzano il futuro della società verso la libertà, e aiuteranno alla formazione di programmatori di talento.
+Le scuole (e tutte le istituzioni operanti nel campo dell'educazione) influiscono sul futuro della società tramite i loro insegnamenti.
+Nel campo informatico, per garantire un'influenza positiva, le scuole dovrebbero insegnare unicamente software libero.
+Insegnare l'uso di un programma proprietario equivale a imporre la dipendenza da esso, azione del tutto contraria alla missione educativa.
+Incentivando l'uso di software libero tra gli studenti, le scuole indirizzeranno il futuro della società verso la libertà, e contribuiranno alla formazione di programmatori di talento.
 
-Inoltre, così facendo, le scuole trasmetterebbero agli studenti l'abitudine di cooperare ed aiutare agli altri.
+In questo modo le scuole abituerebbero inoltre gli studenti alla cooperazione e all'aiuto reciproco.
 Le scuole, cominciando dalle elementari, dovrebbero dire agli studenti: *«Cari studenti, questo è un luogo dove si condivide il sapere. Se porti a scuola del software devi dividerlo con gli altri bambini. Devi mostrare il codice sorgente ai compagni, se qualcuno vuole imparare. Quindi è vietato portare a scuola software proprietario se non per studiare come funziona ai fini di poterlo riprodurre».*
 
-Seguendo gli interessi degli sviluppatori di software proprietario, gli studenti non potrebbero né acquisire l'abitudine di condividere il software né  sviluppare le capacità per modificarli, qualora ci fosse la curiosità ed interesse tra loro.
-Cosa che implica una mala formazione accademica.
+Sottostando agli interessi degli sviluppatori di software proprietario, gli studenti non potrebbero né acquisire l'abitudine di condividerlo né sviluppare le capacità per modificarlo, seppure fossero curiosi e interessati. Si tratta di una pessima formazione dal punto di vista accademico.
 Nella sezione **GNU Education** [^10] è possibile trovare informazione dettagliate sull'uso di software libero nelle scuole e nelle istituzioni educative.
-
 
 ### Software libero: molto più che «vantaggioso»
 
 Molto speso mi viene chiesto di descrivere i «vantaggi» associati al software libero.
-Il termine «vantaggi» però è del tutto insignificante quando si parla di libertà.
-La vita senza libertà è tirannia, cosa che si applica tanto alla informatica come a qualunque altra attività attinente alla nostra vita. Dobbiamo rifiutarci di concedere il controllo dei nostri compiti informatici ai proprietari di programmi o servizi informatici.
-È quel che deve essere fatto, per ragioni egoistiche o no
+Il termine «vantaggio» però è del tutto insignificante quando si parla di libertà. La vita senza libertà è tirannia, e questo si applica tanto all'informatica quanto al resto delle attività umane. Dobbiamo rifiutarci di concedere il controllo della nostra vita informatica ai proprietari di programmi o servizi.
+È la cosa giusta da fare, sia che avvenga per semplice interesse personale, oppure no.
 
 La libertà implica la possibilità di cooperare con altri.
-Negare tale libertà è significa voler dividere le persone, che porta unicamente ad opprimerle.
-Nella comunità del software libero siamo molto consci dell'importanza della libertà di cooperare, appunto perché il nostro lavoro corrisponde a una cooperazione organizzata.
-Se un qualche conoscente viene a trovarti e ti vede usare un programma, questa persona potrebbe chiederti una copia.
-Qualunque programma che impedisce la sua libera distribuzione, o ti impone l'obbligo di *non cooperare*, è antisociale.
+Negare tale libertà significa voler isolare le persone, il che porta unicamente ad opprimerle.
+Nella comunità del software libero siamo molto consci dell'importanza della libertà di cooperare, appunto perché il nostro lavoro corrisponde a una cooperazione organizzata. Se un conoscente viene a trovarti e ti vede usare un programma, potrebbe chiederti una copia. Qualunque programma che impedisca la libera distribuzione, o ti imponga l'obbligo di *non cooperare*, è antisociale.
 
-In informatica, la cooperazione implica la distribuzione della stessa copia di un programma fra diversi utenti.
-Ma a sua volta, implica anche la distribuzione delle sue versioni modificate.
+In informatica, la cooperazione implica la distribuzione della stessa copia di un programma fra diversi utenti, ma anche la distribuzione dell'eventuali versioni modificate.
 Il software libero promuove queste forme di cooperazione, mentre quello proprietario le vieta.
-Anche il SaaSS impedisce di cooperare: se deleghi i tuoi compiti informatici a un servizio web custodito nel cloud o in un server esterno, mediante una copia di un programma altrui, non puoi nè vedere nè toccare il software usato, di conseguenza non puoi né distribuirlo liberamente né modificarlo.
+Anche il SaaSS impedisce di cooperare: se deleghi una certa funzionalità a un servizio web custodito nel cloud o in un server esterno, realizzata da un programma esterno, non puoi nè vedere nè toccare il software usato, di conseguenza non puoi né distribuirlo liberamente né modificarlo.
 
 ### Conclusioni
 
 Tutti noi meritiamo di avere il controllo della nostra vita informatica.
-Come possiamo ottenerlo? Rifiutandoci di impiegare software proprietario nei nostri computer oppure quelli di uso frequente, e anche, rifiutando i servizi SaaSS **Sviluppando software libero** [^11] per chi lavora nel campo della programmazione; rifiutando di sviluppare o promuovere software proprietario o SaaSS e **diffondendo queste idee** [^12].
+Come possiamo ottenerlo? Rifiutandoci di impiegare software proprietario sui nostri computer o quelli che usiamo più di frequente. Rifiutando i servizi SaaSS **Sviluppando software libero** [^11]. Rifiutando di sviluppare o promuovere software proprietario o SaaSS e **diffondendo queste idee** [^12].
 
-Noi, e altri migliaia di utenti, continuiamo a farlo sin dal 1984, e grazie a questo sforzo oggi abbiamo il sistema operativo libero GNU/Linux, che tutti: da chi lo sviluppa e chi lo usa, possono modificare, distribuire e utilizzare.
-Unitevi alla nostra causa, ben sia come programmatore oppure attivista.
+Noi, e altri migliaia di utenti, continuiamo a farlo sin dal 1984, e grazie a questo sforzo oggi abbiamo il sistema operativo libero GNU/Linux, che tutti (sviluppatori e utenti), possono modificare, distribuire e utilizzare.
+Unitevi alla nostra causa, come programmatori o come attivisti.
 Facciamo in modo che tutti gli utenti di computer siano liberi!
 
 
@@ -171,9 +155,9 @@ Facciamo in modo che tutti gli utenti di computer siano liberi!
 **Richard Matthew Stallman**
 
 Programmatore statunitense e fondatore del movimento per il software libero nel mondo.
-Tra i suoi meriti di programmazione all'interno del progetto GNU spiccano la realizzazione dell'editore di testo Emacs, il compilatore GCC e il debugger GDB.
-È principalmente conosciuto per lo sviluppo del quadro di riferimento morale, politico e legale all'interno del movimento del software libero, come alternativa di sviluppo e distribuzione al software proprietario.
-È stato anche l'inventore del concetto di CopyLeft (anche se non del termine), metodo per concedere in licenza il software garantendo che tanto il suo utilizzo, come ulteriori modifiche, rimangano libere e sempre a portata della comunità di utenti e sviluppatori.
+All'interno del progetto GNU ha lavorato alla realizzazione dell'editor di testo Emacs, il compilatore GCC e il debugger GDB.
+Noto principalmente per lo sviluppo del quadro di riferimento morale, politico e legale del movimento del software libero, quale alternativa di sviluppo e distribuzione al software proprietario.
+È stato anche l'inventore del concetto di CopyLeft (anche se non del termine). Un metodo per concedere in licenza il software garantendo che tanto l'utilizzo, come le ulteriori modifiche, rimangano libere e sempre a portata della comunità di utenti e sviluppatori.
 
 
 ----
